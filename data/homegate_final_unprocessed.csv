@@ -1,0 +1,2187 @@
+,price,type,room_num,floor,area_m2,floors_num,year_built,last_refurbishment,address
+0,"CHF1,235,000.–",Apartment,2.5,GF,138 m2,4.0,2015.0,2018.0,8914 Aeugst am Albis
+1,"CHF650,000.–",Apartment,4.5,1,121 m2,,1987.0,2021.0,"Via Vecchio Canale 2, 6982 Agno"
+2,"CHF1,062,900.–",Apartment,2.5,1,63 m2,,,,"Via Campione, 6816 Bissone"
+3,"CHF1,125,500.–",Attic flat,2.5,3,63 m2,,,,"Via Campione, 6816 Bissone"
+4,"CHF2,180,700.–",Apartment,3.5,2,125 m2,,,,"Via Campione, 6816 Bissone"
+5,"CHF2,695,600.–",Apartment,5.5,GF,180 m2,,,,"Via Campione, 6816 Bissone"
+6,"CHF3,700,000.–",Apartment,6.0,1,223 m2,3.0,2022.0,,4103 Bottmingen
+7,"CHF799,000.–",Apartment,3.5,1,110 m2,4.0,2011.0,,"Mülibachstrasse 55, 8107 Buchs"
+8,"CHF990,000.–",Attic flat,3.5,2,214 m2,,2001.0,,"Sonnenhaldenstrasse 11A, 9243 Jonschwil"
+9,"CHF660,000.–",Apartment,2.5,GF,90 m2,,2023.0,,8483 Kollbrunn
+10,"CHF910,000.–",Apartment,3.5,3,119 m2,,2023.0,,8483 Kollbrunn
+11,"CHF1,180,000.–",Duplex,5.5,GF,173 m2,4.0,2023.0,,8483 Kollbrunn
+12,"CHF1,390,000.–",Duplex,5.5,4,184 m2,2.0,2023.0,,8483 Kollbrunn
+13,"CHF890,000.–",Apartment,4.5,1,103 m2,,2022.0,,"Remisbergstrasse 14, 8280 Kreuzlingen"
+14,"CHF495,000.–",Apartment,2.5,2,64 m2,,2022.0,,6900 Lugano
+15,"CHF1,290,000.–",Terrace flat,5.5,,175 m2,,2022.0,,"Haldenstrasse 30, 9548 Matzingen"
+16,"CHF520,000.–",Apartment,4.5,1,88 m2,,1977.0,,"Gartenweg 4, 5616 Meisterschwanden"
+17,"CHF950,000.–",Apartment,3.5,1,90 m2,,,,"Bachmattstrasse, 8932 Mettmenstetten"
+18,"CHF1,370,000.–",Apartment,4.5,GF,110 m2,,,,"Bachmattstrasse, 8932 Mettmenstetten"
+19,"CHF1,440,000.–",Apartment,5.5,1,131 m2,,,,"Bachmattstrasse, 8932 Mettmenstetten"
+20,"CHF650,000.–",Apartment,4.5,1,98 m2,,1992.0,2017.0,"Loonstrasse 33, 5452 Oberrohrdorf"
+21,"CHF1,055,000.–",Apartment,4.5,GF,116 m2,,1982.0,,"Rebackerstrasse, 8955 Oetwil an der Limmat"
+22,"CHF1,050,000.–",Duplex,4.5,1,157 m2,2.0,1993.0,2022.0,"Schmiedestrasse 16, 4133 Pratteln"
+23,"CHF830,000.–",Apartment,4.5,2,127 m2,,,,"Herrenweg 8, 5734 Reinach AG"
+24,"CHF855,000.–",Apartment,4.5,GF,127 m2,,,,"Herrenweg 8, 5734 Reinach AG"
+25,"CHF1,075,000.–",Attic flat,4.5,3,144 m2,,,,"Herrenweg 8, 5734 Reinach AG"
+26,"CHF1,085,000.–",Attic flat,4.5,3,144 m2,,,,"Herrenweg 12, 5734 Reinach AG"
+27,"CHF2,400,000.–",Apartment,6.5,14,200 m2,,,2019.0,"Seehaldenstrasse 28, 9404 Rorschacherberg"
+28,"CHF600,000.–",Apartment,4.5,GF,75 m2,,1972.0,2022.0,"Lehnstrasse 32, 6023 Rothenburg"
+29,"CHF895,000.–",Apartment,4.5,1,121 m2,4.0,2015.0,,"Thayngerstrasse 63, 8207 Schaffhausen"
+30,"CHF510,000.–",Apartment,2.5,3,58 m2,,1972.0,2021.0,"Bahnhofstrasse 114, 6423 Seewen SZ"
+31,"CHF580,000.–",Apartment,3.5,GF,85 m2,,,,"Erlenstrasse, 5462 Siglistorf"
+32,"CHF815,000.–",Apartment,5.5,1,128 m2,,,,"Erlenstrasse, 5462 Siglistorf"
+33,"CHF1,400,000.–",Roof flat,6.5,4,160 m2,,2009.0,,"Franco-Suisse 10, 2072 St-Blaise"
+34,"CHF1,480,000.–",Attic flat,5.5,3,210 m2,,2012.0,,4332 Stein AG
+35,"CHF1,490,000.–",Terrace flat,5.5,,180 m2,3.0,2022.0,,"Fürstenlandstrasse 69, 9500 Wil"
+36,"CHF951,000.–",Apartment,2.5,1,92 m2,,,,"Ernst Jung Gasse 16-18, 8400 Winterthur"
+37,"CHF1,199,000.–",Apartment,3.5,1,113 m2,,,,"Ernst Jung Gasse 16-18, 8400 Winterthur"
+38,"CHF840,000.–",Apartment,3.5,1,97 m2,,2022.0,,"Ferenbacherrain 16, 8909 Zwillikon"
+39,"CHF2,600,000.–",Apartment,3.5,4,124 m2,6.0,2012.0,,"Wolframplatz 11, 8045 Zürich"
+40,"CHF1,390,000.–",Terrace flat,4.5,5,176 m2,,2019.0,,"Eigerweg 20, 4912 Aarwangen"
+41,"CHF865,000.–",Apartment,4.5,3,98 m2,,,2020.0,8106 Adlikon b. Regensdorf
+42,"CHF330,000.–",Apartment,3.5,2,70 m2,,1960.0,2010.0,"Via Ponte Vecchio 2, 6982 Agno"
+43,"CHF790,000.–",Attic flat,4.5,3,137 m2,,2011.0,,"Via cantonale 29/A, 6982 Agno"
+44,"CHF470,000.–",Apartment,2.5,GF,62 m2,,,,"Via Montalbano, 6925 Agra"
+45,"CHF2,600,000.–",Apartment,3.5,4,124 m2,6.0,2012.0,,"Wolframplatz 11, 8045 Zürich"
+46,"CHF1,390,000.–",Terrace flat,4.5,5,176 m2,,2019.0,,"Eigerweg 20, 4912 Aarwangen"
+47,"CHF865,000.–",Apartment,4.5,3,98 m2,,,2020.0,8106 Adlikon b. Regensdorf
+48,"CHF330,000.–",Apartment,3.5,2,70 m2,,1960.0,2010.0,"Via Ponte Vecchio 2, 6982 Agno"
+49,"CHF790,000.–",Attic flat,4.5,3,137 m2,,2011.0,,"Via cantonale 29/A, 6982 Agno"
+50,"CHF470,000.–",Apartment,2.5,GF,62 m2,,,,"Via Montalbano, 6925 Agra"
+51,"CHF3,251,000.–",Apartment,4.5,,149 m2,5.0,2021.0,,6974 Aldesago
+52,"CHF6,630,000.–",Apartment,6.5,,400 m2,2.0,2021.0,,6974 Aldesago
+53,"CHF565,000.–",Apartment,4.5,GF,102 m2,,2012.0,,6517 Arbedo-Castione
+54,"CHF525,000.–",Apartment,,,,,,,"Ardon, 1957 Ardon"
+55,"CHF1,390,000.–",Apartment,2.5,1,66 m2,,2011.0,2011.0,"Poststrasse 100, 7050 Arosa"
+56,"CHF1,480,000.–",Apartment,5.5,GF,150 m2,1.0,1928.0,2013.0,7050 Arosa
+57,"CHF760,000.–",Apartment,2.5,1,65 m2,,,2021.0,6612 Ascona
+58,"CHF875,000.–",Roof flat,3.5,,60 m2,,,,6612 Ascona
+59,"CHF980,000.–",Apartment,2.5,1,90 m2,,1990.0,2006.0,"Via Muraccio 130, 6612 Ascona"
+60,"CHF1,190,000.–",Attic flat,4.5,3,132 m2,3.0,2022.0,,6612 Ascona
+61,"CHF1,370,000.–",Apartment,4.5,,100 m2,,2013.0,2015.0,6612 Ascona
+62,"CHF1,450,000.–",Apartment,4.5,,120 m2,3.0,1989.0,2016.0,6612 Ascona
+63,"CHF1,495,000.–",Duplex,3.5,GF,106 m2,2.0,2018.0,,"Via Circonvallazione, 6612 Ascona"
+64,"CHF2,450,000.–",Apartment,3.5,1,146 m2,5.0,,,6612 Ascona
+65,"CHF2,800,000.–",Apartment,5.5,2,190 m2,5.0,2021.0,,6612 Ascona
+66,"CHF2,885,000.–",Apartment,5.5,3,190 m2,5.0,,,6612 Ascona
+67,"CHF5,660,000.–",Duplex,5.5,4,,4.0,2021.0,2021.0,6612 Ascona
+68,"CHF3,500,000.–",Attic flat,3.5,,180 m2,,2004.0,2017.0,6340 Baar
+69,"CHF439,000.–",Apartment,2.5,18,78 m2,18.0,1963.0,1994.0,"Im Brisgi 20, 5400 Baden"
+70,"CHF745,000.–",Apartment,4.5,,162 m2,,2013.0,,6828 Balerna
+71,"CHF625,000.–",Apartment,4.5,1,,2.0,2022.0,,"Steinackerweg 21, 4710 Balsthal"
+72,"CHF855,000.–",Apartment,4.5,GF,88 m2,,1993.0,2019.0,"Auenring 2B, 8303 Bassersdorf"
+73,"CHF1,195,000.–",Apartment,4.5,GF,114 m2,,2005.0,,"Mülihalden 11, 8303 Bassersdorf"
+74,"CHF1,350,000.–",Attic flat,4.5,2,210 m2,,1983.0,2010.0,"Wiesenweg 2, 8303 Bassersdorf"
+75,"CHF840,000.–",Terrace flat,3.5,GF,116 m2,,2022.0,,"Müseigenstrasse 23, 5712 Beinwil am See"
+76,"CHF960,000.–",Terrace flat,4.5,GF,152 m2,,2022.0,,"Müseigenstrasse 23, 5712 Beinwil am See"
+77,"CHF1,460,000.–",Attic flat,3.5,,142 m2,,2016.0,,"Sandstrasse, 5712 Beinwil am See"
+78,"CHF1,480,000.–",Apartment,5.0,1,129 m2,,2009.0,,1293 Bellevue
+79,"CHF1,580,000.–",Apartment,5.5,,188 m2,,2003.0,,5454 Bellikon
+80,"CHF400,000.–",Apartment,2.5,,64 m2,,,,"Via Varrone, 6500 Bellinzona"
+81,"CHF420,000.–",Apartment,2.5,1,60 m2,,2022.0,,6500 Bellinzona
+82,"CHF1,600,000.–",Apartment,6.5,3,227 m2,3.0,2018.0,,6500 Bellinzona
+83,"CHF635,000.–",Apartment,4.5,1,135 m2,,2014.0,,6503 Bellinzona
+84,"CHF950,000.–",Apartment,3.5,1,109 m2,,2020.0,,"Bahnhofstrasse 63, 8965 Berikon"
+85,"CHF1,220,000.–",Apartment,3.5,3,87 m2,,2022.0,,"Bottmingerstrasse 49, 4102 Binningen"
+86,"CHF550,000.–",Apartment,3.5,2,75 m2,,1960.0,,"Schulstrasse 22, 4127 Birsfelden"
+87,"CHF950,000.–",Terrace flat,3.5,,,,,,"Via S. Nicolao, 6816 Bissone"
+88,"CHF1,600,000.–",Apartment,6.5,3,227 m2,3.0,2018.0,,6500 Bellinzona
+89,"CHF635,000.–",Apartment,4.5,1,135 m2,,2014.0,,6503 Bellinzona
+90,"CHF950,000.–",Apartment,3.5,1,109 m2,,2020.0,,"Bahnhofstrasse 63, 8965 Berikon"
+91,"CHF1,220,000.–",Apartment,3.5,3,87 m2,,2022.0,,"Bottmingerstrasse 49, 4102 Binningen"
+92,"CHF550,000.–",Apartment,3.5,2,75 m2,,1960.0,,"Schulstrasse 22, 4127 Birsfelden"
+93,"CHF950,000.–",Terrace flat,3.5,,,,,,"Via S. Nicolao, 6816 Bissone"
+94,"CHF3,950,000.–",Apartment,6.0,,235 m2,,,,6816 Bissone
+95,"CHF840,000.–",Duplex,3.5,,88 m2,,1900.0,2021.0,1807 Blonay
+96,"CHF425,000.–",Apartment,3.5,1,89 m2,3.0,,,2856 Boécourt
+97,"CHF995,000.–",Apartment,3.5,2,134 m2,,2022.0,,"Via Camara 41, 6932 Breganzona"
+98,"CHF595,000.–",Apartment,6.5,2,160 m2,,1973.0,2021.0,"Untere Briggasse, 3902 Brig"
+99,"CHF2,250,000.–",Terrace flat,4.5,,135 m2,,2015.0,,6645 Brione s. Minusio
+100,"CHF3,520,000.–",Apartment,4.5,,139 m2,,2020.0,,6645 Brione sopra Minusio
+101,"CHF690,000.–",Roof flat,3.5,3,72 m2,,,,"Rte de Condémine 36, 1030 Bussigny"
+102,"CHF520,000.–",Apartment,2.5,1,82 m2,2.0,,,"Im Winkel 35, 5624 Bünzen"
+103,"CHF742,000.–",Apartment,3.5,GF,98 m2,,2022.0,,"Mittelstrasse 57, 4227 Büsserach"
+104,"CHF380,000.–",Apartment,2.5,2,63 m2,,2022.0,,"Kirchgasse, 9606 Bütschwil"
+105,"CHF555,000.–",Apartment,3.5,1,91 m2,,2022.0,,"Kirchgasse, 9606 Bütschwil"
+106,"CHF945,000.–",Apartment,5.5,2,138 m2,,2022.0,,"Kirchgasse, 9606 Bütschwil"
+107,"CHF670,000.–",Apartment,5.5,,113 m2,,,2021.0,"Rossweid 3, 5619 Büttikon"
+108,"CHF1,260,000.–",Apartment,3.5,,157 m2,,2023.0,,"Zona alle Bollette, 6952 Canobbio"
+109,"CHF1,400,000.–",Apartment,4.5,3,175 m2,,2021.0,,6952 Canobbio
+110,"CHF1,350,000.–",Apartment,5.5,4,237 m2,,1975.0,,6914 Carona
+111,"CHF1,485,000.–",Loft,4.5,,200 m2,2.0,2021.0,,"Via Mera 30, 6987 Caslano"
+112,"CHF2,850,000.–",Apartment,4.5,GF,157 m2,,,,6976 Castagnola
+113,"CHF1,690,000.–",Apartment,3.5,GF,106 m2,,2010.0,,6330 Cham
+114,"CHF1,500,000.–",Apartment,2.5,1,57 m2,,2022.0,,"Via Uerts 2, 7512 Champfèr"
+115,"CHF1,980,000.–",Apartment,3.5,GF,89 m2,,2022.0,,"Via Uerts 2, 7512 Champfèr"
+116,"CHF560,000.–",Attic flat,4.5,4,104 m2,4.0,1990.0,,1971 Champlan
+117,"CHF1,450,000.–",Apartment,5.5,1,174 m2,,2014.0,,1033 Cheseaux-sur-Lausanne
+118,"CHF1,590,000.–",Apartment,6.0,3,134 m2,,1978.0,,1245 Collonge-Bellerive
+119,"CHF1,520,000.–",Apartment,5.0,2,123 m2,,1978.0,2022.0,1223 Cologny
+120,"CHF187,000.–",Apartment,,,,,,,"Conthey, 1964 Conthey"
+121,"CHF365,000.–",Apartment,,,,,,,"Conthey, 1964 Conthey"
+122,"CHF687,000.–",Apartment,5.5,2,138 m2,,2021.0,,"Haute-Rive 60, 2950 Courgenay"
+123,"CHF1,050,000.–",Apartment,4.5,1,110 m2,1.0,,,"Route des Mayens, 3963 Crans-Montana"
+124,"CHF1,520,000.–",Apartment,3.5,GF,158 m2,,2009.0,,"Route de la Combaz, 3963 Crans-Montana"
+125,"CHF1,970,000.–",Apartment,3.5,2,125 m2,,,,"Rue de Tsintres 6, 3963 Crans-Montana"
+126,"CHF2,200,000.–",Apartment,4.5,1,117 m2,,2015.0,,"Rue des Anémones, 3963 Crans-Montana"
+127,"CHF920,000.–",Apartment,3.5,2,100 m2,,1995.0,2015.0,1263 Crassier
+128,"CHF1,395,000.–",Attic flat,4.5,3,139 m2,,2022.0,,6964 Davesco
+129,"CHF375,000.–",Apartment,1.5,1,,,2006.0,2022.0,7270 Davos Platz
+130,"CHF995,000.–",Apartment,3.5,,118 m2,,2022.0,,6967 Dino
+131,"CHF920,000.–",Apartment,3.5,2,100 m2,,1995.0,2015.0,1263 Crassier
+132,"CHF1,395,000.–",Attic flat,4.5,3,139 m2,,2022.0,,6964 Davesco
+133,"CHF375,000.–",Apartment,1.5,1,,,2006.0,2022.0,7270 Davos Platz
+134,"CHF995,000.–",Apartment,3.5,,118 m2,,2022.0,,6967 Dino
+135,"CHF495,000.–",Apartment,6.0,,150 m2,,,,"Dorfstrasse 39, 8239 Dörflingen"
+136,"CHF755,000.–",Attic flat,3.5,,75 m2,,2022.0,,"St. Johannserstrasse, 5312 Döttingen"
+137,"CHF1,920,000.–",Apartment,5.5,15,158 m2,17.0,2015.0,,"Am Stadtrand 51B, 8600 Dübendorf"
+138,"CHF750,000.–",Apartment,4.5,1,126 m2,,1993.0,,"Schachenweidstrasse 101, 6030 Ebikon"
+139,"CHF693,000.–",Apartment,3.5,1,94 m2,,,,"Margritenweg, 5074 Eiken"
+140,"CHF550,000.–",Apartment,3.5,,84 m2,,2008.0,,5304 Endingen
+141,"CHF785,000.–",Duplex,5.5,,130 m2,,2004.0,,1417 Epautheyres
+142,"CHF690,000.–",Apartment,4.5,1,120 m2,,2008.0,2013.0,"Zentrum Rössli, 5018 Erlinsbach AG"
+143,"CHF1,260,000.–",Apartment,4.5,,116 m2,,,,"Hauptststrasse 33 a+b, 8272 Ermatingen"
+144,"CHF1,360,000.–",Apartment,4.5,,135 m2,,,,"Hauptstrasse 33 a+b, 8272 Ermatingen"
+145,"CHF550,000.–",Apartment,2.5,1,70 m2,,2016.0,,"Chriesipark, 6294 Ermensee"
+146,"CHF430,000.–",Apartment,2.5,,64 m2,,2024.0,,"Les Portes du Lac - Champ de Lune, 1470 Estavayer"
+147,"CHF645,000.–",Apartment,3.5,3,93 m2,,2024.0,,"Les Portes du Lac - Champ de Lune, 1470 Estavayer"
+148,"CHF785,000.–",Apartment,4.5,,120 m2,,2024.0,,"Les Portes du Lac - Champ de Lune, 1470 Estavayer"
+149,"CHF900,000.–",Roof flat,3.0,2,75 m2,3.0,1978.0,,"Er Liung 1, 7153 Falera"
+150,"CHF2,751,200.–",Apartment,3.5,GF,124 m2,,2023.0,,"Via Vitgé 6, 7017 Flims Dorf"
+151,"CHF2,798,100.–",Apartment,3.5,GF,126 m2,,2023.0,,"Via Vitgé 6, 7017 Flims Dorf"
+152,"CHF1,700,000.–",Attic flat,6.5,,208 m2,,1990.0,2014.0,"Höhenstrasse 21, 6454 Flüelen"
+153,"CHF1,080,000.–",Apartment,3.5,GF,122 m2,,2015.0,2015.0,"Promenadenstrasse 18a, 8500 Frauenfeld"
+154,"CHF1,290,000.–",Attic flat,5.5,,128 m2,2.0,2001.0,,"Letzacherstrasse 63, 8117 Fällanden"
+155,"CHF1,195,000.–",Apartment,4.5,,120 m2,,2019.0,,1272 GENOLIER
+156,"CHF620,000.–",Apartment,3.5,GF,103 m2,,2023.0,,"Via Campagnola, 6852 Genestrerio"
+157,"CHF545,000.–",Apartment,2.5,1,62 m2,,,2016.0,"Via montalbano 5, 6925 Gentilino"
+158,"CHF1,460,000.–",Apartment,3.5,,150 m2,,,,6925 Gentilino
+159,"CHF3,510,000.–",Duplex,4.5,2,250 m2,3.0,1986.0,2021.0,"Via Montalbano 7, 6925 Gentilino"
+160,"CHF2,390,000.–",Terrace flat,3.5,3,197 m2,,,,1201 Genève
+161,"CHF4,700,000.–",Apartment,7.0,2,317 m2,15.0,1984.0,2000.0,1201 Genève
+162,"CHF4,900,000.–",Apartment,7.5,1,255 m2,,1905.0,2011.0,"Rue de la Cloche 6, 1201 Genève"
+163,"CHF11,500,000.–",Roof flat,12.0,3,521 m2,,1905.0,,"Rue de la Cloche 6, 1201 Genève"
+164,"CHF1,570,000.–",Apartment,5.0,6,114 m2,,1980.0,2002.0,1202 Genève
+165,"CHF5,000,000.–",Roof flat,6.0,8,220 m2,,1951.0,2013.0,1206 Genève
+166,"CHF1,190,000.–",Apartment,3.0,5,93 m2,,,,1209 Genève
+167,"CHF4,900,000.–",Apartment,11.0,,381 m2,,1970.0,2007.0,1209 Genève
+168,"CHF395,000.–",Roof flat,3.5,3,82 m2,,,2021.0,4563 Gerlafingen
+169,"CHF910,000.–",Apartment,4.5,GF,105 m2,2.0,1972.0,,"Dorfstrasse 87, 8954 Geroldswil"
+170,"CHF345,000.–",Apartment,,,,,2021.0,,"Piazzetta San Carlo 3, 6512 Giubiasco"
+171,"CHF598,000.–",Terrace flat,2.5,GF,70 m2,,2013.0,2013.0,"Lettenstrasse 18, 8192 Glattfelden"
+172,"CHF820,000.–",Roof flat,4.5,2,108 m2,,2004.0,,"Webereistrasse 3, 8192 Glattfelden"
+173,"CHF1,195,000.–",Duplex,4.5,2,139 m2,2.0,2010.0,2020.0,"Stockistrasse 36, 8192 Glattfelden"
+174,"CHF995,000.–",Apartment,3.5,3,107 m2,,2004.0,,6596 Gordola
+175,"CHF1,190,000.–",Apartment,3.0,5,93 m2,,,,1209 Genève
+176,"CHF4,900,000.–",Apartment,11.0,,381 m2,,1970.0,2007.0,1209 Genève
+177,"CHF395,000.–",Roof flat,3.5,3,82 m2,,,2021.0,4563 Gerlafingen
+178,"CHF910,000.–",Apartment,4.5,GF,105 m2,2.0,1972.0,,"Dorfstrasse 87, 8954 Geroldswil"
+179,"CHF345,000.–",Apartment,,,,,2021.0,,"Piazzetta San Carlo 3, 6512 Giubiasco"
+180,"CHF598,000.–",Terrace flat,2.5,GF,70 m2,,2013.0,2013.0,"Lettenstrasse 18, 8192 Glattfelden"
+181,"CHF820,000.–",Roof flat,4.5,2,108 m2,,2004.0,,"Webereistrasse 3, 8192 Glattfelden"
+182,"CHF1,195,000.–",Duplex,4.5,2,139 m2,2.0,2010.0,2020.0,"Stockistrasse 36, 8192 Glattfelden"
+183,"CHF995,000.–",Apartment,3.5,3,107 m2,,2004.0,,6596 Gordola
+184,"CHF1,240,000.–",Apartment,4.5,,140 m2,,2021.0,,6596 Gordola
+185,"CHF930,000.–",Duplex,4.5,GF,132 m2,2.0,2014.0,,"Hinterer Schürmattweg 52, 4203 Grellingen"
+186,"CHF700,000.–",Apartment,4.5,,110 m2,1.0,1980.0,,"Vorstadtstrasse 6, 5722 Gränichen"
+187,"CHF790,000.–",Roof flat,4.5,3,100 m2,,1995.0,,"Edikerstrasse 3B, 8340 Hinwil"
+188,"CHF1,150,000.–",Duplex,4.5,1,110 m2,2.0,1988.0,2020.0,"Zugerstrasse 21, 8816 Hirzel"
+189,"CHF670,000.–",Apartment,3.5,1,73 m2,,1981.0,,"Im Schnegg 17, 8810 Horgen"
+190,"CHF3,990,000.–",Attic flat,5.5,3,199 m2,,2011.0,,"Gumelenstrasse 13, 8810 Horgen"
+191,"CHF1,020,000.–",Apartment,4.5,3,121 m2,,2019.0,,9326 Horn
+192,"CHF1,490,000.–",Duplex,3.5,2,96 m2,2.0,2022.0,,6048 Horw
+193,"CHF995,000.–",Apartment,5.5,2,136 m2,3.0,2022.0,,"Via Quinclas, 7130 Ilanz"
+194,"CHF540,000.–",Apartment,2.5,2,62 m2,,1985.0,2020.0,"Allmeindstrasse 26, 8645 Jona SG"
+195,"CHF905,000.–",Apartment,4.5,1,113 m2,,2022.0,,8461 Kleinandelfingen
+196,"CHF1,950,000.–",Apartment,5.5,GF,147 m2,,2002.0,,7250 Klosters
+197,"CHF950,000.–",Terrace flat,3.5,GF,77 m2,,1960.0,,"Heidweg 3, 7250 Klosters-Serneus"
+198,"CHF470,000.–",Apartment,2.0,GF,46 m2,,2019.0,,"Ifangstrasse 16, 8302 Kloten"
+199,"CHF750,000.–",Apartment,4.0,1,123 m2,,1970.0,,8280 Kreuzlingen
+200,"CHF1,295,000.–",Apartment,5.5,3,145 m2,,2001.0,,"Pulvermühleweg 6, 6010 Kriens"
+201,"CHF920,000.–",Apartment,3.5,,92 m2,,2021.0,,1278 LA RIPPE
+202,"CHF2,210,000.–",Apartment,4.5,,132 m2,,,,1012 LAUSANNE
+203,"CHF470,000.–",Duplex,5.5,GF,123 m2,,,,2300 La Chaux-de-Fonds
+204,"CHF1,370,000.–",Attic flat,6.0,2,156 m2,,1993.0,,"Rte du Pont-de-la-Fin 1B, 1257 La Croix-de-Rozon"
+205,"CHF1,850,000.–",Attic flat,5.5,2,110 m2,2.0,1995.0,2013.0,"Via Fau 15, 7031 Laax GR"
+206,"CHF1,200,000.–",Apartment,3.5,1,101 m2,,2022.0,,"chemin Isabelle de Montolieu 25, 1010 Lausanne"
+207,"CHF1,790,000.–",Duplex,5.5,,178 m2,2.0,2022.0,,"Ferrajoz-Millière, 1052 Le Mont-sur-Lausanne"
+208,"CHF1,280,000.–",Duplex,6.0,3,202 m2,,1981.0,,"Les Jorasses, 1865 Les Diablerets"
+209,"CHF550,000.–",Roof flat,6.5,2,194 m2,,,,"Grande rue 54, 2316 Les Ponts-de-Martel"
+210,"CHF1,150,000.–",Apartment,3.5,6,90 m2,6.0,2014.0,,"Via Dottor Giovanni Varesi 29, 6600 Locarno"
+211,"CHF1,285,000.–",Apartment,3.5,5,97 m2,7.0,2014.0,,6600 Locarno
+212,"CHF950,000.–",Apartment,3.5,2,132 m2,,2022.0,,"Via Locarno 48, 6616 Losone"
+213,"CHF545,000.–",Apartment,3.5,5,90 m2,,,,6900 Lugano
+214,"CHF565,000.–",Apartment,2.5,1,51 m2,,2021.0,,"Via al Lido 1, 6900 Lugano"
+215,"CHF1,280,000.–",Duplex,6.0,3,202 m2,,1981.0,,"Les Jorasses, 1865 Les Diablerets"
+216,"CHF550,000.–",Roof flat,6.5,2,194 m2,,,,"Grande rue 54, 2316 Les Ponts-de-Martel"
+217,"CHF1,150,000.–",Apartment,3.5,6,90 m2,6.0,2014.0,,"Via Dottor Giovanni Varesi 29, 6600 Locarno"
+218,"CHF1,285,000.–",Apartment,3.5,5,97 m2,7.0,2014.0,,6600 Locarno
+219,"CHF950,000.–",Apartment,3.5,2,132 m2,,2022.0,,"Via Locarno 48, 6616 Losone"
+220,"CHF545,000.–",Apartment,3.5,5,90 m2,,,,6900 Lugano
+221,"CHF565,000.–",Apartment,2.5,1,51 m2,,2021.0,,"Via al Lido 1, 6900 Lugano"
+222,"CHF625,000.–",Apartment,3.5,GF,86 m2,,2022.0,,6900 Lugano
+223,"CHF725,000.–",Apartment,3.5,4,121 m2,,1970.0,,6900 Lugano
+224,"CHF790,000.–",Apartment,4.5,3,121 m2,,,,"Via Trevano, 6900 Lugano"
+225,"CHF849,000.–",Apartment,4.5,3,98 m2,,,2019.0,6900 Lugano
+226,"CHF920,000.–",Apartment,3.5,1,115 m2,,,,"Via Montalbano 9, 6900 Lugano"
+227,"CHF1,050,000.–",Apartment,4.5,5,120 m2,,,,"via al Chioso, 6900 Lugano"
+228,"CHF1,060,000.–",Apartment,3.5,1,126 m2,5.0,2000.0,,6900 Lugano
+229,"CHF1,122,000.–",Apartment,4.5,,185 m2,,2022.0,,6900 Lugano
+230,"CHF1,170,000.–",Apartment,4.5,GF,140 m2,,2015.0,,"Via Montarina, 6900 Lugano"
+231,"CHF1,285,000.–",Apartment,4.5,1,131 m2,,,,"Via Aprica 18, 6900 Lugano"
+232,"CHF1,400,000.–",Apartment,3.5,2,111 m2,,2021.0,,6900 Lugano
+233,"CHF1,450,000.–",Apartment,4.5,6,141 m2,,,,"Via al fiume, 6900 Lugano"
+234,"CHF1,500,000.–",Apartment,6.0,6,165 m2,,,,6900 Lugano
+235,"CHF1,500,000.–",Apartment,3.5,9,121 m2,,,,"Via Clemente Maraini, 6900 Lugano"
+236,"CHF1,540,000.–",Apartment,5.0,1,180 m2,,,,6900 Lugano
+237,"CHF1,550,000.–",Roof flat,6.5,6,,,2006.0,,"Via Luigi Taddei 4A, 6900 Lugano"
+238,"CHF1,650,000.–",Apartment,4.5,5,142 m2,,,,6900 Lugano
+239,"CHF1,856,000.–",Apartment,5.5,3,173 m2,,,,6900 Lugano
+240,"CHF2,050,000.–",Apartment,4.5,2,150 m2,,,,6900 Lugano
+241,"CHF2,550,000.–",Apartment,3.5,,108 m2,,,,6900 Lugano
+242,"CHF2,650,000.–",Apartment,7.0,,480 m2,,2022.0,,6900 Lugano
+243,"CHF2,780,000.–",Attic flat,4.5,,195 m2,2.0,2011.0,,6900 Lugano
+244,"CHF3,750,000.–",Apartment,4.5,7,240 m2,8.0,2009.0,,"Via Clemente Maraini, 6900 Lugano"
+245,"CHF3,950,000.–",Apartment,4.5,,218 m2,,2005.0,,6900 Lugano
+246,"CHF4,760,000.–",Attic flat,7.5,,380 m2,,,,6900 Lugano
+247,"CHF5,325,000.–",Apartment,4.5,4,,,,2013.0,6900 Lugano
+248,"CHF1,850,000.–",Apartment,5.5,2,250 m2,1.0,2019.0,,6918 Lugano
+249,"CHF1,250,000.–",Apartment,4.5,GF,130 m2,,2015.0,,"Stráda de Vérscior, 6968 Lugano"
+250,"CHF6,840,000.–",Apartment,7.0,,421 m2,,2021.0,,6974 Lugano
+251,"CHF1,290,000.–",Duplex,4.5,1,142 m2,2.0,2001.0,,1184 Luins
+252,"CHF395,000.–",Roof flat,4.5,3,100 m2,,,,6533 Lumino
+253,"CHF780,000.–",Apartment,4.5,2,145 m2,,2020.0,,"Via ai Ronchi, 6533 Lumino"
+254,"CHF797,000.–",Duplex,4.5,1,110 m2,2.0,1989.0,2022.0,5242 Lupfig
+255,"CHF790,000.–",Apartment,3.5,3,89 m2,2.0,1972.0,2021.0,"Büttenenstrasse 14, 6006 Luzern"
+256,"CHF1,300,000.–",Apartment,3.5,1,94 m2,,2007.0,,"Strada Cantonale 350, 7516 Maloja"
+257,"CHF930,000.–",Apartment,4.5,1,121 m2,,2022.0,,"Altemerstrass, 8460 Marthalen"
+258,"CHF595,000.–",Apartment,2.5,GF,78 m2,,2022.0,,"Via Giuseppe Motta 76, 6900 Massagno"
+259,"CHF1,025,000.–",Apartment,3.5,4,115 m2,,2018.0,,6900 Massagno
+260,"CHF790,000.–",Apartment,3.5,3,89 m2,2.0,1972.0,2021.0,"Büttenenstrasse 14, 6006 Luzern"
+261,"CHF1,300,000.–",Apartment,3.5,1,94 m2,,2007.0,,"Strada Cantonale 350, 7516 Maloja"
+262,"CHF930,000.–",Apartment,4.5,1,121 m2,,2022.0,,"Altemerstrass, 8460 Marthalen"
+263,"CHF595,000.–",Apartment,2.5,GF,78 m2,,2022.0,,"Via Giuseppe Motta 76, 6900 Massagno"
+264,"CHF1,025,000.–",Apartment,3.5,4,115 m2,,2018.0,,6900 Massagno
+265,"CHF523,500.–",Apartment,3.5,1,84 m2,,2021.0,,"Rte du Chablais 48, 1869 Massongex"
+266,"CHF620,500.–",Apartment,3.5,GF,95 m2,,2021.0,,1869 Massongex
+267,"CHF5,500,000.–",Attic flat,5.5,,260 m2,,,,6815 Melide
+268,"CHF380,000.–",Apartment,1.5,GF,44 m2,,2019.0,,"Jurastrasse 4, 5507 Mellingen"
+269,"CHF555,000.–",Studio,2.5,2,98 m2,,2019.0,,"Fabrikstrasse 16, 8887 Mels"
+270,"CHF605,000.–",Apartment,2.5,GF,111 m2,,2021.0,,"Fabrikstrasse 16, 8887 Mels"
+271,"CHF825,000.–",Apartment,4.5,1,130 m2,,2023.0,,"Fabrikstrasse 16, 8887 Mels"
+272,"CHF1,115,000.–",Apartment,3.5,3,185 m2,,2021.0,,"Fabrikstrasse 16, 8887 Mels"
+273,"CHF665,000.–",Apartment,4.5,1,118 m2,,,,"vai vignalunga, 6825 Mendrisio"
+274,"CHF1,060,000.–",Apartment,4.5,2,145 m2,3.0,2020.0,,"Via Praella, 6850 Mendrisio"
+275,"CHF945,000.–",Apartment,4.5,1,118 m2,4.0,2022.0,,"Plattenstrasse 11, 5737 Menziken"
+276,"CHF1,390,000.–",Duplex,4.5,1,143 m2,,,2020.0,6313 Menzingen
+277,"CHF1,560,000.–",Apartment,5.5,,131 m2,,2010.0,,6313 Menzingen
+278,"CHF1,050,000.–",Apartment,5.5,1,135 m2,2.0,1863.0,2022.0,1031 Mex
+279,"CHF780,000.–",Apartment,4.5,GF,,,,,"Via delle Bolle, 6648 Minusio"
+280,"CHF810,000.–",Apartment,4.5,1,110 m2,,1993.0,,"Via delle Bolle, 6648 Minusio"
+281,"CHF2,265,000.–",Apartment,5.5,,200 m2,2.0,2021.0,,1185 Mont-sur-Rolle
+282,"CHF1,190,000.–",Apartment,3.5,,100 m2,,2014.0,,6600 Muralto
+283,"CHF1,350,000.–",Attic flat,4.5,2,210 m2,,1960.0,2018.0,"Via del Sole 12, 6600 Muralto"
+284,"CHF650,000.–",Apartment,2.5,GF,62 m2,,,,"Seuzachstrasse 5, 8413 Neftenbach"
+285,"CHF990,000.–",Apartment,4.5,1,128 m2,,,,"Seuzachstrasse 5, 8413 Neftenbach"
+286,"CHF1,560,000.–",Apartment,5.5,1,195 m2,,,,"Seuzachstrasse 5, 8413 Neftenbach"
+287,"CHF415,000.–",Apartment,2.5,6,57 m2,,2024.0,,"Weinbergstrasse 10, 8212 Neuhausen am Rheinfall"
+288,"CHF510,000.–",Apartment,3.5,7,73 m2,,2024.0,,"Weinbergstrasse 10, 8212 Neuhausen am Rheinfall"
+289,"CHF645,000.–",Apartment,4.5,2,98 m2,,2024.0,,"Weinbergstrasse 10, 8212 Neuhausen am Rheinfall"
+290,"CHF495,000.–",Apartment,2.5,,63 m2,,2023.0,,"Brunnrain, 5702 Niederlenz"
+291,"CHF670,000.–",Apartment,3.5,,88 m2,,2023.0,,"Brunnrain, 5702 Niederlenz"
+292,"CHF972,000.–",Apartment,4.5,,133 m2,,2023.0,,"Brunnrain, 5702 Niederlenz"
+293,"CHF1,282,000.–",Apartment,5.5,,152 m2,,2023.0,,"Brunnrain, 5702 Niederlenz"
+294,"CHF1,060,000.–",Apartment,4.5,,120 m2,,1999.0,,5415 Nussbaumen
+295,"CHF1,690,000.–",Apartment,4.5,1,134 m2,,2022.0,,"Im Buchsel 6, 8309 Nürensdorf"
+296,"CHF2,650,000.–",Terrace flat,4.5,,240 m2,,2023.0,,"Rebenstrasse, 8309 Nürensdorf"
+297,"CHF650,000.–",Apartment,5.5,1,110 m2,,1972.0,2020.0,"Hintermatthof 6, 5452 Oberrohrdorf"
+298,"CHF895,000.–",Apartment,3.5,-1,98 m2,,2022.0,,"Hohestrasse 113, 4104 Oberwil BL"
+299,"CHF1,200,000.–",Apartment,3.5,1,105 m2,3.0,2022.0,,"Hochlettenstrasse 6, 4104 Oberwil BL"
+300,"CHF620,000.–",Apartment,3.5,GF,85 m2,,2023.0,,"Rle du Coin 5, 1430 Orges"
+301,"CHF720,000.–",Apartment,2.5,,87 m2,,2012.0,,6644 Orselina
+302,"CHF1,850,000.–",Apartment,4.0,,150 m2,,2011.0,,6644 Orselina
+303,"CHF280,000.–",Apartment,1.5,1,50 m2,,,,6900 Paradiso
+304,"CHF1,325,000.–",Apartment,4.5,,,6.0,2021.0,,"Via Bosia 5, 6900 Paradiso"
+305,"CHF1,325,000.–",Apartment,4.5,,126 m2,,,,6900 Paradiso
+306,"CHF1,200,000.–",Apartment,3.5,1,105 m2,3.0,2022.0,,"Hochlettenstrasse 6, 4104 Oberwil BL"
+307,"CHF620,000.–",Apartment,3.5,GF,85 m2,,2023.0,,"Rle du Coin 5, 1430 Orges"
+308,"CHF720,000.–",Apartment,2.5,,87 m2,,2012.0,,6644 Orselina
+309,"CHF1,850,000.–",Apartment,4.0,,150 m2,,2011.0,,6644 Orselina
+310,"CHF280,000.–",Apartment,1.5,1,50 m2,,,,6900 Paradiso
+311,"CHF1,325,000.–",Apartment,4.5,,,6.0,2021.0,,"Via Bosia 5, 6900 Paradiso"
+312,"CHF1,325,000.–",Apartment,4.5,,126 m2,,,,6900 Paradiso
+313,"CHF3,400,000.–",Apartment,6.5,5,326 m2,,2012.0,,6900 Paradiso
+314,"CHF4,180,000.–",Apartment,3.5,,163 m2,,,,6900 Paradiso
+315,"CHF585,000.–",Roof flat,3.5,2,80 m2,,2022.0,,"Les Invuardes, 1530 Payerne"
+316,"CHF500,000.–",Apartment,3.5,4,92 m2,,2009.0,,"Via dei Faggi 23B, 6912 Pazzallo"
+317,"CHF1,400,000.–",Attic flat,4.0,11,112 m2,11.0,2009.0,,"Via dei Faggi 23B, 6912 Pazzallo"
+318,"CHF470,000.–",Apartment,3.5,3,92 m2,,2013.0,,"Strada Regina 20, 6832 Pedrinate"
+319,"CHF1,255,000.–",Apartment,5.0,2,108 m2,,2007.0,,"Rte de Saint-Julien 299A, 1258 Perly-Certoux"
+320,"CHF1,540,000.–",Apartment,5.0,,118 m2,,2010.0,,1228 Plan-les-Ouates
+321,"CHF1,900,000.–",Apartment,4.5,GF,110 m2,,1990.0,2017.0,"Via Maistra, 7504 Pontresina"
+322,"CHF1,010,000.–",Apartment,4.0,1,,4.0,,,"Route de Cossonay 100, 1008 Prilly"
+323,"CHF1,330,000.–",Apartment,4.0,4,,4.0,,,"Route de Cossonay 100, 1008 Prilly"
+324,"CHF5,200,000.–",Apartment,5.5,5,260 m2,,2022.0,,"Chemin du Signal, 1070 Puidoux"
+325,"CHF2,660,000.–",Apartment,5.5,1,173 m2,,2010.0,,1009 Pully
+326,"CHF1,190,000.–",Duplex,3.5,3,130 m2,,2008.0,,"Sonnefäld 18, 8197 Rafz"
+327,"CHF1,130,000.–",Apartment,3.5,GF,113 m2,,2022.0,,"Neue Jonastr. 124, 8640 Rapperswil SG"
+328,"CHF585,000.–",Apartment,3.5,3,100 m2,4.0,2010.0,,"Winkelrain 5, 5734 Reinach"
+329,"CHF585,000.–",Apartment,3.5,3,81 m2,,1969.0,2020.0,"Laufenburgerstrasse 3, 4310 Rheinfelden"
+330,"CHF2,790,000.–",Terrace flat,3.5,GF,168 m2,,2017.0,,"Seestrasse, 8805 Richterswil"
+331,"CHF315,000.–",Apartment,,,,,,,"Riddes, 1908 Riddes"
+332,"CHF750,000.–",Apartment,3.5,GF,89 m2,,2022.0,,"Jonenbachstrasse 20, 8911 Rifferswil"
+333,"CHF1,280,000.–",Duplex,4.5,1,167 m2,2.0,2022.0,,"Jonenbachstrasse 20, 8911 Rifferswil"
+334,"CHF1,320,000.–",Duplex,4.5,1,169 m2,2.0,2022.0,,"Jonenbachstrasse 20, 8911 Rifferswil"
+335,"CHF1,210,000.–",Attic flat,4.5,1,235 m2,,2022.0,,"Kirchackerstrasse/Kreuzweg, 5223 Riniken"
+336,"CHF995,000.–",Apartment,4.5,GF,142 m2,,,2012.0,5022 Rombach
+337,"CHF1,150,000.–",Attic flat,3.5,4,105 m2,,2014.0,,"Warteggstrasse 8, 9404 Rorschacherberg"
+338,"CHF900,000.–",Apartment,3.5,1,,,1972.0,,"via alla Fontana 22, 6977 Ruvigliana"
+339,"CHF5,450,000.–",Apartment,6.5,,319 m2,,2012.0,,8803 Rüschlikon
+340,"CHF2,440,000.–",Loft,,,,2.0,1871.0,2000.0,8630 Rüti ZH
+341,"CHF419,000.–",Duplex,4.0,1,96 m2,1.0,1988.0,2021.0,"Av. de Beaulieu, 1890 Saint-Maurice"
+342,"CHF1,215,000.–",Apartment,4.5,GF,110 m2,1.0,1982.0,,"Promulins 33, 7503 Samedan"
+343,"CHF1,190,000.–",Apartment,4.5,1,135 m2,,1994.0,2009.0,"Wilerbadstrasse 2, 6062 Sarnen"
+344,"CHF1,750,000.–",Roof flat,5.5,3,175 m2,,,2016.0,1242 Satigny
+345,"CHF620,000.–",Apartment,4.5,2,110 m2,3.0,1970.0,2010.0,"Eden-Roc 6, 1073 Savigny"
+346,"CHF450,000.–",Apartment,3.5,,85 m2,,,,1965 Savièse
+347,"CHF865,000.–",Duplex,5.5,3,126 m2,3.0,,2020.0,"Otteregass 1, 8207 Schaffhausen"
+348,"CHF1,190,000.–",Apartment,4.5,1,135 m2,,1994.0,2009.0,"Wilerbadstrasse 2, 6062 Sarnen"
+349,"CHF1,750,000.–",Roof flat,5.5,3,175 m2,,,2016.0,1242 Satigny
+350,"CHF620,000.–",Apartment,4.5,2,110 m2,3.0,1970.0,2010.0,"Eden-Roc 6, 1073 Savigny"
+351,"CHF450,000.–",Apartment,3.5,,85 m2,,,,1965 Savièse
+352,"CHF865,000.–",Duplex,5.5,3,126 m2,3.0,,2020.0,"Otteregass 1, 8207 Schaffhausen"
+353,"CHF1,050,000.–",Attic flat,4.5,4,130 m2,,2009.0,,9466 Sennwald
+354,"CHF1,320,000.–",Attic flat,5.5,3,186 m2,,2011.0,,"Trottenstrasse 26, 8472 Seuzach"
+355,"CHF1,190,000.–",Apartment,4.5,GF,135 m2,,2007.0,,"Glarnerstrasse 63, 8854 Siebnen"
+356,"CHF3,200,000.–",Duplex,3.5,GF,132 m2,3.0,1988.0,2021.0,"Via dal Zardin 5, 7513 Silvaplana-Surlej"
+357,"CHF179,000.–",Apartment,,,,,,,"Sion, 1950 Sion"
+358,"CHF990,000.–",Roof flat,3.5,2,108 m2,,2017.0,,"Grienmattweg 11, 4450 Sissach"
+359,"CHF410,000.–",Apartment,3.5,1,85 m2,,1993.0,,"Clos-Perroud 3, 1678 Siviriez"
+360,"CHF550,000.–",Apartment,2.5,1,69 m2,,2019.0,,"Via Gemmo 1, 6924 Sorengo"
+361,"CHF1,750,000.–",Apartment,4.5,2,129 m2,,2016.0,,1025 St-Sulpice VD
+362,"CHF1,750,000.–",Attic flat,4.5,2,124 m2,2.0,2016.0,,"sur demande, 1025 St-Sulpice VD"
+363,"CHF670,000.–",Furnished dwelling,1.5,1,33 m2,5.0,,2021.0,"Via Stredas 2, 7500 St. Moritz"
+364,"CHF990,000.–",Apartment,2.5,2,60 m2,,1970.0,2010.0,7500 St. Moritz
+365,"CHF1,390,000.–",Apartment,3.5,4,88 m2,,1982.0,,"Via Stredas 2, 7500 St. Moritz"
+366,"CHF1,800,000.–",Apartment,3.5,4,94 m2,,1963.0,,7500 St. Moritz
+367,"CHF1,850,000.–",Attic flat,2.5,3,73 m2,,1905.0,2017.0,"Via Dimlej 5, 7500 St. Moritz"
+368,"CHF3,200,000.–",Apartment,5.0,3,150 m2,1.0,1965.0,2009.0,"Via dal Bagn 38, 7500 St. Moritz"
+369,"CHF3,200,000.–",Attic flat,3.5,4,112 m2,,1972.0,2012.0,"Via Serlas 12, 7500 St. Moritz"
+370,"CHF1,250,000.–",Apartment,4.5,,143 m2,,2020.0,,8162 Steinmaur
+371,"CHF3,290,000.–",Apartment,4.5,GF,136 m2,,2022.0,,"Eichstrasse 26, 8712 Stäfa"
+372,"CHF4,730,000.–",Duplex,5.5,,198 m2,2.0,2022.0,,"Eichstrasse 26, 8712 Stäfa"
+373,"CHF360,000.–",Apartment,2.5,GF,60 m2,,1963.0,,"Allmendingenstrasse 52, 3608 Thun"
+374,"CHF1,155,000.–",Apartment,5.5,1,276 m2,1.0,2009.0,,"Via ai Lungh, 6807 Torricella-Taverne"
+375,"CHF1,760,000.–",Apartment,4.5,2,121 m2,,2017.0,2022.0,"Tramstrasse 8, 8707 Uetikon am See"
+376,"CHF3,470,000.–",Apartment,4.5,GF,157 m2,,2023.0,,"Neuhausstrasse 36A, 8142 Uitikon"
+377,"CHF4,480,000.–",Apartment,5.5,1,207 m2,,2023.0,,"Neuhausstrasse 36A, 8142 Uitikon"
+378,"CHF993,000.–",Apartment,5.5,1,143 m2,2.0,2017.0,,"Villnachernstrasse 31, 5222 Umiken"
+379,"CHF2,275,000.–",Duplex,4.5,2,166 m2,2.0,2023.0,,"Hintere Rietstrasse 29, 8103 Unterengstringen"
+380,"CHF980,000.–",Apartment,4.5,1,141 m2,,2022.0,,"Küferweg 2, 8918 Unterlunkhofen"
+381,"CHF690,000.–",Apartment,4.5,1,88 m2,,1974.0,2014.0,"Guldenenstrasse 10, 8610 Uster"
+382,"CHF425,000.–",Apartment,5.5,4,140 m2,,,,"Via Poeta Francesco Chiesa 2, 6833 Vacallo"
+383,"CHF3,290,000.–",Roof flat,5.0,,128 m2,,,2007.0,1936 Verbier
+384,"CHF2,000,000.–",Attic flat,5.0,3,138 m2,,2022.0,,1290 Versoix
+385,"CHF1,690,000.–",Apartment,3.5,,150 m2,,2022.0,,6962 Viganello
+386,"CHF670,000.–",Apartment,3.5,GF,92 m2,,1972.0,2022.0,"Bel Air 5, 1752 Villars-sur-Glâne"
+387,"CHF1,410,000.–",Apartment,5.5,,,,2022.0,,"Route de Planafaye, 1752 Villars-sur-Glâne"
+388,"CHF545,000.–",Apartment,4.5,3,138 m2,,,1982.0,"Grand Rue 20, 1896 Vouvry"
+389,"CHF445,000.–",Apartment,4.5,GF,85 m2,,1963.0,2021.0,"Maison Neuve 2, 1696 Vuisternens-en-Ogoz"
+390,"CHF1,656,000.–",Attic flat,4.5,3,152 m2,3.0,2022.0,,"Tellstrasse 5, 8570 Weinfelden"
+391,"CHF1,100,000.–",Apartment,4.5,GF,116 m2,4.0,,,"Fortunastrasse, 5430 Wettingen"
+392,"CHF1,690,000.–",Apartment,3.5,,150 m2,,2022.0,,6962 Viganello
+393,"CHF670,000.–",Apartment,3.5,GF,92 m2,,1972.0,2022.0,"Bel Air 5, 1752 Villars-sur-Glâne"
+394,"CHF1,410,000.–",Apartment,5.5,,,,2022.0,,"Route de Planafaye, 1752 Villars-sur-Glâne"
+395,"CHF445,000.–",Apartment,4.5,GF,85 m2,,1963.0,2021.0,"Maison Neuve 2, 1696 Vuisternens-en-Ogoz"
+396,"CHF1,656,000.–",Attic flat,4.5,3,152 m2,3.0,2022.0,,"Tellstrasse 5, 8570 Weinfelden"
+397,"CHF1,100,000.–",Apartment,4.5,GF,116 m2,4.0,,,"Fortunastrasse, 5430 Wettingen"
+398,"CHF1,100,000.–",Duplex,4.5,3,135 m2,2.0,2001.0,2022.0,"Etzelmatt 3, 5430 Wettingen"
+399,"CHF975,000.–",Apartment,3.5,1,80 m2,,2020.0,,"Nordstrasse 1, 8620 Wetzikon ZH"
+400,"CHF3,200,000.–",Apartment,5.5,GF,187 m2,,2013.0,,"Höh-Rohnenweg 15, 8832 Wilen b. Wollerau"
+401,"CHF750,000.–",Apartment,3.5,1,90 m2,,1996.0,,"Reutlingerstrasse 8, 8404 Winterthur"
+402,"CHF1,090,000.–",Apartment,5.5,1,132 m2,,1993.0,2014.0,"Tösstalstrasse 297A, 8405 Winterthur"
+403,"CHF1,690,000.–",Attic flat,5.5,3,150 m2,,2010.0,2022.0,"Riedhofstrasse 51, 8408 Winterthur"
+404,"CHF1,395,000.–",Loft,4.5,3,260 m2,,,2018.0,5610 Wohlen AG
+405,"CHF2,510,000.–",Apartment,4.5,GF,140 m2,,2010.0,,8820 Wädenswil
+406,"CHF495,000.–",Apartment,3.5,,94 m2,,,,5303 Würenlingen
+407,"CHF650,000.–",Apartment,5.5,2,128 m2,2.0,1993.0,,"Bärenweg 36, 5303 Würenlingen"
+408,"CHF835,000.–",Apartment,4.5,1,126 m2,3.0,2020.0,,"Schulgasse 17, 4455 Zunzgen"
+409,"CHF890,000.–",Apartment,3.5,GF,145 m2,3.0,2020.0,,"Schulgasse 17, 4455 Zunzgen"
+410,"CHF1,260,000.–",Apartment,4.5,1,130 m2,,2022.0,,"Ferenbacherrain, 8909 Zwillikon"
+411,"CHF2,180,000.–",Apartment,3.5,1,108 m2,,2015.0,,"Turbinenstrasse 21, 8005 Zürich"
+412,"CHF3,490,000.–",Apartment,5.5,4,160 m2,,2003.0,,"Hinterbergstrasse 28, 8044 Zürich"
+413,"CHF1,180,000.–",Apartment,3.5,GF,94 m2,,2001.0,2020.0,"Oberwiesenstrasse 74, 8050 Zürich"
+414,"CHF2,200,000.–",Apartment,5.5,GF,160 m2,,2014.0,,8050 Zürich
+415,"CHF1,190,000.–",Apartment,2.5,5,75 m2,,2015.0,,8052 Zürich
+416,"CHF1,710,000.–",Apartment,2.5,,85 m2,,2024.0,,8057 Zürich
+417,"CHF350,000.–",Apartment,4.5,3,90 m2,,1969.0,2021.0,5032 Aarau Rohr
+418,"CHF545,000.–",Apartment,3.5,1,100 m2,,,,"Corzoneso, 6722 Acquarossa"
+419,"CHF745,000.–",Apartment,4.5,1,117 m2,,2021.0,,6982 Agno
+420,"CHF830,000.–",Apartment,4.5,2,116 m2,,2021.0,,6982 Agno
+421,"CHF890,000.–",Apartment,5.5,1,150 m2,2.0,2008.0,,6927 Agra
+422,"CHF1,670,000.–",Apartment,5.5,3,175 m2,2.0,2002.0,,6974 Aldesago
+423,"CHF1,190,000.–",Apartment,3.5,2,85 m2,4.0,2022.0,,"Amselstrasse, 4123 Allschwil"
+424,"CHF240,000.–",Apartment,2.5,1,56 m2,1.0,1984.0,2010.0,1972 Anzère
+425,"CHF915,000.–",Apartment,4.5,GF,146 m2,1.0,2005.0,,1972 Anzère
+426,"CHF550,000.–",Duplex,3.5,GF,88 m2,,2022.0,,1994 Aproz (Nendaz)
+427,"CHF550,000.–",Duplex,3.5,GF,88 m2,,2022.0,,1994 Aproz (Nendaz)
+428,"CHF580,000.–",Apartment,3.5,GF,103 m2,,2022.0,,1994 Aproz (Nendaz)
+429,"CHF650,000.–",Apartment,4.5,2,109 m2,,2022.0,,1994 Aproz (Nendaz)
+430,"CHF650,000.–",Apartment,4.5,2,109 m2,,2022.0,,1994 Aproz (Nendaz)
+431,"CHF650,000.–",Apartment,4.5,1,112 m2,,2022.0,,1994 Aproz (Nendaz)
+432,"CHF580,000.–",Apartment,3.5,GF,103 m2,,2022.0,,1994 Aproz (Nendaz)
+433,"CHF650,000.–",Apartment,4.5,2,109 m2,,2022.0,,1994 Aproz (Nendaz)
+434,"CHF650,000.–",Apartment,4.5,2,109 m2,,2022.0,,1994 Aproz (Nendaz)
+435,"CHF650,000.–",Apartment,4.5,1,112 m2,,2022.0,,1994 Aproz (Nendaz)
+436,"CHF680,000.–",Apartment,4.5,,112 m2,,2022.0,,1994 Aproz (Nendaz)
+437,"CHF680,000.–",Apartment,4.5,,112 m2,,2022.0,,1994 Aproz (Nendaz)
+438,"CHF320,000.–",Apartment,3.0,2,75 m2,,1960.0,,9320 Arbon
+439,"CHF615,000.–",Apartment,4.5,2,132 m2,,,2020.0,1957 Ardon
+440,"CHF699,000.–",Apartment,4.5,-2,125 m2,,2014.0,,1957 Ardon
+441,"CHF1,350,000.–",Apartment,4.5,GF,130 m2,,1978.0,,6612 Ascona
+442,"CHF1,440,000.–",Apartment,3.5,2,93 m2,,2021.0,,6612 Ascona
+443,"CHF1,495,000.–",Apartment,3.5,GF,106 m2,,2016.0,2020.0,"Via Circonvallazione 33, 6612 Ascona"
+444,"CHF1,850,000.–",Apartment,4.0,GF,133 m2,,2006.0,,6612 Ascona
+445,"CHF5,660,000.–",Apartment,5.5,4,250 m2,2.0,2021.0,,6612 Ascona
+446,"CHF1,300,000.–",Apartment,3.5,1,88 m2,,1986.0,,6340 Baar
+447,"CHF495,000.–",Apartment,1.5,GF,59 m2,,1982.0,,"Martinsbergstrasse 35, 5400 Baden"
+448,"CHF260,000.–",Apartment,3.5,4,90 m2,,,,6828 Balerna
+449,"CHF356,800.–",Apartment,2.5,4,60 m2,1.0,,,6828 Balerna
+450,"CHF490,000.–",Apartment,3.5,2,95 m2,,2021.0,,"Via Sottobisio 17, 6828 Balerna"
+451,"CHF491,800.–",Apartment,3.5,1,88 m2,1.0,2016.0,,6828 Balerna
+452,"CHF633,000.–",Duplex,,,,3.0,,,1338 Ballaigues
+453,"CHF690,000.–",Apartment,4.5,GF,142 m2,,,,"Via Soreso, 6917 Barbengo"
+454,"CHF720,000.–",Apartment,3.5,1,101 m2,,2016.0,,6917 Barbengo
+455,"CHF740,000.–",Apartment,3.5,3,101 m2,,2016.0,,6917 Barbengo
+456,"CHF760,000.–",Apartment,3.5,3,105 m2,,2016.0,,6917 Barbengo
+457,"CHF650,000.–",Apartment,3.5,1,68 m2,,1900.0,,4057 Basel
+458,"CHF540,000.–",Attic flat,4.5,,115 m2,,2008.0,,1996 Basse-Nendaz
+459,"CHF235,000.–",Apartment,1.5,2,35 m2,,,,"Via San Gottardo, 6500 Bellinzona"
+460,"CHF490,000.–",Apartment,2.5,,85 m2,,,,"Via Varrone, 6500 Bellinzona"
+461,"CHF725,000.–",Apartment,3.5,,120 m2,,,,"Via Varrone, 6500 Bellinzona"
+462,"CHF780,000.–",Apartment,4.5,,126 m2,3.0,2020.0,,6500 Bellinzona
+463,"CHF850,000.–",Apartment,4.5,GF,125 m2,,,,6500 Bellinzona
+464,"CHF1,080,000.–",Apartment,5.5,2,195 m2,,,,6500 Bellinzona
+465,"CHF360,000.–",Apartment,2.5,,54 m2,,,,6503 Bellinzona
+466,"CHF987,000.–",Apartment,4.5,,150 m2,3.0,2022.0,,6503 Bellinzona
+467,"CHF410,000.–",Apartment,3.5,1,82 m2,,,,"A Bex, 1880 Bex"
+468,"CHF380,000.–",Apartment,2.5,3,63 m2,,,,"Via Parallela, 6710 Biasca"
+469,"CHF595,000.–",Terrace flat,4.5,2,115 m2,3.0,2017.0,,"Via Lucomagno, 6710 Biasca"
+470,"CHF620,000.–",Apartment,4.5,GF,130 m2,3.0,2017.0,,"Via Lucomagno, 6710 Biasca"
+471,"CHF680,000.–",Apartment,4.5,1,129 m2,,,,"Via Parallela, 6710 Biasca"
+472,"CHF1,100,000.–",Apartment,4.5,1,122 m2,3.0,2015.0,,"In der Rütti 7, 4105 Biel-Benken BL"
+473,"CHF565,000.–",Apartment,3.5,3,86 m2,,1996.0,2018.0,"Haldenstrasse 23, 2502 Biel/Bienne"
+474,"CHF790,000.–",Apartment,4.5,GF,120 m2,,1964.0,,2502 Biel/Bienne
+475,"CHF825,000.–",Apartment,3.5,GF,85 m2,,1976.0,2017.0,"Im Spiegelfeld 12, 4102 Binningen"
+476,"CHF900,000.–",Apartment,2.5,2,70 m2,,2022.0,,"Bottmingerstrasse 49, 4102 Binningen"
+477,"CHF1,180,000.–",Apartment,3.5,GF,88 m2,,2022.0,,"Bottmingerstrasse 49, 4102 Binningen"
+478,"CHF1,790,000.–",Apartment,4.5,1,133 m2,,2012.0,,4102 Binningen
+479,"CHF645,000.–",Duplex,4.5,2,104 m2,,2002.0,,"Pestalozzistrasse 26, 5242 Birr"
+480,"CHF775,000.–",Apartment,3.5,4,75 m2,5.0,1960.0,2018.0,"Schulstrasse 22 22, 4127 Birsfelden"
+481,"CHF300,000.–",Apartment,2.0,4,50 m2,7.0,1980.0,2021.0,"Campione 65, 6816 Bissone"
+482,"CHF1,100,000.–",Apartment,4.5,1,122 m2,3.0,2015.0,,"In der Rütti 7, 4105 Biel-Benken BL"
+483,"CHF565,000.–",Apartment,3.5,3,86 m2,,1996.0,2018.0,"Haldenstrasse 23, 2502 Biel/Bienne"
+484,"CHF790,000.–",Apartment,4.5,GF,120 m2,,1964.0,,2502 Biel/Bienne
+485,"CHF825,000.–",Apartment,3.5,GF,85 m2,,1976.0,2017.0,"Im Spiegelfeld 12, 4102 Binningen"
+486,"CHF900,000.–",Apartment,2.5,2,70 m2,,2022.0,,"Bottmingerstrasse 49, 4102 Binningen"
+487,"CHF1,180,000.–",Apartment,3.5,GF,88 m2,,2022.0,,"Bottmingerstrasse 49, 4102 Binningen"
+488,"CHF1,790,000.–",Apartment,4.5,1,133 m2,,2012.0,,4102 Binningen
+489,"CHF645,000.–",Duplex,4.5,2,104 m2,,2002.0,,"Pestalozzistrasse 26, 5242 Birr"
+490,"CHF775,000.–",Apartment,3.5,4,75 m2,5.0,1960.0,2018.0,"Schulstrasse 22 22, 4127 Birsfelden"
+491,"CHF300,000.–",Apartment,2.0,4,50 m2,7.0,1980.0,2021.0,"Campione 65, 6816 Bissone"
+492,"CHF300,000.–",Apartment,2.0,4,50 m2,7.0,1980.0,2021.0,"Campione 65, 6816 Bissone"
+493,"CHF340,000.–",Apartment,2.0,7,50 m2,7.0,1980.0,2021.0,"Campione 65, 6816 Bissone"
+494,"CHF1,400,000.–",Apartment,5.5,2,130 m2,,1990.0,,6816 Bissone
+495,"CHF3,720,000.–",Apartment,4.5,,235 m2,,2019.0,,6816 Bissone
+496,"CHF3,750,000.–",Attic flat,4.5,,235 m2,,2021.0,,6816 Bissone
+497,"CHF1,190,000.–",Apartment,5.5,,140 m2,,2013.0,,6935 Bosco Luganese
+498,"CHF279,000.–",Apartment,1.0,,32 m2,,2020.0,,1967 Bramois
+499,"CHF585,000.–",Terrace flat,3.5,1,86 m2,,2011.0,2020.0,1967 Bramois
+500,"CHF680,000.–",Apartment,3.5,2,76 m2,,2022.0,,6932 Breganzona
+501,"CHF1,185,000.–",Apartment,4.5,,124 m2,,1967.0,,6932 Breganzona
+502,"CHF1,390,000.–",Apartment,3.5,,147 m2,,,,"via gemmo, 6932 Breganzona"
+503,"CHF2,200,000.–",Attic flat,4.5,,160 m2,2.0,2001.0,,6645 Brione s. Minusio
+504,"CHF3,400,000.–",Apartment,4.5,2,166 m2,,2021.0,,"Via Orselina 56, 6645 Brione sopra Minusio"
+505,"CHF480,000.–",Apartment,2.5,1,83 m2,,2022.0,,6614 Brissago
+506,"CHF950,000.–",Apartment,2.5,2,102 m2,,2022.0,,6614 Brissago
+507,"CHF1,350,000.–",Attic flat,4.5,3,205 m2,3.0,1976.0,2010.0,6614 Brissago
+508,"CHF1,450,000.–",Apartment,4.5,8,140 m2,,2017.0,,6614 Brissago
+509,"CHF1,550,000.–",Apartment,,5,200 m2,5.0,2004.0,,"Via Mozzana 1, 6614 Brissago"
+510,"CHF598,000.–",Apartment,5.5,4,140 m2,,2010.0,,"Via Sottomontagna 20, 6593 Cadenazzo"
+511,"CHF595,000.–",Apartment,2.5,GF,61 m2,,2012.0,,"Via dei Circoli 7, 6965 Cadro"
+512,"CHF745,000.–",Apartment,3.5,3,,,,,6965 Cadro
+513,"CHF1,390,000.–",Duplex,5.5,,190 m2,,2012.0,,6965 Cadro
+514,"CHF160,000.–",Apartment,1.5,,27 m2,,,,6955 Cagiallo
+515,"CHF470,000.–",Apartment,2.5,1,79 m2,,2022.0,,6528 Camorino
+516,"CHF540,000.–",Apartment,2.5,2,79 m2,,2022.0,,6528 Camorino
+517,"CHF780,000.–",Apartment,4.5,1,131 m2,,,,"In Muntagna, 6528 Camorino"
+518,"CHF520,000.–",Apartment,2.5,4,49 m2,5.0,2019.0,,6952 Canobbio
+519,"CHF720,000.–",Apartment,4.5,,118 m2,,1990.0,,6952 Canobbio
+520,"CHF878,000.–",Apartment,3.5,1,97 m2,,,,6952 Canobbio
+521,"CHF878,000.–",Apartment,3.5,1,104 m2,,2020.0,,6952 Canobbio
+522,"CHF906,000.–",Apartment,3.5,GF,97 m2,,,,6952 Canobbio
+523,"CHF906,000.–",Apartment,3.5,GF,97 m2,,,,6952 Canobbio
+524,"CHF1,008,000.–",Apartment,4.5,1,112 m2,,,,6952 Canobbio
+525,"CHF1,260,000.–",Apartment,3.5,3,157 m2,,2022.0,,6952 Canobbio
+526,"CHF1,685,000.–",Apartment,4.5,1,211 m2,,2022.0,,6952 Canobbio
+527,"CHF1,860,000.–",Duplex,4.5,,193 m2,,2021.0,,6952 Canobbio
+528,"CHF1,860,000.–",Duplex,4.5,1,193 m2,,2021.0,,6952 Canobbio
+529,"CHF1,980,000.–",Attic flat,4.5,4,225 m2,,2023.0,,6952 Canobbio
+530,"CHF878,000.–",Apartment,3.5,1,104 m2,,2020.0,,6952 Canobbio
+531,"CHF906,000.–",Apartment,3.5,GF,97 m2,,,,6952 Canobbio
+532,"CHF906,000.–",Apartment,3.5,GF,97 m2,,,,6952 Canobbio
+533,"CHF1,008,000.–",Apartment,4.5,1,112 m2,,,,6952 Canobbio
+534,"CHF1,260,000.–",Apartment,3.5,3,157 m2,,2022.0,,6952 Canobbio
+535,"CHF1,685,000.–",Apartment,4.5,1,211 m2,,2022.0,,6952 Canobbio
+536,"CHF1,860,000.–",Duplex,4.5,,193 m2,,2021.0,,6952 Canobbio
+537,"CHF1,860,000.–",Duplex,4.5,1,193 m2,,2021.0,,6952 Canobbio
+538,"CHF1,980,000.–",Attic flat,4.5,4,225 m2,,2023.0,,6952 Canobbio
+539,"CHF1,980,000.–",Attic flat,4.5,4,225 m2,,2022.0,,6952 Canobbio
+540,"CHF2,550,000.–",Apartment,5.5,,256 m2,,2016.0,,"Canobbio, 6952 Canobbio"
+541,"CHF360,000.–",Apartment,2.5,1,67 m2,,2022.0,,6825 Capolago
+542,"CHF495,000.–",Apartment,2.5,3,99 m2,5.0,2017.0,,"Via Cantonale, 6953 Capriasca"
+543,"CHF1,400,000.–",Apartment,4.5,2,160 m2,,1980.0,,6919 Carabietta
+544,"CHF323,000.–",Apartment,3.5,2,56 m2,,1973.0,2020.0,"Via E.Bossi 50, 6760 Carì"
+545,"CHF400,000.–",Apartment,2.5,2,67 m2,,2023.0,,"via Cantonale, 6987 Caslano"
+546,"CHF420,000.–",Apartment,2.5,2,70 m2,,2023.0,2023.0,"via Cantonale, 6987 Caslano"
+547,"CHF460,000.–",Apartment,2.5,2,76 m2,,2023.0,,"via Cantonale, 6987 Caslano"
+548,"CHF785,000.–",Apartment,3.5,GF,140 m2,,2023.0,,"via Cantonale, 6987 Caslano"
+549,"CHF775,000.–",Duplex,4.5,,80 m2,,,,6976 Castagnola
+550,"CHF1,350,000.–",Apartment,4.5,2,143 m2,,2001.0,,"via San Giorgio, 6976 Castagnola"
+551,"CHF1,570,000.–",Apartment,4.5,1,153 m2,,1985.0,,6976 Castagnola
+552,"CHF1,650,000.–",Apartment,4.5,5,,,2018.0,,6976 Castagnola
+553,"CHF1,650,000.–",Apartment,4.5,5,142 m2,,,,6976 Castagnola
+554,"CHF415,000.–",Apartment,2.5,GF,55 m2,2.0,2021.0,,"Via Ospedale 4, 6675 Cevio"
+555,"CHF550,000.–",Apartment,3.5,1,90 m2,2.0,2021.0,,"Via Ospedale 4, 6675 Cevio"
+556,"CHF570,000.–",Apartment,3.5,GF,80 m2,2.0,2021.0,,"Via Ospedale 4, 6675 Cevio"
+557,"CHF355,000.–",Apartment,3.5,1,80 m2,,,2021.0,1938 Champex-Lac
+558,"CHF228,000.–",Apartment,1.5,3,,,,,"Corso San Gottardo, 6830 Chiasso"
+559,"CHF380,000.–",Apartment,4.5,5,130 m2,,1971.0,2018.0,"Via Breggia 6, 6830 Chiasso"
+560,"CHF385,000.–",Apartment,3.5,1,81 m2,,,2017.0,6830 Chiasso
+561,"CHF420,000.–",Apartment,4.5,,88 m2,3.0,1970.0,,6830 Chiasso
+562,"CHF430,000.–",Apartment,2.5,1,,,,,6830 Chiasso
+563,"CHF525,000.–",Apartment,3.5,2,80 m2,,2018.0,,6830 Chiasso
+564,"CHF602,000.–",Apartment,4.5,3,140 m2,,,,"Corso San Gottardo, 6830 Chiasso"
+565,"CHF890,000.–",Duplex,3.5,,200 m2,,1980.0,,6830 Chiasso
+566,"CHF375,000.–",Apartment,2.5,,66 m2,,,,6702 Claro
+567,"CHF385,000.–",Apartment,3.5,,70 m2,,2000.0,,"stada cantonale 7b, 6702 Claro"
+568,"CHF425,000.–",Apartment,2.5,GF,75 m2,,,,6702 Claro
+569,"CHF580,000.–",Apartment,3.5,1,106 m2,,2021.0,,"via A Torascia 63, 6702 Claro"
+570,"CHF620,000.–",Apartment,3.5,GF,100 m2,,,,6702 Claro
+571,"CHF700,000.–",Apartment,4.5,,125 m2,,,,6702 Claro
+572,"CHF1,740,000.–",Apartment,3.5,3,134 m2,,,,"Via Nagra, 6926 Collina d'Oro"
+573,"CHF1,990,000.–",Apartment,3.5,5,137 m2,,,,"Via Nagra, 6926 Collina d'Oro"
+574,"CHF480,000.–",Apartment,3.5,1,88 m2,,,,"A Collombey, 1868 Collombey"
+575,"CHF620,000.–",Apartment,3.5,GF,100 m2,,,,6702 Claro
+576,"CHF700,000.–",Apartment,4.5,,125 m2,,,,6702 Claro
+577,"CHF1,740,000.–",Apartment,3.5,3,134 m2,,,,"Via Nagra, 6926 Collina d'Oro"
+578,"CHF1,990,000.–",Apartment,3.5,5,137 m2,,,,"Via Nagra, 6926 Collina d'Oro"
+579,"CHF480,000.–",Apartment,3.5,1,88 m2,,,,"A Collombey, 1868 Collombey"
+580,"CHF485,000.–",Apartment,4.5,3,104 m2,,1986.0,2022.0,1868 Collombey
+581,"CHF495,000.–",Apartment,3.5,GF,93 m2,,,,"A Collombey, 1868 Collombey"
+582,"CHF510,000.–",Apartment,3.5,1,93 m2,,,,"A Collombey, 1868 Collombey"
+583,"CHF2,150,000.–",Apartment,5.0,GF,188 m2,,,,1245 Collonge-Bellerive
+584,"CHF1,050,000.–",Apartment,4.5,1,160 m2,,2002.0,,6949 Comano
+585,"CHF1,050,000.–",Apartment,4.5,GF,160 m2,,,,"Centro TV, 6949 Comano"
+586,"CHF1,060,000.–",Attic flat,4.5,,150 m2,,2012.0,,6949 Comano
+587,"CHF1,391,280.–",Apartment,4.5,1,164 m2,,2021.0,2021.0,"via Ronco Nuovo, 6949 Comano"
+588,"CHF170,000.–",Studio,1.0,1,30 m2,1.0,1985.0,2020.0,1964 Conthey
+589,"CHF186,800.–",Studio,1.5,1,31 m2,1.0,2022.0,,"Route d'Anzère, 1964 Conthey"
+590,"CHF299,000.–",Apartment,3.5,4,93 m2,,1969.0,2015.0,1964 Conthey
+591,"CHF365,000.–",Apartment,2.5,,62 m2,,2022.0,,1964 Conthey
+592,"CHF384,000.–",Apartment,2.5,GF,68 m2,,2022.0,,1964 Conthey
+593,"CHF386,000.–",Apartment,2.5,GF,74 m2,1.0,2022.0,,1964 Conthey
+594,"CHF386,400.–",Apartment,2.5,2,53 m2,1.0,2022.0,,"Route d'Anzère, 1964 Conthey"
+595,"CHF454,000.–",Apartment,3.5,1,85 m2,,2022.0,,1964 Conthey
+596,"CHF463,000.–",Apartment,3.5,2,85 m2,,2022.0,,1964 Conthey
+597,"CHF463,000.–",Apartment,3.5,2,87 m2,4.0,2022.0,,1964 Conthey
+598,"CHF463,000.–",Apartment,3.5,2,85 m2,,2022.0,,1964 Conthey
+599,"CHF463,000.–",Apartment,3.5,3,85 m2,,2022.0,,1964 Conthey
+600,"CHF483,000.–",Attic flat,3.5,4,85 m2,,2022.0,,1964 Conthey
+601,"CHF500,000.–",Apartment,3.5,GF,94 m2,1.0,2022.0,,1964 Conthey
+602,"CHF500,000.–",Apartment,3.5,,83 m2,,2022.0,,1964 Conthey
+603,"CHF545,000.–",Apartment,3.5,GF,86 m2,,2022.0,,1964 Conthey
+604,"CHF550,000.–",Apartment,4.5,GF,139 m2,,1984.0,2000.0,1964 Conthey
+605,"CHF565,000.–",Apartment,4.5,1,116 m2,1.0,2006.0,,1964 Conthey
+606,"CHF584,100.–",Apartment,3.5,3,79 m2,1.0,2022.0,,"Route d'Anzère, 1964 Conthey"
+607,"CHF620,000.–",Apartment,3.5,GF,87 m2,5.0,2022.0,,1964 Conthey
+608,"CHF650,000.–",Apartment,4.5,,109 m2,,2022.0,,1964 Conthey
+609,"CHF786,500.–",Loft,1.0,4,99 m2,1.0,2022.0,,"Route d'Anzère, 1964 Conthey"
+610,"CHF1,060,000.–",Attic flat,4.5,,162 m2,,2022.0,,1964 Conthey
+611,"CHF1,270,000.–",Attic flat,4.5,3,230 m2,1.0,2022.0,,1964 Conthey
+612,"CHF350,000.–",Apartment,2.5,3,50 m2,3.0,,,"Rue du Petit-Vallon, 3963 Crans-Montana"
+613,"CHF590,000.–",Apartment,2.5,3,53 m2,,1971.0,,"Route des Sommets de Crans, 3963 Crans-Montana"
+614,"CHF750,000.–",Apartment,2.5,2,58 m2,1.0,2022.0,,"Route de l'Avenire, 3963 Crans-Montana"
+615,"CHF950,000.–",Apartment,2.5,GF,78 m2,,,,"Rue de Tsintres 6, 3963 Crans-Montana"
+616,"CHF987,000.–",Apartment,,GF,,5.0,,,"Route des Arolles, 3963 Crans-Montana"
+617,"CHF1,020,000.–",Apartment,2.5,GF,94 m2,,,,"Rue de Tsintres 6, 3963 Crans-Montana"
+618,"CHF1,090,000.–",Apartment,3.5,GF,80 m2,,1950.0,,"Route de la Moubra, 3963 Crans-Montana"
+619,"CHF1,150,000.–",Apartment,4.5,2,99 m2,,2006.0,,"Route de Marigny, 3963 Crans-Montana"
+620,"CHF950,000.–",Apartment,2.5,GF,78 m2,,,,"Rue de Tsintres 6, 3963 Crans-Montana"
+621,"CHF987,000.–",Apartment,,GF,,5.0,,,"Route des Arolles, 3963 Crans-Montana"
+622,"CHF1,020,000.–",Apartment,2.5,GF,94 m2,,,,"Rue de Tsintres 6, 3963 Crans-Montana"
+623,"CHF1,090,000.–",Apartment,3.5,GF,80 m2,,1950.0,,"Route de la Moubra, 3963 Crans-Montana"
+624,"CHF1,150,000.–",Apartment,4.5,2,99 m2,,2006.0,,"Route de Marigny, 3963 Crans-Montana"
+625,"CHF1,250,000.–",Apartment,4.5,GF,123 m2,1.0,2022.0,,"Route de l'Avenire, 3963 Crans-Montana"
+626,"CHF1,350,000.–",Apartment,4.5,1,123 m2,1.0,2022.0,,"Route de l'Avenire, 3963 Crans-Montana"
+627,"CHF1,365,000.–",Apartment,4.5,2,133 m2,1.0,2022.0,,"Route de l'Avenire, 3963 Crans-Montana"
+628,"CHF1,590,000.–",Apartment,4.5,GF,138 m2,1.0,1976.0,,"Chemin du Béthania, 3963 Crans-Montana"
+629,"CHF1,600,000.–",Apartment,4.5,3,129 m2,3.0,1994.0,,"Route de Marigny, 3963 Crans-Montana"
+630,"CHF1,740,000.–",Apartment,4.5,GF,153 m2,1.0,2022.0,,"Route de l'Avenire, 3963 Crans-Montana"
+631,"CHF1,850,000.–",Apartment,4.5,1,135 m2,,1995.0,,"Route Touristique, 3963 Crans-Montana"
+632,"CHF1,900,000.–",Apartment,4.5,4,150 m2,2.0,,,"Impasse de Clovelli, 3963 Crans-Montana"
+633,"CHF2,700,000.–",Apartment,4.5,3,140 m2,,1995.0,,"Rue du Rhodania, 3963 Crans-Montana"
+634,"CHF2,830,500.–",Apartment,,GF,,,,,"Route des Crehavouettaz, 3963 Crans-Montana"
+635,"CHF3,950,000.–",Apartment,6.5,4,225 m2,,,,"Rue de Tsintres 6, 3963 Crans-Montana"
+636,"CHF5,750,000.–",Apartment,6.5,GF,440 m2,,1995.0,,"Chemin de la Digue, 3963 Crans-Montana"
+637,"CHF770,000.–",Attic flat,4.5,3,144 m2,1.0,2007.0,2019.0,2088 Cressier NE
+638,"CHF645,000.–",Apartment,3.5,1,116 m2,,2021.0,,"Via Campisc 3, 6516 Cugnasco"
+639,"CHF645,000.–",Apartment,3.5,1,108 m2,,2023.0,,"Via Valletta, 6516 Cugnasco"
+640,"CHF655,000.–",Apartment,3.5,GF,116 m2,,2021.0,,"Via Campisc 3, 6516 Cugnasco"
+641,"CHF880,000.–",Duplex,4.5,,156 m2,,2023.0,,"Via Valletta, 6516 Cugnasco"
+642,"CHF1,070,000.–",Apartment,,,,,,,6516 Cugnasco
+643,"CHF690,000.–",Apartment,,,100 m2,,1993.0,,"Mühlestrasse 2, 8114 Dänikon ZH"
+644,"CHF490,000.–",Duplex,3.0,2,71 m2,,1996.0,,"Dorfstrasse 17, 5420 Ehrendingen"
+645,"CHF546,000.–",Apartment,3.5,3,90 m2,4.0,1989.0,,5420 Ehrendingen
+646,"CHF370,000.–",Apartment,2.5,1,80 m2,,2022.0,,3943 Eischoll
+647,"CHF590,000.–",Apartment,4.5,1,135 m2,,2022.0,,3943 Eischoll
+648,"CHF650,000.–",Apartment,5.5,GF,159 m2,,2022.0,,3943 Eischoll
+649,"CHF860,000.–",Duplex,3.5,GF,119 m2,,2003.0,,"Hardstrasse 81, 8424 Embrach"
+650,"CHF750,000.–",Apartment,9.0,,160 m2,3.0,,,1976 Erde
+651,"CHF1,090,000.–",Roof flat,4.0,2,112 m2,,1984.0,,8133 Esslingen ZH
+652,"CHF620,000.–",Apartment,3.5,1,97 m2,,2013.0,,5615 Fahrwangen
+653,"CHF1,200,000.–",Duplex,5.5,GF,170 m2,,2016.0,,5615 Fahrwangen
+654,"CHF1,850,000.–",Duplex,5.5,,250 m2,2.0,2019.0,,6918 Figino
+655,"CHF445,000.–",Duplex,5.5,GF,120 m2,2.0,1825.0,2011.0,1925 Finhaut
+656,"CHF1,095,000.–",Apartment,5.5,,158 m2,1.0,2017.0,,2046 Fontaines NE
+657,"CHF470,000.–",Apartment,2.0,GF,56 m2,,2022.0,,"Hauptstrasse 64, 8269 Fruthwilen"
+658,"CHF780,000.–",Apartment,4.5,2,115 m2,,2022.0,,"Hauptstrasse 64, 8269 Fruthwilen"
+659,"CHF380,000.–",Apartment,4.5,,90 m2,,1988.0,,"Wislenstrasse 5, 9467 Frümsen"
+660,"CHF149,000.–",Apartment,2.5,GF,45 m2,,1960.0,2010.0,1926 Fully
+661,"CHF1,740,000.–",Apartment,4.5,1,143 m2,,,,6925 Gentilino
+662,"CHF3,090,000.–",Attic flat,5.5,2,276 m2,,2024.0,,"via Privata, 6925 Gentilino"
+663,"CHF1,980,000.–",Apartment,5.0,5,146 m2,,,,1203 Genève
+664,"CHF2,080,000.–",Attic flat,4.0,7,115 m2,,,,"A Genève, 1203 Genève"
+665,"CHF2,690,000.–",Duplex,6.5,1,246 m2,3.0,2012.0,,1203 Genève
+666,"CHF149,000.–",Apartment,2.5,GF,45 m2,,1960.0,2010.0,1926 Fully
+667,"CHF1,740,000.–",Apartment,4.5,1,143 m2,,,,6925 Gentilino
+668,"CHF3,090,000.–",Attic flat,5.5,2,276 m2,,2024.0,,"via Privata, 6925 Gentilino"
+669,"CHF1,980,000.–",Apartment,5.0,5,146 m2,,,,1203 Genève
+670,"CHF2,080,000.–",Attic flat,4.0,7,115 m2,,,,"A Genève, 1203 Genève"
+671,"CHF2,690,000.–",Duplex,6.5,1,246 m2,3.0,2012.0,,1203 Genève
+672,"CHF6,480,000.–",Apartment,6.0,1,273 m2,,,2018.0,1204 Genève
+673,"CHF1,350,000.–",Apartment,4.0,2,81 m2,,1970.0,2021.0,1207 Genève
+674,"CHF580,000.–",Roof flat,4.5,3,110 m2,,1988.0,,2575 Gerolfingen
+675,"CHF580,000.–",Roof flat,3.5,3,110 m2,,1988.0,,2575 Gerolfingen
+676,"CHF760,000.–",Apartment,4.5,,,,,,"Via Camoghè, 6512 Giubiasco"
+677,"CHF420,000.–",Apartment,5.5,,,,,,"Via Lôro, 6582 Giubiasco"
+678,"CHF430,000.–",Apartment,3.5,,105 m2,3.0,,,6583 Giubiasco
+679,"CHF595,000.–",Apartment,3.5,2,89 m2,,2022.0,,"Ringstrasse 4c, 8737 Gommiswald"
+680,"CHF770,000.–",Apartment,5.5,1,127 m2,,2022.0,,"Ringstrasse 4c, 8737 Gommiswald"
+681,"CHF780,000.–",Apartment,5.5,2,127 m2,,2022.0,,"Ringstrasse 4c, 8737 Gommiswald"
+682,"CHF1,380,000.–",Apartment,4.5,5,130 m2,,2008.0,,6596 Gordola
+683,"CHF570,000.–",Apartment,4.5,,110 m2,,1960.0,1980.0,6518 Gorduno
+684,"CHF915,000.–",Apartment,5.5,1,130 m2,,2016.0,,"Allée du Verger 8, 1763 Granges-Paccot"
+685,"CHF713,300.–",Apartment,3.5,,130 m2,,2022.0,,1965 Granois
+686,"CHF1,258,000.–",Apartment,3.5,,103 m2,,2022.0,,"Route des Rahas, 3961 Grimentz"
+687,"CHF1,284,000.–",Apartment,4.5,,122 m2,,2022.0,,"Route des Rahas, 3961 Grimentz"
+688,"CHF1,284,000.–",Apartment,4.5,,122 m2,,2022.0,,"Route des Rahas, 3961 Grimentz"
+689,"CHF1,395,000.–",Apartment,4.5,,145 m2,,2009.0,,"Route de Grand-Combe 42, 3961 Grimentz"
+690,"CHF1,419,000.–",Apartment,4.5,GF,134 m2,,2022.0,,"Route des Rahas, 3961 Grimentz"
+691,"CHF1,419,000.–",Apartment,4.5,GF,134 m2,,2022.0,,"Route des Rahas, 3961 Grimentz"
+692,"CHF1,928,000.–",Duplex,5.5,,184 m2,,2022.0,,"Route des Rahas 20, 3961 Grimentz"
+693,"CHF2,053,000.–",Duplex,5.5,,193 m2,,2023.0,,"Route des Rahas 20, 3961 Grimentz"
+694,"CHF435,000.–",Apartment,3.5,1,61 m2,,1981.0,,1882 Gryon
+695,"CHF268,000.–",Studio,1.5,GF,40 m2,,1969.0,2018.0,1997 Haute-Nendaz
+696,"CHF1,890,000.–",Duplex,6.5,,155 m2,,1988.0,,6331 Hünenberg
+697,"CHF340,000.–",Apartment,2.5,1,55 m2,,2019.0,,6993 Iseo
+698,"CHF135,000.–",Attic,3.0,,65 m2,,1920.0,1988.0,1914 Isérables
+699,"CHF735,000.–",Apartment,4.5,2,127 m2,,2015.0,,"Hägendorfstrasse 3, 4616 Kappel SO"
+700,"CHF610,000.–",Apartment,2.5,1,54 m2,,,2022.0,"Flurstrasse 11, 8302 Kloten"
+701,"CHF1,180,000.–",Duplex,3.5,2,120 m2,,,2022.0,"Flurstrasse 13, 8302 Kloten"
+702,"CHF720,000.–",Apartment,5.5,,133 m2,1.0,2012.0,,2300 La Chaux-de-Fonds
+703,"CHF990,000.–",Attic flat,5.5,3,152 m2,,2017.0,,2300 La Chaux-de-Fonds
+704,"CHF1,390,000.–",Apartment,3.5,GF,116 m2,,,,1090 La Croix (Lutry)
+705,"CHF640,000.–",Apartment,4.5,GF,117 m2,,2021.0,,1634 La Roche FR
+706,"CHF1,370,000.–",Apartment,3.5,3,144 m2,1.0,2003.0,,1814 La Tour-de-Peilz
+707,"CHF760,000.–",Apartment,4.5,1,122 m2,,2016.0,,1635 La Tour-de-Trême
+708,"CHF760,000.–",Apartment,4.5,1,122 m2,,2016.0,,1635 La Tour-de-Trême
+709,"CHF650,000.–",Duplex,4.5,1,125 m2,,1996.0,,1611 Le Crêt-près-Semsales
+710,"CHF850,000.–",Duplex,6.5,,169 m2,,1996.0,,1611 Le Crêt-près-Semsales
+711,"CHF1,390,000.–",Apartment,3.5,GF,116 m2,,,,1090 La Croix (Lutry)
+712,"CHF640,000.–",Apartment,4.5,GF,117 m2,,2021.0,,1634 La Roche FR
+713,"CHF1,370,000.–",Apartment,3.5,3,144 m2,1.0,2003.0,,1814 La Tour-de-Peilz
+714,"CHF760,000.–",Apartment,4.5,1,122 m2,,2016.0,,1635 La Tour-de-Trême
+715,"CHF760,000.–",Apartment,4.5,1,122 m2,,2016.0,,1635 La Tour-de-Trême
+716,"CHF650,000.–",Duplex,4.5,1,125 m2,,1996.0,,1611 Le Crêt-près-Semsales
+717,"CHF850,000.–",Duplex,6.5,,169 m2,,1996.0,,1611 Le Crêt-près-Semsales
+718,"CHF260,000.–",Apartment,3.0,3,71 m2,1.0,1958.0,2017.0,2400 Le Locle
+719,"CHF410,000.–",Apartment,3.5,GF,100 m2,,1994.0,2007.0,1992 Les Agettes
+720,"CHF1,520,000.–",Apartment,4.5,GF,115 m2,,,,"Unterer Burghaldenweg, 4410 Liestal"
+721,CHF600.–,Apartment,1.5,,40 m2,,,,"Via della Pace, 6600 Locarno"
+722,CHF600.–,Apartment,1.5,,40 m2,,,,"Via della Pace, 6600 Locarno"
+723,"CHF125,000.–",Apartment,1.0,,250 m2,,,,6600 Locarno
+724,"CHF399,000.–",Apartment,2.5,4,62 m2,,2003.0,,"Via Gian Gaspare Nessi 25, 6600 Locarno"
+725,"CHF500,000.–",Terrace flat,2.5,,50 m2,,1978.0,,6600 Locarno
+726,"CHF530,000.–",Apartment,2.5,,72 m2,,2008.0,,"Ballerini 5a, 6600 Locarno"
+727,"CHF550,000.–",Apartment,4.5,2,115 m2,5.0,,,6600 Locarno
+728,"CHF670,000.–",Apartment,3.5,,70 m2,,1968.0,,6600 Locarno
+729,"CHF680,000.–",Apartment,3.5,1,104 m2,3.0,2019.0,,6600 Locarno
+730,"CHF700,000.–",Apartment,3.5,GF,91 m2,,2022.0,,"Via Valle Maggia, 6600 Locarno"
+731,"CHF740,000.–",Apartment,3.5,5,93 m2,,2018.0,,"Via Domenico Galli, 6600 Locarno"
+732,"CHF785,000.–",Apartment,4.5,4,95 m2,7.0,2007.0,,"Via Gian Gaspare Nessi 1B, 6600 Locarno"
+733,"CHF790,000.–",Apartment,3.5,,100 m2,5.0,2005.0,,6600 Locarno
+734,"CHF850,000.–",Apartment,4.5,3,135 m2,,2004.0,,6600 Locarno
+735,"CHF850,000.–",Apartment,3.5,4,106 m2,,,,"Via Luigi Lavizzari, 6600 Locarno"
+736,"CHF880,000.–",Apartment,3.5,7,107 m2,,2012.0,,"Via Luigi Lavizzari 14, 6600 Locarno"
+737,"CHF990,000.–",Apartment,5.5,6,,,,,"Via Rovedo, 6600 Locarno"
+738,"CHF1,440,000.–",Apartment,4.5,6,175 m2,,2022.0,,"Via Valle Maggia, 6600 Locarno"
+739,"CHF1,950,000.–",Terrace flat,2.5,,111 m2,,1978.0,,6600 Locarno
+740,"CHF2,450,000.–",Terrace flat,4.5,,160 m2,,1978.0,,6600 Locarno
+741,"CHF2,500,000.–",Apartment,5.5,1,228 m2,4.0,,2022.0,6600 Locarno
+742,"CHF2,600,000.–",Apartment,5.5,2,228 m2,4.0,,2022.0,6600 Locarno
+743,"CHF1,280,000.–",Apartment,3.5,,,,2022.0,,6605 Locarno
+744,"CHF1,300,000.–",Apartment,3.5,GF,106 m2,,2016.0,,6605 Locarno
+745,"CHF1,300,000.–",Apartment,3.5,GF,100 m2,,,,"Via Patocchi, 6605 Locarno"
+746,"CHF1,580,000.–",Apartment,4.5,,,,2022.0,,6605 Locarno
+747,"CHF1,690,000.–",Apartment,4.5,,160 m2,,1976.0,2004.0,6605 Locarno
+748,"CHF2,120,000.–",Terrace flat,4.5,3,253 m2,,2019.0,,6648 Locarno
+749,"CHF1,300,000.–",Apartment,3.5,,100 m2,,2014.0,,6605 Locarno-Monti
+750,"CHF530,000.–",Apartment,4.5,2,120 m2,3.0,1980.0,2014.0,6616 Losone
+751,"CHF675,000.–",Apartment,5.5,1,148 m2,3.0,,,6616 Losone
+752,"CHF850,000.–",Apartment,2.5,,87 m2,,2017.0,,8426 Lufingen
+753,"CHF1,300,000.–",Apartment,3.5,,100 m2,,2014.0,,6605 Locarno-Monti
+754,"CHF530,000.–",Apartment,4.5,2,120 m2,3.0,1980.0,2014.0,6616 Losone
+755,"CHF675,000.–",Apartment,5.5,1,148 m2,3.0,,,6616 Losone
+756,"CHF850,000.–",Apartment,2.5,,87 m2,,2017.0,,8426 Lufingen
+757,"CHF495,000.–",Apartment,3.5,3,86 m2,,,,"Via Cortivallo, 6900 Lugano"
+758,"CHF500,000.–",Apartment,4.5,2,110 m2,,,,6900 Lugano
+759,"CHF563,000.–",Apartment,2.5,4,68 m2,6.0,2020.0,,"via giacomo mercoli 3, 6900 Lugano"
+760,"CHF569,000.–",Apartment,3.0,4,68 m2,6.0,2020.0,,"Via Giacomo Mercoli 3, 6900 Lugano"
+761,"CHF582,000.–",Apartment,3.0,5,68 m2,6.0,2020.0,,"Via Giacomo Mercoli 3, 6900 Lugano"
+762,"CHF620,000.–",Apartment,4.5,1,126 m2,,,,"Via S. Gottardo, 6900 Lugano"
+763,"CHF660,000.–",Apartment,3.5,2,,,,,6900 Lugano
+764,"CHF690,000.–",Apartment,4.5,5,100 m2,,,2015.0,"Via al Ponte 5, 6900 Lugano"
+765,"CHF695,000.–",Apartment,2.5,4,,6.0,2017.0,,"Via Orti 4, 6900 Lugano"
+766,"CHF745,000.–",Apartment,3.5,3,,,,,6900 Lugano
+767,"CHF775,000.–",Duplex,4.5,,80 m2,,,,6900 Lugano
+768,"CHF780,000.–",Apartment,3.5,3,108 m2,3.0,,,6900 Lugano
+769,"CHF820,000.–",Apartment,4.5,4,112 m2,,,,"via Berna 9, 6900 Lugano"
+770,"CHF850,000.–",Apartment,3.5,4,,6.0,2017.0,,"via Orti 8, 6900 Lugano"
+771,"CHF890,000.–",Apartment,4.5,2,120 m2,4.0,,,"Via A e O torrricelli 45, 6900 Lugano"
+772,"CHF890,000.–",Apartment,4.5,2,128 m2,,1994.0,2014.0,6900 Lugano
+773,"CHF910,000.–",Apartment,2.5,6,,6.0,2018.0,,"via Orti 4, 6900 Lugano"
+774,"CHF920,000.–",Apartment,3.5,GF,115 m2,,1990.0,,6900 Lugano
+775,"CHF920,000.–",Apartment,3.5,3,98 m2,,1970.0,,"viale Carlo Cattaneo, 6900 Lugano"
+776,"CHF980,000.–",Apartment,4.5,1,139 m2,,2018.0,,6900 Lugano
+777,"CHF980,000.–",Apartment,4.5,,153 m2,4.0,2019.0,,6900 Lugano
+778,"CHF1,040,000.–",Apartment,3.5,2,125 m2,,,1980.0,"Via Domenico Fontana 6, 6900 Lugano"
+779,"CHF1,050,000.–",Apartment,,,135 m2,,,,6900 Lugano
+780,"CHF1,200,000.–",Apartment,4.5,3,130 m2,,1980.0,,"Strada Regina, 6900 Lugano"
+781,"CHF1,200,000.–",Apartment,3.5,GF,92 m2,,2015.0,,"Via pedemonte, 6900 Lugano"
+782,"CHF1,218,000.–",Apartment,3.5,4,101 m2,,,,6900 Lugano
+783,"CHF1,290,000.–",Apartment,4.5,2,164 m2,7.0,2014.0,,"Breganzona, 6900 Lugano"
+784,"CHF1,435,000.–",Apartment,4.5,2,126 m2,,2007.0,,6900 Lugano
+785,"CHF1,530,000.–",Apartment,4.5,1,135 m2,,1990.0,,6900 Lugano
+786,"CHF1,560,000.–",Apartment,6.5,,208 m2,,1970.0,,6900 Lugano
+787,"CHF1,590,000.–",Apartment,3.5,1,100 m2,,2000.0,,6900 Lugano
+788,"CHF1,700,000.–",Duplex,6.5,2,244 m2,3.0,1992.0,,6900 Lugano
+789,"CHF1,710,000.–",Apartment,3.5,2,150 m2,,2001.0,,6900 Lugano
+790,"CHF1,800,000.–",Apartment,4.5,8,176 m2,9.0,1975.0,,6900 Lugano
+791,"CHF2,150,000.–",Attic flat,5.5,3,163 m2,,,,6900 Lugano
+792,"CHF2,300,000.–",Duplex,4.5,,160 m2,,2005.0,,6900 Lugano
+793,"CHF2,318,250.–",Apartment,4.5,6,210 m2,,,,6900 Lugano
+794,"CHF2,380,000.–",Attic flat,5.5,5,190 m2,,,,6900 Lugano
+795,"CHF3,224,000.–",Apartment,4.5,4,248 m2,5.0,,,6900 Lugano
+796,"CHF3,300,000.–",Apartment,5.5,,161 m2,,2012.0,,6900 Lugano
+797,"CHF2,300,000.–",Duplex,4.5,,160 m2,,2005.0,,6900 Lugano
+798,"CHF2,318,250.–",Apartment,4.5,6,210 m2,,,,6900 Lugano
+799,"CHF2,380,000.–",Attic flat,5.5,5,190 m2,,,,6900 Lugano
+800,"CHF3,224,000.–",Apartment,4.5,4,248 m2,5.0,,,6900 Lugano
+801,"CHF3,300,000.–",Apartment,5.5,,161 m2,,2012.0,,6900 Lugano
+802,"CHF3,600,000.–",Apartment,6.0,5,400 m2,1.0,2022.0,,6900 Lugano
+803,"CHF3,840,000.–",Attic flat,4.5,5,241 m2,5.0,,,6900 Lugano
+804,"CHF4,500,000.–",Attic flat,5.5,,318 m2,,,,6900 Lugano
+805,"CHF7,494,000.–",Apartment,8.0,5,359 m2,2.0,,,6900 Lugano
+806,"CHF8,900,000.–",Apartment,3.5,1,216 m2,,,,"Piazza Berbardino Luini, 6900 Lugano"
+807,"CHF1,500,000.–",Apartment,3.5,GF,136 m2,7.0,2015.0,,"Lugano Centro - Posizione approssimativa, 6901 Lugano"
+808,"CHF415,000.–",Apartment,3.5,7,80 m2,,1978.0,,"via dei Faggi, 6912 Lugano"
+809,"CHF770,000.–",Apartment,4.5,5,150 m2,1.0,2001.0,,6913 Lugano
+810,"CHF1,150,000.–",Apartment,3.5,1,115 m2,3.0,2020.0,,"Breganzona, 6932 Lugano"
+811,"CHF1,270,000.–",Apartment,4.5,1,125 m2,3.0,2020.0,,"Breganzona, 6932 Lugano"
+812,"CHF510,000.–",Apartment,2.5,2,50 m2,,2015.0,,"Via alla Roggia, 6962 Lugano"
+813,"CHF900,000.–",Apartment,3.5,4,100 m2,,2009.0,,6962 Lugano
+814,"CHF950,000.–",Apartment,3.0,GF,157 m2,,2008.0,,6962 Lugano
+815,"CHF1,495,000.–",Apartment,5.0,5,198 m2,6.0,2002.0,,6962 Lugano
+816,"CHF1,550,000.–",Apartment,4.5,,130 m2,,2012.0,,6962 Lugano
+817,"CHF590,000.–",Apartment,2.5,4,60 m2,,2016.0,,"Via Boschina 4, 6963 Lugano"
+818,"CHF590,000.–",Apartment,2.5,4,60 m2,,2016.0,,"Via Boschina 4, 6963 Lugano"
+819,"CHF2,050,000.–",Attic flat,4.5,,174 m2,,2010.0,,6963 Lugano
+820,"CHF995,000.–",Apartment,3.5,1,215 m2,,2022.0,,6964 Lugano
+821,"CHF1,245,000.–",Apartment,4.5,3,263 m2,,2022.0,,6964 Lugano
+822,"CHF685,000.–",Apartment,2.5,GF,70 m2,,2006.0,,"Via Fesciano 8, 6965 Lugano"
+823,"CHF1,230,000.–",Apartment,5.5,,125 m2,,2021.0,,6965 Lugano
+824,"CHF1,280,000.–",Duplex,5.5,,116 m2,,2021.0,,6965 Lugano
+825,"CHF1,300,000.–",Apartment,5.0,3,105 m2,,1966.0,,1095 Lutry
+826,"CHF750,000.–",Apartment,3.5,,70 m2,,,,6928 Manno
+827,"CHF640,000.–",Apartment,3.5,1,,,,,6817 Maroggia
+828,"CHF366,000.–",Apartment,2.5,,61 m2,1.0,2022.0,,1920 Martigny
+829,"CHF370,000.–",Apartment,2.5,3,62 m2,1.0,2022.0,,1920 Martigny
+830,"CHF320,000.–",Apartment,1.5,2,44 m2,,1971.0,1995.0,6900 Massagno
+831,"CHF410,000.–",Apartment,2.5,2,45 m2,,,,6900 Massagno
+832,"CHF790,000.–",Apartment,2.5,,68 m2,5.0,2015.0,,"Massagno (Posizione Approssimata), 6900 Massagno"
+833,"CHF885,000.–",Apartment,3.5,,120 m2,,1974.0,,6900 Massagno
+834,"CHF1,450,000.–",Attic flat,4.5,2,200 m2,3.0,2015.0,,6900 Massagno
+835,"CHF3,000,000.–",Apartment,5.5,2,200 m2,,2008.0,2016.0,"Via Sassa 8, 6900 Massagno"
+836,"CHF265,000.–",Apartment,2.5,,45 m2,,1980.0,,1869 Massongex
+837,"CHF430,000.–",Apartment,4.5,1,,3.0,1994.0,,"In der Breiten 7, 2554 Meinisberg"
+838,"CHF510,000.–",Apartment,2.5,1,64 m2,,2022.0,,"Via Scairone, 6818 Melano"
+839,"CHF410,000.–",Apartment,2.5,2,45 m2,,,,6900 Massagno
+840,"CHF790,000.–",Apartment,2.5,,68 m2,5.0,2015.0,,"Massagno (Posizione Approssimata), 6900 Massagno"
+841,"CHF885,000.–",Apartment,3.5,,120 m2,,1974.0,,6900 Massagno
+842,"CHF1,450,000.–",Attic flat,4.5,2,200 m2,3.0,2015.0,,6900 Massagno
+843,"CHF3,000,000.–",Apartment,5.5,2,200 m2,,2008.0,2016.0,"Via Sassa 8, 6900 Massagno"
+844,"CHF265,000.–",Apartment,2.5,,45 m2,,1980.0,,1869 Massongex
+845,"CHF430,000.–",Apartment,4.5,1,,3.0,1994.0,,"In der Breiten 7, 2554 Meinisberg"
+846,"CHF510,000.–",Apartment,2.5,1,64 m2,,2022.0,,"Via Scairone, 6818 Melano"
+847,"CHF990,000.–",Attic flat,4.5,2,130 m2,,2022.0,,6818 Melano
+848,"CHF1,050,000.–",Apartment,4.5,GF,,,2022.0,,6818 Melano
+849,"CHF1,600,000.–",Attic flat,5.5,,187 m2,,2012.0,,6818 Melano
+850,"CHF1,600,000.–",Attic flat,5.5,,187 m2,,2012.0,,6818 Melano
+851,"CHF1,030,000.–",Apartment,2.0,,83 m2,,2016.0,,6815 Melide
+852,"CHF1,130,000.–",Apartment,3.5,,104 m2,,2017.0,,"Lungolago Motta, 6815 Melide"
+853,"CHF1,365,000.–",Apartment,4.5,3,126 m2,,,,6815 Melide
+854,"CHF1,415,000.–",Apartment,3.5,3,90 m2,,2016.0,,6815 Melide
+855,"CHF2,950,000.–",Attic flat,7.5,,,,,,6815 Melide
+856,"CHF210,000.–",Apartment,1.5,GF,42 m2,,2022.0,,6850 Mendrisio
+857,"CHF550,000.–",Apartment,2.5,1,,,,,6850 Mendrisio
+858,"CHF680,000.–",Apartment,3.5,3,124 m2,,,,"Via Carlo Pasta, 6850 Mendrisio"
+859,"CHF715,000.–",Apartment,3.5,,93 m2,,2020.0,,6850 Mendrisio
+860,"CHF790,000.–",Apartment,4.5,2,200 m2,,,,6850 Mendrisio
+861,"CHF830,000.–",Duplex,5.0,,200 m2,,,,6850 Mendrisio
+862,"CHF830,000.–",Apartment,5.0,,200 m2,,,,6850 Mendrisio
+863,"CHF1,090,000.–",Apartment,4.5,3,143 m2,4.0,2019.0,,"Via Praella, 6850 Mendrisio"
+864,"CHF1,160,000.–",Apartment,5.5,,178 m2,,2020.0,,6850 Mendrisio
+865,"CHF1,160,000.–",Apartment,4.5,3,152 m2,4.0,2019.0,,"Via Praella, 6850 Mendrisio"
+866,"CHF630,000.–",Apartment,2.5,4,66 m2,,2017.0,,6648 Minusio
+867,"CHF640,000.–",Apartment,3.5,2,102 m2,4.0,1970.0,,6648 Minusio
+868,"CHF760,000.–",Apartment,4.5,1,105 m2,,2006.0,,"Via San Gottardo 159, 6648 Minusio"
+869,"CHF890,000.–",Apartment,3.5,2,85 m2,,2005.0,,6648 Minusio
+870,"CHF1,215,000.–",Apartment,4.5,2,144 m2,,2017.0,,"Via San Quirico 4, 6648 Minusio"
+871,"CHF1,590,000.–",Terrace flat,3.5,5,140 m2,,1975.0,,"Via Mondacce 141, 6648 Minusio"
+872,"CHF2,300,000.–",Apartment,4.5,2,142 m2,,2014.0,,6648 Minusio
+873,"CHF2,440,000.–",Apartment,4.5,4,257 m2,,2019.0,,6648 Minusio
+874,"CHF2,550,000.–",Apartment,4.5,5,243 m2,,2019.0,,6648 Minusio
+875,"CHF2,565,000.–",Attic flat,3.5,6,150 m2,6.0,2020.0,,"Via Verbano 9, 6648 Minusio"
+876,"CHF2,630,000.–",Apartment,4.5,6,230 m2,,2019.0,,6648 Minusio
+877,"CHF661,000.–",Apartment,5.5,GF,124 m2,2.0,,,"Route de Montana, 3974 Mollens"
+878,"CHF706,000.–",Apartment,4.5,2,102 m2,,,,"Route de Montana, 3974 Mollens"
+879,"CHF461,900.–",Apartment,2.5,,60 m2,,2005.0,2012.0,1146 Mollens VD
+880,"CHF380,000.–",Apartment,2.5,3,60 m2,,1980.0,,3974 Mollens VS
+881,"CHF240,000.–",Apartment,2.5,1,45 m2,,,,"Place de l'Aigle 4, 1663 Moléson"
+882,"CHF3,480,000.–",Duplex,7.5,2,300 m2,2.0,2010.0,2021.0,1185 Mont-sur-Rolle
+883,"CHF1,680,000.–",Apartment,4.5,1,137 m2,,2012.0,,6926 Montagnola
+884,"CHF1,830,000.–",Apartment,6.5,GF,195 m2,,2011.0,,6926 Montagnola
+885,"CHF706,000.–",Apartment,4.5,2,102 m2,,,,"Route de Montana, 3974 Mollens"
+886,"CHF461,900.–",Apartment,2.5,,60 m2,,2005.0,2012.0,1146 Mollens VD
+887,"CHF380,000.–",Apartment,2.5,3,60 m2,,1980.0,,3974 Mollens VS
+888,"CHF240,000.–",Apartment,2.5,1,45 m2,,,,"Place de l'Aigle 4, 1663 Moléson"
+889,"CHF3,480,000.–",Duplex,7.5,2,300 m2,2.0,2010.0,2021.0,1185 Mont-sur-Rolle
+890,"CHF1,680,000.–",Apartment,4.5,1,137 m2,,2012.0,,6926 Montagnola
+891,"CHF1,830,000.–",Apartment,6.5,GF,195 m2,,2011.0,,6926 Montagnola
+892,"CHF2,780,000.–",Apartment,4.5,3,265 m2,,2004.0,,6926 Montagnola
+893,"CHF4,560,000.–",Apartment,7.5,GF,269 m2,2.0,2007.0,,6926 Montagnola
+894,"CHF4,590,000.–",Apartment,5.5,2,253 m2,,2021.0,,6926 Montagnola
+895,"CHF370,000.–",Apartment,2.5,GF,71 m2,,,,"Route du Pont Rouge, 1870 Monthey"
+896,"CHF595,000.–",Apartment,4.5,1,125 m2,,,,"Route du Pont Rouge, 1870 Monthey"
+897,"CHF890,000.–",Attic flat,5.5,3,171 m2,,,,"Route du Pont Rouge, 1870 Monthey"
+898,"CHF680,000.–",Apartment,3.5,1,82 m2,,1986.0,2000.0,1820 Montreux
+899,"CHF860,000.–",Apartment,3.5,3,80 m2,1.0,2014.0,,1820 Montreux
+900,"CHF1,600,000.–",Apartment,3.5,GF,104 m2,1.0,2008.0,,1820 Montreux
+901,"CHF1,650,000.–",Apartment,2.5,1,85 m2,,2019.0,,1820 Montreux
+902,"CHF2,250,000.–",Apartment,3.5,2,140 m2,,2014.0,,1820 Montreux
+903,"CHF2,590,000.–",Apartment,5.5,999,180 m2,,2003.0,,1820 Montreux
+904,"CHF3,900,000.–",Apartment,6.5,999,219 m2,,2009.0,,1820 Montreux
+905,"CHF340,000.–",Apartment,3.5,4,66 m2,,,,6834 Morbio Inferiore
+906,"CHF430,000.–",Apartment,4.5,1,,,,,6834 Morbio Inferiore
+907,"CHF1,250,000.–",Apartment,3.5,2,113 m2,4.0,,,6922 Morcote
+908,"CHF1,350,000.–",Apartment,4.5,,133 m2,,1995.0,,6922 Morcote
+909,"CHF525,000.–",Apartment,3.5,GF,92 m2,,2022.0,,1875 Morgins
+910,"CHF580,000.–",Apartment,4.5,1,104 m2,,2022.0,,1875 Morgins
+911,"CHF620,000.–",Apartment,4.5,GF,104 m2,,2020.0,,1875 Morgins
+912,"CHF450,000.–",Apartment,2.5,,,,,,"Via Francesca, 6600 Muralto"
+913,"CHF1,690,000.–",Apartment,4.5,2,140 m2,,2015.0,,6933 Muzzano
+914,"CHF2,320,000.–",Apartment,4.5,1,192 m2,,2015.0,,6933 Muzzano
+915,"CHF4,400,000.–",Apartment,5.5,4,285 m2,,2015.0,,6933 Muzzano
+916,"CHF680,000.–",Apartment,5.5,2,141 m2,3.0,1988.0,,"Alte Bernstrasse 2, 5036 Oberentfelden"
+917,"CHF750,000.–",Roof flat,2.5,,75 m2,,1996.0,,"Kirchgasse 6, 4104 Oberwil BL"
+918,"CHF850,000.–",Apartment,3.5,,91 m2,,1982.0,,6644 Orselina
+919,"CHF1,280,000.–",Apartment,3.5,,120 m2,,2010.0,,6644 Orselina
+920,"CHF495,000.–",Apartment,4.5,1,110 m2,,1967.0,2019.0,1937 Orsières
+921,"CHF340,000.–",Apartment,3.5,4,66 m2,,,,6834 Morbio Inferiore
+922,"CHF430,000.–",Apartment,4.5,1,,,,,6834 Morbio Inferiore
+923,"CHF1,250,000.–",Apartment,3.5,2,113 m2,4.0,,,6922 Morcote
+924,"CHF1,350,000.–",Apartment,4.5,,133 m2,,1995.0,,6922 Morcote
+925,"CHF525,000.–",Apartment,3.5,GF,92 m2,,2022.0,,1875 Morgins
+926,"CHF580,000.–",Apartment,4.5,1,104 m2,,2022.0,,1875 Morgins
+927,"CHF620,000.–",Apartment,4.5,GF,104 m2,,2020.0,,1875 Morgins
+928,"CHF450,000.–",Apartment,2.5,,,,,,"Via Francesca, 6600 Muralto"
+929,"CHF1,690,000.–",Apartment,4.5,2,140 m2,,2015.0,,6933 Muzzano
+930,"CHF2,320,000.–",Apartment,4.5,1,192 m2,,2015.0,,6933 Muzzano
+931,"CHF4,400,000.–",Apartment,5.5,4,285 m2,,2015.0,,6933 Muzzano
+932,"CHF680,000.–",Apartment,5.5,2,141 m2,3.0,1988.0,,"Alte Bernstrasse 2, 5036 Oberentfelden"
+933,"CHF750,000.–",Roof flat,2.5,,75 m2,,1996.0,,"Kirchgasse 6, 4104 Oberwil BL"
+934,"CHF850,000.–",Apartment,3.5,,91 m2,,1982.0,,6644 Orselina
+935,"CHF1,280,000.–",Apartment,3.5,,120 m2,,2010.0,,6644 Orselina
+936,"CHF495,000.–",Apartment,4.5,1,110 m2,,1967.0,2019.0,1937 Orsières
+937,"CHF599,000.–",Duplex,6.5,3,190 m2,5.0,1974.0,2016.0,1937 Orsières
+938,"CHF149,000.–",Studio,1.5,1,28 m2,,1975.0,2021.0,1911 Ovronnaz
+939,"CHF265,000.–",Apartment,2.5,3,57 m2,1.0,1983.0,2021.0,1911 Ovronnaz
+940,"CHF626,000.–",Apartment,3.5,GF,92 m2,,2022.0,,1911 Ovronnaz
+941,"CHF759,000.–",Apartment,3.5,,91 m2,,2022.0,,1911 Ovronnaz
+942,"CHF325,000.–",Apartment,1.0,2,36 m2,,,,6900 Paradiso
+943,"CHF450,000.–",Apartment,2.5,8,64 m2,,,,"Via Zorzi, 6900 Paradiso"
+944,"CHF1,395,000.–",Apartment,3.5,,127 m2,,2021.0,,6900 Paradiso
+945,"CHF1,480,000.–",Apartment,4.5,3,182 m2,,2015.0,,6900 Paradiso
+946,"CHF1,490,000.–",Apartment,3.5,2,100 m2,,,,6900 Paradiso
+947,"CHF2,000,000.–",Apartment,3.5,1,135 m2,,2014.0,,6900 Paradiso
+948,"CHF2,050,000.–",Apartment,4.5,8,180 m2,,2021.0,,"Via San Salvatore, 6900 Paradiso"
+949,"CHF2,620,000.–",Attic flat,4.5,6,201 m2,,2022.0,,6900 Paradiso
+950,"CHF2,630,000.–",Apartment,4.5,7,182 m2,,2008.0,,6900 Paradiso
+951,"CHF2,640,000.–",Apartment,5.5,4,260 m2,,,,"Via Zorzi, 6900 Paradiso"
+952,"CHF3,505,000.–",Attic flat,5.5,6,269 m2,,2021.0,,6900 Paradiso
+953,"CHF3,840,000.–",Attic flat,4.5,5,241 m2,5.0,,,6900 Paradiso
+954,"CHF3,960,000.–",Attic flat,4.5,5,241 m2,5.0,,,6900 Paradiso
+955,"CHF7,269,000.–",Attic flat,6.5,,269 m2,,,,6900 Paradiso
+956,"CHF940,000.–",Apartment,4.0,2,80 m2,,,,"A Perly, 1258 Perly"
+957,"CHF1,595,000.–",Apartment,5.0,1,126 m2,,2009.0,,1213 Petit-Lancy
+958,"CHF1,690,000.–",Apartment,5.0,7,133 m2,8.0,1970.0,,1213 Petit-Lancy
+959,"CHF365,000.–",Apartment,3.5,3,79 m2,,1971.0,,"Eichbühlstrasse 15, 5735 Pfeffikon (bei Rickenbach)"
+960,"CHF1,595,000.–",Apartment,5.0,,129 m2,,1990.0,2022.0,1228 Plan-les-Ouates
+961,"CHF805,000.–",Apartment,3.5,GF,95 m2,2.0,2021.0,,6946 Ponte Capriasca
+962,"CHF1,000,000.–",Apartment,3.5,,93 m2,,,,"Via ai Castagni, 6946 Ponte Capriasca"
+963,"CHF590,000.–",Attic flat,3.5,,99 m2,3.0,2017.0,,6988 Ponte Tresa
+964,"CHF365,000.–",Apartment,3.5,3,79 m2,,1971.0,,"Eichbühlstrasse 15, 5735 Pfeffikon (bei Rickenbach)"
+965,"CHF1,595,000.–",Apartment,5.0,,129 m2,,1990.0,2022.0,1228 Plan-les-Ouates
+966,"CHF805,000.–",Apartment,3.5,GF,95 m2,2.0,2021.0,,6946 Ponte Capriasca
+967,"CHF1,000,000.–",Apartment,3.5,,93 m2,,,,"Via ai Castagni, 6946 Ponte Capriasca"
+968,"CHF590,000.–",Attic flat,3.5,,99 m2,3.0,2017.0,,6988 Ponte Tresa
+969,"EUR650,000.–",Apartment,3.5,GF,120 m2,,1900.0,2003.0,6988 Ponte Tresa
+970,"CHF710,000.–",Apartment,4.5,,167 m2,3.0,2017.0,,6988 Ponte Tresa
+971,"CHF320,000.–",Apartment,3.5,2,70 m2,,,2022.0,"Rue Saint-Michel 1, 2900 Porrentruy"
+972,"CHF580,000.–",Apartment,4.5,1,105 m2,,,,"rue auguste cuenin 10, 2900 Porrentruy"
+973,"CHF580,000.–",Apartment,4.5,GF,109 m2,,,,"rue auguste cuenin 10, 2900 Porrentruy"
+974,"CHF2,900,000.–",Apartment,4.5,4,215 m2,2.0,2013.0,,6948 Porza
+975,"CHF610,000.–",Apartment,3.5,GF,89 m2,,2023.0,,"Furnerstrasse, 7231 Pragg-Jenaz"
+976,"CHF630,000.–",Apartment,3.5,1,,,2023.0,,"Furnerstrasse, 7231 Pragg-Jenaz"
+977,"CHF815,000.–",Apartment,4.5,1,113 m2,,2022.0,,"Furnerstrasse, 7231 Pragg-Jenaz"
+978,"CHF830,000.–",Apartment,4.5,GF,113 m2,,2023.0,,"Furnerstrasse, 7231 Pragg-Jenaz"
+979,"CHF577,000.–",Apartment,2.5,GF,,3.0,2019.0,,"strada di pregassona 56, 6963 Pregassona"
+980,"CHF698,000.–",Apartment,3.0,2,82 m2,4.0,2017.0,,6963 Pregassona
+981,"CHF950,000.–",Apartment,3.5,GF,,4.0,2014.0,,"via Roncobello 5, 6963 Pregassona"
+982,"CHF1,390,000.–",Attic flat,4.5,,142 m2,4.0,2018.0,,6963 Pregassona
+983,"CHF1,590,000.–",Apartment,5.5,GF,220 m2,3.0,1978.0,,6963 Pregassona
+984,"CHF1,700,000.–",Apartment,4.5,2,202 m2,,,,6963 Pregassona
+985,"CHF1,680,000.–",Apartment,4.5,4,105 m2,,2021.0,,"Chemin du Signal 143, 1070 Puidoux"
+986,"CHF1,690,000.–",Apartment,4.5,1,105 m2,,2021.0,,"Chemin du Signal 143, 1070 Puidoux"
+987,"CHF1,590,000.–",Apartment,5.5,GF,220 m2,3.0,1978.0,,6963 Pregassona
+988,"CHF1,700,000.–",Apartment,4.5,2,202 m2,,,,6963 Pregassona
+989,"CHF1,680,000.–",Apartment,4.5,4,105 m2,,2021.0,,"Chemin du Signal 143, 1070 Puidoux"
+990,"CHF1,690,000.–",Apartment,4.5,1,105 m2,,2021.0,,"Chemin du Signal 143, 1070 Puidoux"
+991,"CHF815,000.–",Apartment,3.0,GF,68 m2,1.0,,,1241 Puplinge
+992,"CHF990,000.–",Apartment,3.0,GF,78 m2,1.0,,,1241 Puplinge
+993,"CHF1,290,000.–",Apartment,5.0,1,118 m2,1.0,,,1241 Puplinge
+994,"CHF1,430,000.–",Duplex,5.0,2,145 m2,2.0,,,1241 Puplinge
+995,"CHF195,000.–",Apartment,4.5,1,120 m2,,,,6775 Quinto
+996,"CHF760,000.–",Apartment,4.5,,147 m2,,,,6862 Rancate
+997,"CHF335,000.–",Apartment,2.5,,52 m2,3.0,,2022.0,6577 Ranzo
+998,"CHF360,000.–",Apartment,3.5,1,83 m2,,1974.0,,4565 Recherswil
+999,"CHF330,000.–",Apartment,4.5,2,78 m2,,1960.0,2012.0,9424 Rheineck
+1000,"CHF330,000.–",Apartment,3.5,2,61 m2,,1960.0,2020.0,9424 Rheineck
+1001,"CHF316,350.–",Apartment,2.5,2,64 m2,,2022.0,,1908 Riddes
+1002,"CHF333,569.–",Apartment,2.5,2,67 m2,,2022.0,,1908 Riddes
+1003,"CHF349,031.–",Apartment,2.5,,62 m2,,2022.0,,1908 Riddes
+1004,"CHF425,000.–",Apartment,2.5,,69 m2,,2022.0,,1908 Riddes
+1005,"CHF681,673.–",Apartment,4.5,2,127 m2,,2022.0,,1908 Riddes
+1006,"CHF822,000.–",Attic flat,4.5,3,139 m2,,2021.0,,1908 Riddes
+1007,"CHF1,490,000.–",Apartment,5.5,1,,4.0,,,4125 Riehen
+1008,"CHF406,400.–",Apartment,2.0,2,63 m2,2.0,2022.0,,6825 Riva San Vitale
+1009,"CHF580,400.–",Apartment,3.0,,86 m2,,2022.0,,6825 Riva San Vitale
+1010,"CHF580,400.–",Apartment,3.0,2,86 m2,,2022.0,,6825 Riva San Vitale
+1011,"CHF672,000.–",Apartment,3.5,,106 m2,,2022.0,,6825 Riva San Vitale
+1012,"CHF597,600.–",Duplex,2.5,GF,83 m2,,2016.0,,6826 Riva San Vitale
+1013,"CHF731,100.–",Apartment,3.5,2,112 m2,,2016.0,,6826 Riva San Vitale
+1014,"CHF746,000.–",Apartment,3.5,2,117 m2,,2016.0,,6826 Riva San Vitale
+1015,"CHF1,370,000.–",Apartment,3.5,,124 m2,,2019.0,,"piazza grande, 6826 Riva San Vitale"
+1016,"CHF520,000.–",Attic flat,3.5,,76 m2,1.0,2010.0,,1852 Roche
+1017,"CHF545,000.–",Duplex,4.5,,95 m2,,1995.0,,"Metzerlenstrasse 8A, 4118 Rodersdorf"
+1018,"CHF430,000.–",Apartment,3.5,3,64 m2,,1968.0,,"Seehaldenstrasse 6, 9404 Rorschacherberg"
+1019,"CHF660,000.–",Apartment,3.5,GF,116 m2,,,,"Via Mesolcina, 6535 Roveredo GR"
+1020,"CHF775,000.–",Duplex,4.5,,80 m2,,,,6977 Ruvigliana
+1021,"CHF1,780,000.–",Apartment,4.5,GF,190 m2,,,,6977 Ruvigliana
+1022,"CHF2,650,000.–",Apartment,5.5,,320 m2,,2007.0,,6977 Ruvigliana
+1023,"CHF3,300,000.–",Apartment,5.5,1,160 m2,,2011.0,,6977 Ruvigliana
+1024,"CHF3,600,000.–",Apartment,4.5,3,200 m2,,2008.0,,6977 Ruvigliana
+1025,"CHF4,500,000.–",Apartment,4.5,,217 m2,,,,6977 Ruvigliana
+1026,"CHF378,000.–",Apartment,2.5,1,64 m2,,,,"Via del Tiglio, 6592 S. Antonino"
+1027,"CHF620,000.–",Apartment,4.5,GF,150 m2,,,,6854 S. Pietro
+1028,"CHF1,390,000.–",Duplex,5.5,,198 m2,3.0,,,6839 Sagno
+1029,"CHF495,000.–",Apartment,3.5,3,,,1980.0,2016.0,"via Canva 3, 6942 Savosa"
+1030,"CHF1,368,000.–",Attic flat,4.5,,,,,,"via Tesserete 69, 6942 Savosa"
+1031,"CHF620,000.–",Apartment,4.5,GF,150 m2,,,,6854 S. Pietro
+1032,"CHF1,390,000.–",Duplex,5.5,,198 m2,3.0,,,6839 Sagno
+1033,"CHF495,000.–",Apartment,3.5,3,,,1980.0,2016.0,"via Canva 3, 6942 Savosa"
+1034,"CHF1,368,000.–",Attic flat,4.5,,,,,,"via Tesserete 69, 6942 Savosa"
+1035,"CHF255,000.–",Apartment,3.5,,88 m2,1.0,,2013.0,1907 Saxon
+1036,"CHF525,000.–",Apartment,3.5,2,91 m2,1.0,2009.0,,1907 Saxon
+1037,"CHF555,000.–",Apartment,4.5,2,100 m2,,2008.0,2021.0,1907 Saxon
+1038,"CHF675,000.–",Roof flat,4.5,3,110 m2,,1985.0,,"Caglia Liunga Casa Sut Crest, 7151 Schluein"
+1039,"CHF690,000.–",Roof flat,6.5,2,170 m2,3.0,1983.0,2008.0,"Weitenaustrasse 3, 9215 Schönenberg an der Thur"
+1040,"CHF1,100,000.–",Attic flat,3.5,4,94 m2,4.0,2023.0,,8862 Schübelbach
+1041,"CHF1,250,000.–",Attic flat,3.5,4,112 m2,4.0,2023.0,,8862 Schübelbach
+1042,"CHF150,000.–",Apartment,1.5,,40 m2,,2004.0,,6514 Sementina
+1043,"CHF615,000.–",Apartment,4.5,,130 m2,,2004.0,,6514 Sementina
+1044,"CHF725,000.–",Apartment,4.5,,130 m2,,2004.0,,6514 Sementina
+1045,"CHF204,000.–",Apartment,1.5,2,37 m2,,,,"Avenue des Alpes 15, 3960 Sierre"
+1046,"CHF210,000.–",Apartment,1.5,3,37 m2,,,,"Avenue des Alpes 15, 3960 Sierre"
+1047,"CHF340,000.–",Apartment,4.5,,100 m2,,1969.0,,3960 Sierre
+1048,"CHF350,000.–",Apartment,4.5,,88 m2,,1975.0,2015.0,3960 Sierre
+1049,"CHF370,000.–",Apartment,4.5,3,115 m2,,1963.0,1998.0,3960 Sierre
+1050,"CHF525,000.–",Apartment,4.5,2,92 m2,,1970.0,,3960 Sierre
+1051,"CHF1,260,000.–",Terrace flat,4.5,,200 m2,,2018.0,,3960 Sierre
+1052,"CHF318,000.–",Apartment,1.0,2,49 m2,,2013.0,,1950 Sion
+1053,"CHF356,000.–",Apartment,2.5,1,60 m2,,2022.0,,1950 Sion
+1054,"CHF372,000.–",Apartment,2.5,GF,60 m2,,2022.0,,1950 Sion
+1055,"CHF404,000.–",Apartment,3.5,1,77 m2,,2021.0,,1950 Sion
+1056,"CHF420,000.–",Apartment,3.5,2,94 m2,,1985.0,,1950 Sion
+1057,"CHF434,000.–",Apartment,3.5,1,72 m2,,2022.0,,1950 Sion
+1058,"CHF451,000.–",Apartment,3.5,GF,72 m2,,2022.0,,1950 Sion
+1059,"CHF492,000.–",Apartment,3.5,2,88 m2,,2021.0,,1950 Sion
+1060,"CHF495,000.–",Apartment,3.5,,95 m2,,1995.0,2017.0,1950 Sion
+1061,"CHF530,000.–",Apartment,3.5,2,104 m2,,,,"Rue Hermann Geiger, 1950 Sion"
+1062,"CHF540,000.–",Apartment,2.5,1,61 m2,,2020.0,,"Rue de Condémines 34, 1950 Sion"
+1063,"CHF610,000.–",Apartment,4.5,1,124 m2,,,,"Rue Hermann Geiger, 1950 Sion"
+1064,"CHF620,000.–",Apartment,4.5,2,124 m2,,,,"Rue Hermann Geiger, 1950 Sion"
+1065,"CHF653,000.–",Attic flat,3.5,2,102 m2,,2022.0,,1950 Sion
+1066,"CHF659,000.–",Apartment,4.5,,122 m2,,2021.0,,1950 Sion
+1067,"CHF720,000.–",Apartment,3.5,2,105 m2,1.0,1995.0,,1950 Sion
+1068,"CHF829,000.–",Attic flat,4.5,2,126 m2,,2022.0,,1950 Sion
+1069,"CHF898,000.–",Apartment,5.5,2,145 m2,4.0,2011.0,2013.0,1950 Sion
+1070,"CHF990,000.–",Apartment,4.5,3,140 m2,1.0,1903.0,2006.0,1950 Sion
+1071,"CHF1,108,800.–",Apartment,3.5,1,126 m2,1.0,2021.0,,1950 Sion
+1072,"CHF1,125,000.–",Attic flat,4.5,5,212 m2,,1994.0,,1950 Sion
+1073,"CHF1,670,000.–",Attic flat,6.5,5,217 m2,2.0,1985.0,,1950 Sion
+1074,"CHF980,000.–",Apartment,4.5,1,213 m2,,,,"La Rosablanche, 1997 Siviez (Nendaz)"
+1075,"CHF640,000.–",Apartment,4.5,4,107 m2,,1996.0,,"Brühlstrasse 127, 4500 Solothurn"
+1076,"CHF1,175,000.–",Apartment,4.0,,136 m2,3.0,2021.0,,"Dino, 6901 Sonvico"
+1077,"CHF995,000.–",Attic flat,3.5,,118 m2,3.0,2021.0,,"Dino, 6968 Sonvico"
+1078,"CHF1,070,000.–",Apartment,4.5,2,120 m2,,2020.0,,"via cortivallo, 6924 Sorengo"
+1079,"CHF450,000.–",Apartment,2.5,,57 m2,,,,1806 St-Légier-La Chiésaz
+1080,"CHF1,710,000.–",Apartment,6.5,,155 m2,,2022.0,,1806 St-Légier-La Chiésaz
+1081,"CHF1,108,800.–",Apartment,3.5,1,126 m2,1.0,2021.0,,1950 Sion
+1082,"CHF1,125,000.–",Attic flat,4.5,5,212 m2,,1994.0,,1950 Sion
+1083,"CHF1,670,000.–",Attic flat,6.5,5,217 m2,2.0,1985.0,,1950 Sion
+1084,"CHF980,000.–",Apartment,4.5,1,213 m2,,,,"La Rosablanche, 1997 Siviez (Nendaz)"
+1085,"CHF640,000.–",Apartment,4.5,4,107 m2,,1996.0,,"Brühlstrasse 127, 4500 Solothurn"
+1086,"CHF1,175,000.–",Apartment,4.0,,136 m2,3.0,2021.0,,"Dino, 6901 Sonvico"
+1087,"CHF995,000.–",Attic flat,3.5,,118 m2,3.0,2021.0,,"Dino, 6968 Sonvico"
+1088,"CHF1,070,000.–",Apartment,4.5,2,120 m2,,2020.0,,"via cortivallo, 6924 Sorengo"
+1089,"CHF450,000.–",Apartment,2.5,,57 m2,,,,1806 St-Légier-La Chiésaz
+1090,"CHF1,710,000.–",Apartment,6.5,,155 m2,,2022.0,,1806 St-Légier-La Chiésaz
+1091,"CHF1,750,000.–",Apartment,5.5,,153 m2,,2022.0,,1806 St-Légier-La Chiésaz
+1092,"CHF440,000.–",Apartment,4.5,,100 m2,,1990.0,2014.0,1958 St-Léonard
+1093,"CHF265,000.–",Apartment,3.5,2,65 m2,,1960.0,2001.0,1890 St-Maurice
+1094,"CHF630,000.–",Apartment,4.5,GF,106 m2,,1986.0,,9015 St. Gallen
+1095,"CHF2,330,000.–",Apartment,3.5,1,118 m2,,,,"Galleria Badrut, 7500 St. Moritz"
+1096,"CHF590,000.–",Apartment,4.5,2,145 m2,4.0,2015.0,,6855 Stabio
+1097,"CHF620,000.–",Apartment,4.5,GF,150 m2,,,,6855 Stabio
+1098,"CHF515,000.–",Apartment,3.5,GF,68 m2,4.0,2023.0,,"Aachweg 1, 9323 Steinach"
+1099,"CHF465,000.–",Apartment,4.5,GF,104 m2,3.0,2014.0,,3952 Susten
+1100,"CHF755,000.–",Apartment,3.5,1,84 m2,,,,"Nauenstrasse 7a-e, 8632 Tann"
+1101,"CHF1,650,000.–",Attic flat,5.5,,162 m2,,,,"Nauenstrasse 7a-e, 8632 Tann"
+1102,"CHF398,000.–",Apartment,3.5,4,80 m2,,1980.0,,"Taverne, 6807 Taverne"
+1103,"CHF590,000.–",Apartment,3.5,GF,87 m2,,2014.0,,6652 Tegna
+1104,"CHF735,000.–",Apartment,4.5,,81 m2,,1971.0,2020.0,"Birsmattstrasse 42, 4106 Therwil"
+1105,"CHF180,000.–",Apartment,2.5,5,53 m2,,1994.0,,1899 Torgon
+1106,"CHF300,000.–",Furnished dwelling,3.5,5,80 m2,,1974.0,2018.0,1899 Torgon
+1107,"CHF400,000.–",Attic flat,2.5,2,66 m2,2.0,1985.0,,6807 Torricella-Taverne
+1108,"CHF745,000.–",Attic flat,4.5,2,134 m2,2.0,1985.0,,6807 Torricella-Taverne
+1109,"CHF1,175,000.–",Duplex,3.5,3,95 m2,,2001.0,,8707 Uetikon am See
+1110,"CHF182,000.–",Apartment,1.5,,35 m2,,2022.0,,1958 Uvrier
+1111,"CHF218,000.–",Apartment,1.5,,42 m2,,2022.0,,1958 Uvrier
+1112,"CHF276,000.–",Apartment,1.5,,53 m2,,2022.0,,1958 Uvrier
+1113,"CHF321,000.–",Studio,1.5,GF,42 m2,,2022.0,,1958 Uvrier
+1114,"CHF348,000.–",Apartment,2.5,,66 m2,,2022.0,,1958 Uvrier
+1115,"CHF348,000.–",Apartment,2.5,,70 m2,,2022.0,,1958 Uvrier
+1116,"CHF1,650,000.–",Attic flat,5.5,,162 m2,,,,"Nauenstrasse 7a-e, 8632 Tann"
+1117,"CHF398,000.–",Apartment,3.5,4,80 m2,,1980.0,,"Taverne, 6807 Taverne"
+1118,"CHF590,000.–",Apartment,3.5,GF,87 m2,,2014.0,,6652 Tegna
+1119,"CHF735,000.–",Apartment,4.5,,81 m2,,1971.0,2020.0,"Birsmattstrasse 42, 4106 Therwil"
+1120,"CHF180,000.–",Apartment,2.5,5,53 m2,,1994.0,,1899 Torgon
+1121,"CHF300,000.–",Furnished dwelling,3.5,5,80 m2,,1974.0,2018.0,1899 Torgon
+1122,"CHF400,000.–",Attic flat,2.5,2,66 m2,2.0,1985.0,,6807 Torricella-Taverne
+1123,"CHF745,000.–",Attic flat,4.5,2,134 m2,2.0,1985.0,,6807 Torricella-Taverne
+1124,"CHF1,175,000.–",Duplex,3.5,3,95 m2,,2001.0,,8707 Uetikon am See
+1125,"CHF182,000.–",Apartment,1.5,,35 m2,,2022.0,,1958 Uvrier
+1126,"CHF218,000.–",Apartment,1.5,,42 m2,,2022.0,,1958 Uvrier
+1127,"CHF276,000.–",Apartment,1.5,,53 m2,,2022.0,,1958 Uvrier
+1128,"CHF321,000.–",Studio,1.5,GF,42 m2,,2022.0,,1958 Uvrier
+1129,"CHF348,000.–",Apartment,2.5,,66 m2,,2022.0,,1958 Uvrier
+1130,"CHF348,000.–",Apartment,2.5,,70 m2,,2022.0,,1958 Uvrier
+1131,"CHF353,000.–",Apartment,2.5,GF,61 m2,,2022.0,,1958 Uvrier
+1132,"CHF361,000.–",Apartment,2.5,,70 m2,,2022.0,,1958 Uvrier
+1133,"CHF363,000.–",Attic flat,2.5,,60 m2,,2022.0,,1958 Uvrier
+1134,"CHF481,000.–",Apartment,3.5,GF,87 m2,,2022.0,,1958 Uvrier
+1135,"CHF486,000.–",Apartment,3.5,,97 m2,,2022.0,,1958 Uvrier
+1136,"CHF1,490,000.–",Row house,5.5,,140 m2,4.0,1994.0,2010.0,"Trislenstrasse, 8184 Bachenbülach"
+1137,"CHF1,960,000.–",Multi-family house,13.0,,359 m2,5.0,1949.0,2018.0,"Muespacherstrasse 47, 4055 Basel"
+1138,"CHF1,095,000.–",Single house,4.5,GF,108 m2,4.0,1950.0,2022.0,"Olivenweg 32, 3018 Bern"
+1139,"CHF1,400,000.–",Multi-family house,8.5,,195 m2,3.0,1967.0,2020.0,"Stafflerstrasse 17, 5620 Bremgarten AG"
+1140,"CHF1,200,000.–",Single house,6.0,,145 m2,4.0,1926.0,2016.0,"Neumattstrasse 40, 5033 Buchs AG"
+1141,"CHF1,290,000.–",Single house,7.0,,200 m2,,2022.0,,"Mellingerstrasse 48, 5314 Böttstein"
+1142,"CHF1,380,000.–",Villa,9.5,,,3.0,1987.0,,"Kanzelstrasse 23, 4622 Egerkingen"
+1143,"CHF1,380,000.–",Single house,6.0,,200 m2,4.0,2022.0,,"Geissgasse 15, 8762 Glarus Süd"
+1144,"CHF1,295,000.–",Single house,5.5,3,160 m2,3.0,2021.0,,"Friedhofweg 2, 5705 Hallwil"
+1145,"CHF1,998,000.–",Multi-family house,19.5,,190 m2,3.0,1923.0,1998.0,"Alte G. 7.8, 6440 Ingenbohl"
+1146,"CHF9,999,999.–",Single house,9.5,,560 m2,2.0,2010.0,2017.0,"Musterstrasse 9999, 2406 La Brévine"
+1147,"CHF1,270,000.–",Single house,6.5,,196 m2,2.0,2022.0,,"Rte des Préalpes 5, 1753 Matran"
+1148,"CHF1,180,000.–",Single house,5.5,,210 m2,,2023.0,,"Hubelstrasse, 5054 Moosleerau"
+1149,"CHF1,280,000.–",Single house,5.5,,210 m2,,2023.0,,"Hubelstrasse, 5054 Moosleerau"
+1150,"CHF1,090,000.–",Row house,6.5,,167 m2,3.0,2022.0,,"Maiholderstrasse, 4653 Obergösgen"
+1151,"CHF1,690,000.–",Bifamiliar house,7.5,,248 m2,4.0,2022.0,,"Litzistrasse 30, 8917 Oberlunkhofen"
+1152,"CHF830,000.–",Row house,4.0,,,4.0,1996.0,2022.0,"Hohle Gasse 10, 4433 Ramlinsburg"
+1153,"CHF1,080,000.–",Row house,6.5,GF,210 m2,4.0,,,"Erlenstrasse, 5462 Siglistorf"
+1154,"CHF1,265,000.–",Row house,6.5,GF,210 m2,4.0,,,"Erlenstrasse, 5462 Siglistorf"
+1155,"CHF1,090,000.–",Row house,6.5,,167 m2,3.0,2022.0,,"Maiholderstrasse, 4653 Obergösgen"
+1156,"CHF1,690,000.–",Bifamiliar house,7.5,,248 m2,4.0,2022.0,,"Litzistrasse 30, 8917 Oberlunkhofen"
+1157,"CHF830,000.–",Row house,4.0,,,4.0,1996.0,2022.0,"Hohle Gasse 10, 4433 Ramlinsburg"
+1158,"CHF1,080,000.–",Row house,6.5,GF,210 m2,4.0,,,"Erlenstrasse, 5462 Siglistorf"
+1159,"CHF1,265,000.–",Row house,6.5,GF,210 m2,4.0,,,"Erlenstrasse, 5462 Siglistorf"
+1160,"CHF2,650,000.–",Single house,8.0,,194 m2,3.0,1982.0,2021.0,1226 Thônex
+1161,"CHF4,950,000.–",Rustico,12.0,,270 m2,2.0,,2014.0,"Rodino Private Village, 6632 Vogorno"
+1162,"CHF3,050,000.–",Single house,6.5,,245 m2,3.0,1986.0,2013.0,"Pannerhofstrasse 19, 6353 Weggis"
+1163,"CHF1,790,000.–",Multi-family house,12.0,,308 m2,3.0,1900.0,2016.0,"Hauptstrasse 16, 4234 Zullwil"
+1164,"CHF10,000,000.–",Multi-family house,2.5,,666 m2,7.0,1912.0,2000.0,"Zypressenstrasse, 8004 Zürich"
+1165,"CHF5,800,000.–",Multi-family house,18.0,,350 m2,5.0,1895.0,2019.0,"Albisstrasse 86, 8038 Zürich"
+1166,"CHF1,200,000.–",Single house,7.5,,220 m2,,1986.0,,6716 Acquarossa
+1167,"CHF885,000.–",Single house,4.5,,164 m2,,1983.0,,6982 Agno
+1168,"CHF900,000.–",Row house,4.5,4,140 m2,4.0,1984.0,2017.0,"Via Cassinelle 19, 6982 Agno"
+1169,"CHF550,000.–",Chalet,5.0,,130 m2,2.0,1950.0,2000.0,6780 Airolo
+1170,"CHF800,000.–",Single house,5.5,,116 m2,4.0,,2015.0,"Dorfpl., 4123 Allschwil"
+1171,"CHF2,300,000.–",Multi-family house,,,260 m2,4.0,1912.0,,"Poststrasse 3, 4123 Allschwil"
+1172,"CHF1,100,000.–",Row house,5.5,,163 m2,3.0,2015.0,,6460 Altdorf UR
+1173,"CHF1,490,000.–",Single house,6.5,,,3.0,2017.0,,"Starenweg 3, 8514 Amlikon-Bissegg"
+1174,"CHF1,550,000.–",Single house,5.5,,171 m2,,1984.0,2014.0,9204 Andwil SG
+1175,"CHF1,220,000.–",Row house,5.5,,,3.0,2023.0,,"La Saugette, 1143 Apples"
+1176,"CHF695,000.–",Single house,4.5,,144 m2,,,,"Aproz (Nendaz), 1994 Aproz (Nendaz)"
+1177,"CHF1,490,000.–",Chalet,6.0,,220 m2,,2006.0,2015.0,1974 Arbaz
+1178,"CHF1,700,000.–",Chalet,7.5,2,225 m2,2.0,2016.0,2019.0,"Chemin des Mayens 6, 1974 Arbaz"
+1179,"CHF1,840,000.–",Chalet,5.5,,,,,,1974 Arbaz
+1180,"CHF1,625,000.–",Single house,4.5,,,2.0,1978.0,,6517 Arbedo
+1181,"CHF1,300,000.–",Bifamiliar house,4.5,,155 m2,3.0,1982.0,,"Adlismattstrasse 15, 8905 Arni"
+1182,"CHF1,030,000.–",Single house,5.5,,181 m2,,2021.0,,6822 Arogno
+1183,"CHF2,800,000.–",Single house,8.0,,202 m2,,1960.0,,6612 Ascona
+1184,"CHF450,000.–",Single house,4.5,,115 m2,,1990.0,,6999 Astano
+1185,"CHF3,200,000.–",Single house,12.0,,450 m2,,1993.0,,"Verger-au-Prêtre, 2954 Asuel"
+1186,"CHF2,750,000.–",Single house,10.5,,293 m2,,1996.0,2006.0,7310 Bad Ragaz
+1187,"CHF1,790,000.–",Multi-family house,,,,3.0,1965.0,1997.0,"Katzensteigweg, 5330 Bad Zurzach"
+1188,"CHF1,190,000.–",Row house,6.5,,150 m2,,1988.0,,5405 Baden / Dättwil
+1189,"CHF1,130,000.–",Single house,7.0,,240 m2,2.0,1974.0,,6828 Balerna
+1190,"CHF2,250,000.–",Villa,10.5,,537 m2,,1900.0,,6828 Balerna
+1191,"CHF1,550,000.–",Row house,5.5,,198 m2,,2000.0,,"Bodenacherstrasse 6C, 8303 Bassersdorf"
+1192,"CHF830,000.–",Chalet,4.5,,195 m2,,2008.0,,6781 Bedretto
+1193,"CHF1,550,000.–",Row house,5.5,,198 m2,,2000.0,,"Bodenacherstrasse 6C, 8303 Bassersdorf"
+1194,"CHF830,000.–",Chalet,4.5,,195 m2,,2008.0,,6781 Bedretto
+1195,"CHF2,150,000.–",Multi-family house,,,,4.0,1996.0,,"Aarauerstrasse 32, 5712 Beinwil am See"
+1196,"CHF1,095,000.–",Row house,5.5,,157 m2,3.0,1993.0,,"Hasenbergstrasse 30B, 5454 Bellikon"
+1197,"CHF950,000.–",Bifamiliar house,6.0,,176 m2,,,,9442 Berneck
+1198,"CHF660,000.–",Villa,8.0,,170 m2,2.0,,,1996 Bieudron (Nendaz)
+1199,"CHF2,100,000.–",Single house,6.5,,189 m2,3.0,2002.0,,"Hirtenbündtenweg 11, 4102 Binningen"
+1200,"CHF990,000.–",Single house,5.5,,173 m2,2.0,2022.0,,"Via Mulini 22, 6934 Bioggio"
+1201,"CHF1,450,000.–",Bifamiliar house,5.5,,180 m2,,,,5413 Birmenstorf AG
+1202,"CHF2,690,000.–",Villa,11.0,,,,1985.0,,6935 Bosco Luganese
+1203,"CHF1,400,000.–",Single house,4.5,,175 m2,2.0,2022.0,,6932 Breganzona
+1204,"CHF2,000,000.–",Bifamiliar house,8.0,,200 m2,3.0,,2010.0,6932 Breganzona
+1205,"CHF2,900,000.–",Villa,9.0,,248 m2,2.0,,2004.0,6932 Breganzona
+1206,"CHF3,300,000.–",Villa,9.0,,484 m2,,1970.0,,6932 Breganzona
+1207,"CHF1,900,000.–",Villa,4.5,,363 m2,,1987.0,,6835 Breggia
+1208,"CHF860,000.–",Farm house,10.0,,216 m2,,,2008.0,2904 Bressaucourt
+1209,"CHF850,000.–",Single house,5.5,,152 m2,2.0,,,6614 Brissago
+1210,"CHF1,150,000.–",Bifamiliar house,5.5,,177 m2,3.0,2011.0,,"Sommerhaldenstrasse, 5200 Brugg"
+1211,"CHF1,550,000.–",Single house,6.5,,152 m2,3.0,2009.0,,"Wüeristrasse 23, 8107 Buchs ZH"
+1212,"CHF2,200,000.–",Single house,8.5,,430 m2,,2017.0,,"Hinterfeldstrasse 11, 5736 Burg AG"
+1213,"CHF1,850,000.–",Terrace house,5.0,,145 m2,1.0,1976.0,2015.0,"Chemin Grand'Vignes 13, 1030 Bussigny"
+1214,"CHF6,000,000.–",Multi-family house,,,,,,,"Rte de Buyère 7, 1030 Bussigny"
+1215,"CHF1,239,000.–",Single house,5.5,,112 m2,4.0,1859.0,2022.0,"Schulstrasse 1, 8344 Bäretswil"
+1216,"CHF4,200,000.–",Villa,10.0,,613 m2,,,,6814 Cadempino
+1217,"CHF1,650,000.–",Bifamiliar house,8.0,,260 m2,2.0,,,6528 Camorino
+1218,"CHF1,250,000.–",Single house,4.5,,144 m2,3.0,2006.0,,"Via Ganna, 6952 Canobbio"
+1219,"CHF1,850,000.–",Villa,9.0,,350 m2,,,,"via trevano, 6952 Canobbio"
+1220,"CHF780,000.–",Single house,3.5,,150 m2,,1999.0,,6919 Carabietta
+1221,"CHF790,000.–",Single house,5.5,,228 m2,,2010.0,,6987 Caslano
+1222,"CHF1,140,000.–",Single house,5.5,,200 m2,,,,"Via Nosetto, 6987 Caslano"
+1223,"CHF4,300,000.–",Single house,6.0,,200 m2,2.0,,,6976 Castagnola
+1224,"CHF1,050,000.–",Single house,4.0,,43 m2,,,,1292 Chambésy
+1225,"CHF1,390,000.–",Chalet,10.0,,260 m2,3.0,1900.0,2005.0,"Rte de Chavalet 38, 1874 Champéry"
+1226,"CHF1,450,000.–",Chalet,6.5,,,,2006.0,,"Village-d'En-Haut 20, 1637 Charmey (Gruyère)"
+1227,"CHF1,690,000.–",Row house,6.5,,176 m2,4.0,,,1279 Chavannes-de-Bogis
+1228,"CHF790,000.–",Single house,5.5,,140 m2,,1870.0,1998.0,1618 Châtel-St-Denis
+1229,"CHF2,400,000.–",Villa,6.5,,360 m2,,1980.0,,6992 Cimo
+1230,"CHF1,150,000.–",Single house,6.5,,220 m2,2.0,,,6877 Coldrerio
+1231,"CHF10,900,000.–",Single house,,,350 m2,,,,1223 Cologny
+1232,"CHF790,000.–",Single house,5.5,,140 m2,,1870.0,1998.0,1618 Châtel-St-Denis
+1233,"CHF2,400,000.–",Villa,6.5,,360 m2,,1980.0,,6992 Cimo
+1234,"CHF1,150,000.–",Single house,6.5,,220 m2,2.0,,,6877 Coldrerio
+1235,"CHF10,900,000.–",Single house,,,350 m2,,,,1223 Cologny
+1236,"CHF1,350,000.–",Villa,6.5,,156 m2,2.0,2020.0,,1971 Coméraz(Grimisuat)
+1237,"CHF2,980,000.–",Single house,7.5,,180 m2,,1960.0,2020.0,1802 Corseaux
+1238,"CHF1,130,000.–",Single house,6.5,,317 m2,,1990.0,2011.0,2825 Courchapoix
+1239,"CHF500,000.–",Multi-family house,,,,,1982.0,2011.0,2853 Courfaivre
+1240,"CHF3,500,000.–",Chalet,5.0,,356 m2,3.0,2012.0,,"Briesses 4, 3963 Crans-Montana"
+1241,"CHF1,990,000.–",Bifamiliar house,6.5,,222 m2,3.0,1984.0,2021.0,1023 Crissier
+1242,"CHF1,095,000.–",Single house,5.5,,160 m2,,,,6516 Cugnasco
+1243,"CHF1,295,000.–",Single house,6.5,1,185 m2,,2007.0,,1482 Cugy FR
+1244,"CHF2,550,000.–",Single house,5.5,,295 m2,,1976.0,,6944 Cureglia
+1245,"CHF5,500,000.–",Villa,5.5,,400 m2,,,,6944 Cureglia
+1246,"CHF1,850,000.–",Villa,6.5,,250 m2,3.0,,,6964 Davesco-Soragno
+1247,"CHF1,680,000.–",Single house,4.5,,178 m2,,1979.0,,"Ramstelweg 21, 4143 Dornach"
+1248,"CHF4,200,000.–",Multi-family house,,,,3.0,1967.0,2021.0,4658 Däniken SO
+1249,"CHF860,000.–",Single house,4.5,,,2.0,,,"Chäppelistrasse 14, 5312 Döttingen"
+1250,"CHF1,540,000.–",Single house,6.5,,150 m2,4.0,1994.0,,"Bühlrain 3, 6030 Ebikon"
+1251,"CHF1,740,000.–",Bifamiliar house,5.5,,132 m2,3.0,2022.0,,"Chem. de l'Ormet, 1024 Ecublens"
+1252,"CHF3,650,000.–",Villa,8.0,,,,,,1024 Ecublens VD
+1253,"CHF5,800,000.–",Single house,12.5,,1300 m2,4.0,1990.0,,"Thalrichstrasse 2, 4622 Egerkingen"
+1254,"CHF1,350,000.–",Bifamiliar house,6.5,GF,193 m2,4.0,1996.0,2017.0,"Gehrenhagweg 10, 5420 Ehrendingen"
+1255,"CHF1,000,000.–",Bifamiliar house,4.5,,127 m2,2.0,1924.0,,5408 Ennetbaden
+1256,"CHF3,990,000.–",Single house,7.5,,248 m2,,2003.0,2021.0,1066 Epalinges
+1257,"CHF1,125,000.–",Multi-family house,9.5,,192 m2,3.0,1932.0,1972.0,"Wiedingstrasse, 5012 Eppenberg-Wöschnau"
+1258,"CHF750,000.–",Single house,5.5,,122 m2,3.0,1982.0,,"Käselstrasse 19, 4228 Erschwil"
+1259,"CHF970,000.–",Single house,5.5,,125 m2,3.0,1971.0,1991.0,"Zelgliweg 13, 8360 Eschlikon"
+1260,"CHF1,200,000.–",Single house,5.5,,170 m2,,2021.0,,1470 Estavayer-le-Lac
+1261,"CHF1,200,000.–",Villa,5.5,,175 m2,,2021.0,,1470 Estavayer-le-Lac
+1262,"CHF1,200,000.–",Single house,5.5,,170 m2,,2021.0,,1470 Estavayer-le-Lac
+1263,"CHF1,650,000.–",Row house,5.5,,170 m2,3.0,1992.0,2019.0,"Tisliacherstrasse 12, 8320 Fehraltorf"
+1264,"CHF1,150,000.–",Single house,5.5,,145 m2,,1981.0,,"Oberbodenstrasse, 8496 Fischenthal"
+1265,"CHF595,000.–",Single house,9.5,,305 m2,4.0,1740.0,,"Obergatt 1668, 9230 Flawil"
+1266,"CHF599,000.–",Single house,6.5,,155 m2,,1987.0,2016.0,2902 Fontenais
+1267,"CHF1,475,000.–",Bifamiliar house,5.5,,136 m2,3.0,2007.0,2021.0,"Im Mättli 6, 4414 Füllinsdorf"
+1268,"CHF1,690,000.–",Villa,5.5,,222 m2,,2018.0,,6853 Genestrerio
+1269,"CHF6,500,000.–",Single house,11.0,,600 m2,,1869.0,2018.0,1272 Genolier
+1270,"CHF1,150,000.–",Single house,5.5,,145 m2,,1981.0,,"Oberbodenstrasse, 8496 Fischenthal"
+1271,"CHF595,000.–",Single house,9.5,,305 m2,4.0,1740.0,,"Obergatt 1668, 9230 Flawil"
+1272,"CHF599,000.–",Single house,6.5,,155 m2,,1987.0,2016.0,2902 Fontenais
+1273,"CHF1,475,000.–",Bifamiliar house,5.5,,136 m2,3.0,2007.0,2021.0,"Im Mättli 6, 4414 Füllinsdorf"
+1274,"CHF1,690,000.–",Villa,5.5,,222 m2,,2018.0,,6853 Genestrerio
+1275,"CHF6,500,000.–",Single house,11.0,,600 m2,,1869.0,2018.0,1272 Genolier
+1276,"CHF1,890,000.–",Row house,7.0,,180 m2,,2000.0,2021.0,1294 Genthod
+1277,"CHF420,000.–",Row house,5.5,,120 m2,3.0,1912.0,2009.0,"Abläschstrasse 53, 8750 Glarus"
+1278,"CHF650,000.–",Single house,8.5,,,4.0,,,"Löwengasse 19, 8750 Glarus"
+1279,"CHF1,290,000.–",Single house,5.5,,160 m2,3.0,2008.0,,"Mühlestrasse 34, 8192 Glattfelden"
+1280,"CHF895,000.–",Single house,6.5,,220 m2,,1931.0,2002.0,"Dorfstrasse 494, 5728 Gontenschwil"
+1281,"CHF1,160,000.–",Multi-family house,,,,3.0,1919.0,,9200 Gossau SG
+1282,"CHF1,660,000.–",Single house,7.0,,173 m2,,2001.0,,8626 Gossau ZH
+1283,"CHF2,950,000.–",Single house,10.5,,255 m2,,,,1212 Grand-Lancy
+1284,"CHF1,080,000.–",Single house,5.5,,160 m2,3.0,,,"Martisackerweg, 4203 Grellingen"
+1285,"CHF1,385,000.–",Single house,5.5,,180 m2,3.0,2023.0,,"Martisackerweg, 4203 Grellingen"
+1286,"CHF1,200,000.–",Single house,8.5,,234 m2,3.0,1994.0,2022.0,"Ursiacker 10, 5014 Gretzenbach"
+1287,"CHF5,950,000.–",Chalet,9.0,,560 m2,,2022.0,,1882 Gryon
+1288,"CHF1,140,000.–",Single house,5.5,,155 m2,2.0,1977.0,2018.0,"Hanenbüelstieg 4, 8214 Gächlingen"
+1289,"CHF910,000.–",Single house,5.5,,190 m2,,2023.0,,"Dorfstrasse, 3412 Heimiswil"
+1290,"CHF849,000.–",Row house,5.5,,123 m2,,1989.0,,5604 Hendschiken
+1291,"CHF1,995,000.–",Bifamiliar house,6.5,,172 m2,4.0,1995.0,2022.0,"Frohmattweg 2, 8634 Hombrechtikon"
+1292,"CHF810,000.–",Row house,5.5,,147 m2,3.0,2018.0,,"Hauptsrtasse 555, 5075 Hornussen"
+1293,"CHF2,300,000.–",Farm house,26.0,,732 m2,3.0,1900.0,,"Oekingenstrasse 9, 4557 Horriwil"
+1294,"CHF2,850,000.–",Single house,12.0,,365 m2,4.0,1783.0,2021.0,5607 Hägglingen
+1295,"CHF1,050,000.–",Single house,5.5,,,3.0,1929.0,,"Lindauerstrasse 21, 8307 Illnau-Effretikon"
+1296,"CHF960,000.–",Single house,3.5,,139 m2,2.0,2003.0,2016.0,"Via Gottardo Piazzoni, 6655 Intragna"
+1297,"CHF1,900,000.–",Villa,6.5,,300 m2,2.0,1967.0,2014.0,"Via calezzo 12, 6655 Intragna"
+1298,"CHF3,450,000.–",Single house,8.5,2,262 m2,2.0,1974.0,2014.0,8645 Jona
+1299,"CHF2,100,000.–",Multi-family house,,,,,,,"Gähwilerstrasse 16, 9533 Kirchberg SG"
+1300,"CHF1,190,000.–",Bifamiliar house,5.5,,153 m2,,1973.0,2017.0,5416 Kirchdorf
+1301,"CHF1,465,000.–",Single house,6.0,,113 m2,2.0,1974.0,,"Vorder Bähntalstrasse 1, 8483 Kollbrunn"
+1302,"CHF1,250,000.–",Single house,5.5,,103 m2,2.0,1962.0,,"Zielweg 5, 6010 Kriens"
+1303,"CHF870,000.–",Single house,5.5,,113 m2,,1940.0,2017.0,"Dalvazza 11, 7240 Küblis"
+1304,"CHF9,999,999.–",Chalet,9.5,2,560 m2,3.0,2010.0,2017.0,"Musterstrasse 999, 2406 La Brévine"
+1305,"CHF9,999,999.–",Single house,9.5,,560 m2,2.0,2010.0,2017.0,"Musterstrasse 999, 2406 La Brévine"
+1306,"CHF610,000.–",Bifamiliar house,8.0,,230 m2,2.0,1830.0,2014.0,1454 La Vraconnaz
+1307,"CHF920,000.–",Single house,4.5,,193 m2,3.0,1950.0,2005.0,"Hausmattstrasse 5, 4438 Langenbruck"
+1308,"CHF699,000.–",Single house,5.5,3,140 m2,,,2018.0,4712 Laupersdorf
+1309,"CHF870,000.–",Single house,5.5,,113 m2,,1940.0,2017.0,"Dalvazza 11, 7240 Küblis"
+1310,"CHF9,999,999.–",Chalet,9.5,2,560 m2,3.0,2010.0,2017.0,"Musterstrasse 999, 2406 La Brévine"
+1311,"CHF9,999,999.–",Single house,9.5,,560 m2,2.0,2010.0,2017.0,"Musterstrasse 999, 2406 La Brévine"
+1312,"CHF610,000.–",Bifamiliar house,8.0,,230 m2,2.0,1830.0,2014.0,1454 La Vraconnaz
+1313,"CHF920,000.–",Single house,4.5,,193 m2,3.0,1950.0,2005.0,"Hausmattstrasse 5, 4438 Langenbruck"
+1314,"CHF699,000.–",Single house,5.5,3,140 m2,,,2018.0,4712 Laupersdorf
+1315,"CHF2,100,000.–",Single house,4.5,,,2.0,,,"Rte d'Oron 68, 1010 Lausanne"
+1316,"CHF1,980,000.–",Chalet,4.0,,145 m2,3.0,,2008.0,"Fontenelle, 1934 Le Châble VS"
+1317,"CHF1,800,000.–",Multi-family house,,,320 m2,,,,"Route de la Fromagerie 10, 2712 Le Fuet"
+1318,"CHF2,100,000.–",Bifamiliar house,6.5,,234 m2,3.0,2022.0,,"Ferrajoz-Millière, 1052 Le Mont-sur-Lausanne"
+1319,"CHF3,950,000.–",Single house,15.0,,400 m2,4.0,2004.0,,1052 Le Mont-sur-Lausanne
+1320,"CHF1,090,000.–",Single house,5.5,,165 m2,3.0,2022.0,,"Oberdorfstrasse, 5325 Leibstadt"
+1321,"CHF1,790,000.–",Chalet,7.0,,200 m2,2.0,1975.0,2014.0,"Rte de la Délège 55, 3963 Lens"
+1322,"CHF1,350,000.–",Villa,10.5,,310 m2,,1974.0,,6853 Ligornetto
+1323,"CHF1,350,000.–",Single house,5.5,,,,,,"Via Pezza Venerdì, 6616 Losone"
+1324,"CHF2,350,000.–",Single house,,,207 m2,,,,6616 Losone
+1325,"CHF1,270,000.–",Bifamiliar house,5.0,,160 m2,,2022.0,,6953 Lugaggia
+1326,"CHF1,700,000.–",Single house,4.5,,190 m2,2.0,2004.0,,6900 Lugano
+1327,"CHF1,740,000.–",Villa,7.0,,290 m2,,1982.0,,"Via delle scuole, 6900 Lugano"
+1328,"CHF2,950,000.–",Villa,8.5,,302 m2,,2005.0,,6900 Lugano
+1329,"CHF5,850,000.–",Multi-family house,18.0,,756 m2,,,,"Piazza Molino Nuovo, 6900 Lugano"
+1330,"CHF7,300,000.–",Villa,7.0,,550 m2,,1989.0,,"Via Vira, 6900 Lugano"
+1331,"CHF1,790,000.–",Single house,7.5,,250 m2,3.0,1977.0,2020.0,"Str. di Orte 15, 6968 Lugano"
+1332,"CHF1,825,000.–",Single house,5.5,,209 m2,3.0,1975.0,2020.0,"Adelwil 3, 6203 Luzern"
+1333,"CHF1,250,000.–",Row house,4.5,,151 m2,4.0,1999.0,,"Magdalenastrasse 38, 4312 Magden"
+1334,"CHF1,590,000.–",Villa,5.5,,170 m2,,2021.0,,"Via Guasti, 6983 Magliaso"
+1335,"CHF1,350,000.–",Single house,6.5,,193 m2,,1971.0,,6102 Malters
+1336,"CHF1,120,000.–",Villa,5.5,,145 m2,,2022.0,,6928 Manno
+1337,"CHF1,600,000.–",Single house,7.5,-1,240 m2,4.0,1715.0,1984.0,"Oberdorf 22, 8460 Marthalen"
+1338,"CHF1,146,000.–",Single house,7.5,,170 m2,,2023.0,,"Mattenweg, 3860 Meiringen"
+1339,"CHF1,460,000.–",Villa,4.5,,,,2018.0,,6818 Melano
+1340,"CHF7,000,000.–",Villa,6.5,,400 m2,,2022.0,,"Lungolago Giuseppe Motta, 6815 Melide"
+1341,"CHF2,375,000.–",Single house,6.5,,247 m2,,,,"Chem. des Feuillus 11, 1217 Meyrin"
+1342,"CHF2,245,000.–",Row house,5.5,,150 m2,3.0,2005.0,2021.0,"Chemin, 1295 Mies"
+1343,"CHF6,200,000.–",Single house,11.5,,600 m2,,1782.0,2002.0,1185 Mont-sur-Rolle
+1344,"CHF12,500,000.–",Villa,10.0,,695 m2,3.0,2020.0,,6926 Montagnola
+1345,"CHF1,450,000.–",Villa,8.5,,430 m2,2.0,1977.0,,6834 Morbio Inferiore
+1346,"CHF6,500,000.–",Villa,14.0,,580 m2,,1969.0,2005.0,1110 Morges
+1347,"CHF7,800,000.–",Multi-family house,,,2586 m2,,1918.0,2021.0,"Rue Industrielle 82, 2740 Moutier"
+1348,"CHF1,425,000.–",Single house,5.5,,160 m2,3.0,2022.0,,9542 Münchwilen TG
+1349,"CHF2,995,000.–",Multi-family house,,,680 m2,4.0,1970.0,2017.0,"Saars, 2000 Neuchâtel"
+1350,"CHF1,680,000.–",Single house,7.0,3,170 m2,3.0,2007.0,,"Sonnmatt 2, 6206 Neuenkirch"
+1351,"CHF1,850,000.–",Single house,8.0,,450 m2,3.0,1987.0,2011.0,"Oberwiesstrasse 34, 8213 Neunkirch"
+1352,"CHF950,000.–",Single house,,,,,2020.0,,"Impasse du Tronchet, 1740 Neyruz"
+1353,"CHF7,800,000.–",Multi-family house,,,2586 m2,,1918.0,2021.0,"Rue Industrielle 82, 2740 Moutier"
+1354,"CHF1,425,000.–",Single house,5.5,,160 m2,3.0,2022.0,,9542 Münchwilen TG
+1355,"CHF2,995,000.–",Multi-family house,,,680 m2,4.0,1970.0,2017.0,"Saars, 2000 Neuchâtel"
+1356,"CHF1,680,000.–",Single house,7.0,3,170 m2,3.0,2007.0,,"Sonnmatt 2, 6206 Neuenkirch"
+1357,"CHF1,850,000.–",Single house,8.0,,450 m2,3.0,1987.0,2011.0,"Oberwiesstrasse 34, 8213 Neunkirch"
+1358,"CHF950,000.–",Single house,,,,,2020.0,,"Impasse du Tronchet, 1740 Neyruz"
+1359,"CHF870,000.–",Single house,4.0,3,124 m2,3.0,1996.0,2018.0,"Unterrotenweg 11A, 4208 Nunningen"
+1360,"CHF3,050,000.–",Single house,8.5,4,250 m2,,2006.0,2021.0,1260 Nyon
+1361,"CHF1,180,000.–",Row house,5.5,,200 m2,,2023.0,,"Bachdörfli 17, 8752 Näfels"
+1362,"CHF1,690,000.–",Single house,5.5,,220 m2,3.0,1996.0,2017.0,8917 Oberlunkhofen
+1363,"CHF1,800,000.–",Single house,10.5,,341 m2,,1996.0,1996.0,"Voa dal 3, 7082 Obervaz"
+1364,"CHF1,800,000.–",Multi-family house,10.5,,341 m2,,1969.0,1996.0,"Voa dal 3, 7082 Obervaz"
+1365,"CHF2,900,000.–",Bifamiliar house,6.5,,200 m2,,1980.0,2013.0,6315 Oberägeri
+1366,"CHF3,500,000.–",Villa,6.5,,443 m2,1.0,2010.0,,6945 Origlio
+1367,"CHF760,000.–",Chalet,4.5,,104 m2,2.0,2005.0,,"Chem. du Racca, 1865 Ormont-Dessus"
+1368,"CHF765,000.–",Chalet,4.5,,146 m2,2.0,2022.0,,1911 Ovronnaz
+1369,"CHF1,375,000.–",Villa,4.5,,115 m2,2.0,1965.0,,"Via Boggia 22, 6900 Paradiso"
+1370,"CHF1,460,000.–",Single house,5.0,,288 m2,3.0,2003.0,,"Via Santo Stefano 7A, 6832 Pedrinate"
+1371,"CHF1,390,000.–",Single house,7.5,,200 m2,3.0,1968.0,,"Buckstrasse 5, 8422 Pfungen"
+1372,"CHF850,000.–",Single house,5.5,,,3.0,1977.0,2019.0,"Rue de la Courtine 20, 2807 Pleigne"
+1373,"CHF2,475,000.–",Single house,7.5,,,,2005.0,,6946 Ponte Capriasca
+1374,"CHF850,000.–",Villa,7.5,,250 m2,,1965.0,,6988 Ponte Tresa
+1375,"CHF2,590,000.–",Single house,4.5,,,2.0,2010.0,,6948 Porza
+1376,"CHF6,000,000.–",Multi-family house,12.0,,650 m2,6.0,2022.0,,"Pregassona bassa, 6963 Pregassona"
+1377,"CHF1,820,000.–",Bifamiliar house,5.5,,145 m2,2.0,2023.0,,"Robinienweg 50, 4153 Reinach"
+1378,"CHF2,780,000.–",Villa,6.5,,250 m2,3.0,2023.0,,"Robinienweg 50, 4153 Reinach"
+1379,"CHF2,395,000.–",Single house,6.5,,270 m2,3.0,1980.0,2017.0,5453 Remetschwil
+1380,"CHF1,850,000.–",Row house,7.0,,230 m2,4.0,1907.0,2012.0,"Chem. des Clos, 1020 Renens"
+1381,"CHF7,900,000.–",Farm house,15.5,,,,,,"Haut de Morges, 1128 Reverolle"
+1382,"CHF960,000.–",Single house,5.5,,174 m2,4.0,,,"Neuensteigweg 10, 9424 Rheineck"
+1383,"CHF2,900,000.–",Multi-family house,,,1062 m2,,1918.0,2020.0,"Brüggershofstrasse 1, 9424 Rheineck"
+1384,"CHF820,000.–",Farm house,7.0,,188 m2,3.0,1820.0,,"Austrasse 5, 8545 Rickenbach ZH"
+1385,"CHF6,000,000.–",Villa,11.5,GF,319 m2,4.0,1932.0,2014.0,"Kirchstrasse 11, 4125 Riehen"
+1386,"CHF1,070,000.–",Single house,5.5,,149 m2,3.0,2022.0,,"Sonneweg, 5323 Rietheim"
+1387,"CHF2,990,000.–",Villa,6.5,,335 m2,,2021.0,,"Piazza grande, 6826 Riva San Vitale"
+1388,"CHF1,398,000.–",Single house,5.5,,,2.0,1957.0,2020.0,"Weissensteinweg 6, 4852 Rothrist"
+1389,"CHF2,200,000.–",Farm house,7.5,,285 m2,3.0,1828.0,,"Bernstrasse 270, 4852 Rothrist"
+1390,"CHF1,250,000.–",Single house,7.0,,250 m2,2.0,1998.0,,6821 Rovio
+1391,"CHF2,990,000.–",Villa,6.5,,335 m2,,2021.0,,"Piazza grande, 6826 Riva San Vitale"
+1392,"CHF1,398,000.–",Single house,5.5,,,2.0,1957.0,2020.0,"Weissensteinweg 6, 4852 Rothrist"
+1393,"CHF2,200,000.–",Farm house,7.5,,285 m2,3.0,1828.0,,"Bernstrasse 270, 4852 Rothrist"
+1394,"CHF1,250,000.–",Single house,7.0,,250 m2,2.0,1998.0,,6821 Rovio
+1395,"CHF4,300,000.–",Villa,11.5,GF,460 m2,,,,6977 Ruvigliana
+1396,"CHF1,029,000.–",Single house,5.5,,206 m2,,2023.0,,"Wiesenweg, 3422 Rüdtligen"
+1397,"CHF300,000.–",Chalet,2.5,,,,,,3153 Rüschegg Gambach
+1398,"CHF2,590,000.–",Single house,10.0,,245 m2,,1983.0,,1242 SATIGNY
+1399,"CHF970,000.–",Row house,4.5,,165 m2,3.0,,,6839 Sagno
+1400,"CHF980,000.–",Single house,5.5,GF,175 m2,2.0,2022.0,,"Via Caüsc, 6839 Sagno"
+1401,"CHF986,000.–",Villa,4.5,,129 m2,,2016.0,,1991 Salins
+1402,"CHF740,000.–",Bifamiliar house,4.5,,100 m2,4.0,,,"Feldeggstrasse 6, 5614 Sarmenstorf"
+1403,"CHF1,250,000.–",Single house,5.0,,180 m2,3.0,,,"Kantonsstrasse 9, 8863 Schübelbach"
+1404,"CHF2,350,000.–",Single house,6.5,,260 m2,3.0,1988.0,2013.0,"Kornweg 8, 5707 Seengen"
+1405,"CHF600,000.–",Single house,5.0,,132 m2,2.0,1880.0,2020.0,"Schesaplanastrasse 15, 7212 Seewis Dorf"
+1406,"CHF650,000.–",Chalet,6.0,,100 m2,2.0,1820.0,2002.0,"Crestacalva 6, 7212 Seewis Dorf"
+1407,"CHF1,390,000.–",Row house,7.5,,180 m2,5.0,1997.0,2022.0,"Rainweg 33, 8472 Seuzach"
+1408,"CHF2,760,000.–",Multi-family house,,GF,250 m2,2.0,1858.0,2020.0,"Püntenstrasse 4b-d, 8472 Seuzach"
+1409,"CHF2,010,000.–",Multi-family house,,,196 m2,3.0,1909.0,2008.0,"Sihltalstrasse 13, 8135 Sihlbrugg Station"
+1410,"CHF740,000.–",Multi-family house,7.0,,160 m2,4.0,1875.0,2016.0,"Zunzgerstrasse 5, 4450 Sissach"
+1411,"CHF2,900,000.–",Villa,7.5,,300 m2,3.0,,,"Località Coste, 6924 Sorengo"
+1412,"CHF1,350,000.–",Single house,9.0,,290 m2,4.0,1908.0,2013.0,2072 St-Blaise
+1413,"CHF50,000.–",Multi-family house,,,,5.0,1965.0,,9000 St. Gallen
+1414,"CHF1,650,000.–",Single house,7.5,,200 m2,3.0,2000.0,2021.0,"Wattbachstrasse 9, 9012 St. Gallen"
+1415,"CHF950,000.–",Multi-family house,9.5,3,154 m2,,1927.0,2015.0,"Aarauerstrasse 18, 4656 Starrkirch-Wil"
+1416,"CHF950,000.–",Multi-family house,,,,3.0,1927.0,2015.0,"6 Seeblickstr, 4656 Starrkirch-Wil"
+1417,"CHF1,000,000.–",Row house,5.5,,135 m2,,,,4332 Stein AG
+1418,"CHF1,220,000.–",Row house,5.5,,,3.0,,,6652 Tegna
+1419,"CHF1,490,000.–",Bifamiliar house,5.5,,169 m2,3.0,2022.0,,"Oberdorfstrasse, 8478 Thalheim an der Thur"
+1420,"CHF1,300,000.–",Multi-family house,,,,,,,"Mönchstrasse 36, 3600 Thun"
+1421,"CHF2,900,000.–",Villa,8.0,,290 m2,,,,6808 Torricella
+1422,"CHF1,250,000.–",Villa,5.5,1,240 m2,3.0,2004.0,,1733 Treyvaux
+1423,"CHF3,490,000.–",Villa,9.0,,200 m2,3.0,1987.0,2012.0,"87 route de Troinex, 1256 Troinex"
+1424,"CHF890,000.–",Villa,5.5,,155 m2,3.0,,,"Chenarlier, 1872 Troistorrents"
+1425,"CHF720,000.–",Single house,5.0,,104 m2,,,,"Landstrasse 16, 5300 Turgi"
+1426,"CHF1,750,000.–",Row house,4.5,,177 m2,,1999.0,2017.0,8707 Uetikon am See
+1427,"CHF8,320,000.–",Villa,6.5,,290 m2,2.0,2013.0,,"Langwiesstrasse 12, 8142 Uitikon Waldegg"
+1428,"CHF1,150,000.–",Multi-family house,,,,3.0,,2000.0,6833 Vacallo
+1429,"CHF1,990,000.–",Single house,7.0,,245 m2,,,,6833 Vacallo
+1430,"CHF965,000.–",Multi-family house,,,,,,,1337 Vallorbe
+1431,"CHF6,300,000.–",Single house,9.0,,270 m2,,1990.0,2021.0,1253 Vandoeuvres
+1432,"CHF13,590,000.–",Chalet,9.0,,524 m2,6.0,2022.0,,1936 Verbier
+1433,"CHF8,320,000.–",Villa,6.5,,290 m2,2.0,2013.0,,"Langwiesstrasse 12, 8142 Uitikon Waldegg"
+1434,"CHF1,150,000.–",Multi-family house,,,,3.0,,2000.0,6833 Vacallo
+1435,"CHF1,990,000.–",Single house,7.0,,245 m2,,,,6833 Vacallo
+1436,"CHF965,000.–",Multi-family house,,,,,,,1337 Vallorbe
+1437,"CHF6,300,000.–",Single house,9.0,,270 m2,,1990.0,2021.0,1253 Vandoeuvres
+1438,"CHF13,590,000.–",Chalet,9.0,,524 m2,6.0,2022.0,,1936 Verbier
+1439,"CHF2,950,000.–",Single house,7.0,1,320 m2,2.0,1945.0,2012.0,1290 Versoix
+1440,"CHF4,800,000.–",Single house,9.0,,313 m2,,1968.0,2021.0,1290 Versoix
+1441,"CHF4,500,000.–",Villa,7.5,,388 m2,3.0,1989.0,2018.0,"lugano, 6921 Vico Morcote"
+1442,"CHF1,050,000.–",Row house,4.5,,,3.0,1987.0,1999.0,6966 Villa Luganese
+1443,"CHF1,750,000.–",Single house,5.5,,200 m2,2.0,2018.0,,6574 Vira
+1444,"CHF860,000.–",Bifamiliar house,4.0,GF,110 m2,2.0,2021.0,,6574 Vira (Gambarogno)
+1445,"CHF1,440,000.–",Bifamiliar house,5.5,,180 m2,2.0,2021.0,,6574 Vira (Gambarogno)
+1446,"CHF1,200,000.–",Multi-family house,15.0,,260 m2,4.0,1905.0,,"Seestrasse 43, 6354 Vitznau"
+1447,"CHF770,000.–",Single house,4.5,,120 m2,2.0,2014.0,,1963 Vétroz
+1448,"CHF1,350,000.–",Multi-family house,,,,3.0,1775.0,2021.0,"Bachtelstrasse 9, 8636 Wald ZH"
+1449,"CHF3,650,000.–",Multi-family house,,,483 m2,,1856.0,2022.0,"Hauptstrasse 41, 4437 Waldenburg"
+1450,"CHF3,200,000.–",Multi-family house,,,276 m2,4.0,1927.0,,"Frohheimstrasse 2, 8304 Wallisellen"
+1451,"CHF1,550,000.–",Bifamiliar house,5.5,,133 m2,,1994.0,,8602 Wangen
+1452,"CHF1,850,000.–",Bifamiliar house,4.5,4,150 m2,4.0,1999.0,2012.0,"Zielstrasse 63, 8105 Watt"
+1453,"CHF1,950,000.–",Bifamiliar house,4.5,,150 m2,3.0,2001.0,2020.0,"Zielstrasse 63, 8105 Watt"
+1454,"CHF1,300,000.–",Single house,6.5,,168 m2,,1969.0,2016.0,"Dammstrasse 9, 5210 Windisch"
+1455,"CHF1,780,000.–",Bifamiliar house,5.5,,177 m2,3.0,2022.0,,"Chlösterlistrasse 56, 8405 Winterthur"
+1456,"CHF1,250,000.–",Single house,7.5,,157 m2,,1970.0,,9300 Wittenbach
+1457,"CHF1,850,000.–",Multi-family house,8.0,,250 m2,3.0,1967.0,,"Höhenweg 35, 5610 Wohlen AG"
+1458,"CHF980,000.–",Single house,5.5,GF,143 m2,2.0,1912.0,2020.0,"Chnubelacher 109A, 4954 Wyssachen"
+1459,"CHF2,780,000.–",Single house,5.5,,196 m2,1.0,1971.0,2015.0,"Prom. des Pins, 1400 Yverdon-les-Bains"
+1460,"CHF799,000.–",Terrace house,6.5,,155 m2,3.0,1976.0,2019.0,"Am Stutz, 4314 Zeiningen"
+1461,"CHF1,600,000.–",Single house,6.0,,150 m2,3.0,,,"Brunnmattstrasse 18/20, 4528 Zuchwil"
+1462,"CHF2,580,000.–",Terrace house,6.5,3,285 m2,3.0,2012.0,,"Rebbergstrasse 62, 5621 Zufikon"
+1463,"CHF8,000,000.–",Multi-family house,,,,,,,"Hildastrasse 18, 8004 Zürich"
+1464,"CHF9,700,000.–",Multi-family house,,,823 m2,,1939.0,,"Herbartstrasse 3 & 5, 8004 Zürich"
+1465,"CHF9,590,000.–",Villa,9.0,,262 m2,4.0,1924.0,2020.0,8006 Zürich
+1466,"CHF12,000,000.–",Villa,12.0,,,5.0,1896.0,2011.0,"Dolderstrasse 107, 8032 Zürich"
+1467,"CHF1,240,000.–",Single house,7.5,,200 m2,,1927.0,2016.0,"Hausmattweg 5, 4663 Aarburg"
+1468,"CHF1,595,000.–",Single house,9.5,,250 m2,,1911.0,,6716 Acquarossa
+1469,"CHF1,595,000.–",Multi-family house,,,250 m2,,1911.0,,6716 Acquarossa
+1470,"CHF1,490,000.–",Row house,6.5,,186 m2,4.0,2005.0,,"Büntengarten 18, 4147 Aesch"
+1471,"CHF795,000.–",Row house,6.5,,154 m2,4.0,2009.0,,4147 Aesch BL
+1472,"CHF430,000.–",Single house,6.5,,110 m2,,,,6597 Agarone
+1473,"CHF150,000.–",Rustico,4.5,,44 m2,,,,6780 Airolo
+1474,"CHF1,680,000.–",Chalet,14.5,,450 m2,3.0,1997.0,,6780 Airolo Valle
+1475,"CHF1,240,000.–",Single house,7.5,,200 m2,,1927.0,2016.0,"Hausmattweg 5, 4663 Aarburg"
+1476,"CHF1,595,000.–",Single house,9.5,,250 m2,,1911.0,,6716 Acquarossa
+1477,"CHF1,595,000.–",Multi-family house,,,250 m2,,1911.0,,6716 Acquarossa
+1478,"CHF1,490,000.–",Row house,6.5,,186 m2,4.0,2005.0,,"Büntengarten 18, 4147 Aesch"
+1479,"CHF795,000.–",Row house,6.5,,154 m2,4.0,2009.0,,4147 Aesch BL
+1480,"CHF430,000.–",Single house,6.5,,110 m2,,,,6597 Agarone
+1481,"CHF150,000.–",Rustico,4.5,,44 m2,,,,6780 Airolo
+1482,"CHF1,680,000.–",Chalet,14.5,,450 m2,3.0,1997.0,,6780 Airolo Valle
+1483,"CHF795,000.–",Single house,5.5,,165 m2,,2021.0,,2942 Alle
+1484,"CHF1,180,000.–",Villa,7.5,,300 m2,3.0,1960.0,,"Malcantone, 6994 Alto Malcantone"
+1485,"CHF2,850,000.–",Villa,7.0,,250 m2,,1976.0,,1143 Apples
+1486,"CHF695,000.–",Bifamiliar house,4.5,,144 m2,,2021.0,,1994 Aproz (Nendaz)
+1487,"CHF190,000.–",Rustico,4.0,,55 m2,,,,6719 Aquila
+1488,"CHF1,870,000.–",Single house,6.5,,240 m2,,2011.0,2013.0,"Sonnenhügelstrasse 35, 9320 Arbon"
+1489,"CHF820,000.–",Single house,4.5,,110 m2,,1984.0,2011.0,6618 Arcegno
+1490,"CHF820,000.–",Single house,4.5,,110 m2,,1984.0,2011.0,6618 Arcegno
+1491,"CHF980,000.–",Single house,,,,,,,"Via Ceu 3, 6618 Arcegno"
+1492,"CHF935,000.–",Single house,7.5,,210 m2,,1850.0,2016.0,1957 Ardon
+1493,"CHF790,000.–",Multi-family house,,,,,1880.0,,"Mühlestrasse 2, 5628 Aristau"
+1494,"CHF225,000.–",Single house,3.5,2,130 m2,3.0,,,6822 Arogno
+1495,"CHF1,030,000.–",Villa,7.0,,181 m2,,,,6822 Arogno
+1496,"CHF1,250,000.–",Villa,7.0,,250 m2,2.0,1998.0,,6822 Arogno
+1497,"CHF1,100,000.–",Single house,7.0,,165 m2,2.0,,2000.0,6939 Arosio
+1498,"CHF3,190,000.–",Single house,7.5,,525 m2,,2002.0,2015.0,1273 Arzier-Le Muids
+1499,"CHF790,000.–",Single house,,,196 m2,,,,6864 Arzo
+1500,"CHF2,980,000.–",Single house,7.5,,272 m2,4.0,1987.0,2015.0,6612 Ascona
+1501,"CHF1,790,000.–",Bifamiliar house,7.0,,165 m2,3.0,2003.0,,"A Athenaz (Avusy), 1285 Athenaz (Avusy)"
+1502,"CHF770,000.–",Single house,6.5,,208 m2,,,,6661 Auressio
+1503,"CHF730,000.–",Chalet,4.5,,99 m2,,1968.0,,"Route des Raccards 49, 3961 Ayer"
+1504,"CHF898,000.–",Villa,11.0,,,3.0,,,"Via San Gottardo 72, 6828 Balerna"
+1505,"CHF1,050,000.–",Bifamiliar house,4.5,,154 m2,2.0,2022.0,,"Via E.Bossi 50, 6828 Balerna"
+1506,"CHF1,150,000.–",Bifamiliar house,4.5,,198 m2,2.0,2022.0,,"Via E.Bossi 50, 6828 Balerna"
+1507,"CHF790,000.–",Multi-family house,,,,,1880.0,,"Mühlestrasse 2, 5628 Aristau"
+1508,"CHF225,000.–",Single house,3.5,2,130 m2,3.0,,,6822 Arogno
+1509,"CHF1,030,000.–",Villa,7.0,,181 m2,,,,6822 Arogno
+1510,"CHF1,250,000.–",Villa,7.0,,250 m2,2.0,1998.0,,6822 Arogno
+1511,"CHF1,100,000.–",Single house,7.0,,165 m2,2.0,,2000.0,6939 Arosio
+1512,"CHF3,190,000.–",Single house,7.5,,525 m2,,2002.0,2015.0,1273 Arzier-Le Muids
+1513,"CHF790,000.–",Single house,,,196 m2,,,,6864 Arzo
+1514,"CHF2,980,000.–",Single house,7.5,,272 m2,4.0,1987.0,2015.0,6612 Ascona
+1515,"CHF1,790,000.–",Bifamiliar house,7.0,,165 m2,3.0,2003.0,,"A Athenaz (Avusy), 1285 Athenaz (Avusy)"
+1516,"CHF770,000.–",Single house,6.5,,208 m2,,,,6661 Auressio
+1517,"CHF730,000.–",Chalet,4.5,,99 m2,,1968.0,,"Route des Raccards 49, 3961 Ayer"
+1518,"CHF898,000.–",Villa,11.0,,,3.0,,,"Via San Gottardo 72, 6828 Balerna"
+1519,"CHF1,050,000.–",Bifamiliar house,4.5,,154 m2,2.0,2022.0,,"Via E.Bossi 50, 6828 Balerna"
+1520,"CHF1,150,000.–",Bifamiliar house,4.5,,198 m2,2.0,2022.0,,"Via E.Bossi 50, 6828 Balerna"
+1521,"CHF1,180,000.–",Single house,8.0,,183 m2,,1953.0,,"Hauptstrasse 16, 9436 Balgach"
+1522,"CHF3,360,000.–",Multi-family house,15.0,,198 m2,4.0,1881.0,2010.0,4057 Basel
+1523,"CHF950,000.–",Multi-family house,11.0,,194 m2,3.0,1890.0,,"Sennhüttenstrasse 8, 8494 Bauma"
+1524,"CHF750,000.–",Single house,5.5,,,,1970.0,,6981 Bedigliora
+1525,"CHF790,000.–",Single house,6.5,,250 m2,,1989.0,,6981 Bedigliora
+1526,"CHF1,695,000.–",Bifamiliar house,5.5,,177 m2,3.0,1999.0,,"Hasenbergstrasse 13A, 5454 Bellikon"
+1527,"CHF250,000.–",Single house,2.5,,60 m2,,,,6500 Bellinzona
+1528,"CHF1,350,000.–",Villa,5.5,,185 m2,,,,"Via Malmera 5A, 6500 Bellinzona"
+1529,"CHF2,600,000.–",Multi-family house,,,,3.0,,,"Via San Gottardo, 6500 Bellinzona"
+1530,"CHF3,350,000.–",Multi-family house,16.0,,510 m2,,2023.0,,"Via Varrone, 6500 Bellinzona"
+1531,"CHF22,000,000.–",Multi-family house,,,,,,,6500 Bellinzona
+1532,"CHF199,000.–",Single house,3.5,,200 m2,,1850.0,,1996 Beuson (Nendaz)
+1533,"CHF490,000.–",Chalet,3.5,,100 m2,,1980.0,,1880 Bex
+1534,"CHF630,000.–",Row house,5.0,,174 m2,,1758.0,2007.0,1880 Bex
+1535,"CHF650,000.–",Villa,10.0,,420 m2,,1973.0,2011.0,1880 Bex
+1536,"CHF235,000.–",Single house,3.5,,35 m2,,1991.0,,6710 Biasca
+1537,"CHF695,000.–",Single house,10.5,,250 m2,,,,6710 Biasca
+1538,"CHF695,000.–",Multi-family house,,,250 m2,,,,6710 Biasca
+1539,"CHF235,000.–",Single house,8.5,,150 m2,,,,6676 Bignasco
+1540,"CHF475,000.–",Rustico,4.5,,82 m2,,,,6676 Bignasco
+1541,"CHF1,490,000.–",Multi-family house,11.5,,229 m2,,1900.0,2004.0,4102 Binningen
+1542,"CHF1,860,000.–",Single house,8.5,,,5.0,1900.0,,"Oberwilerstrasse 9, 4102 Binningen"
+1543,"CHF2,850,000.–",Single house,6.5,,196 m2,,2022.0,,4102 Binningen
+1544,"CHF700,000.–",Single house,6.5,,220 m2,3.0,1983.0,2018.0,"Gaggio, 6934 Bioggio"
+1545,"CHF1,050,000.–",Single house,7.0,,160 m2,2.0,1991.0,,"Via Cimo 18, 6934 Bioggio"
+1546,"CHF1,050,000.–",Single house,7.0,,160 m2,2.0,1991.0,,"Via Cimo 18, 6934 Bioggio"
+1547,"CHF1,050,000.–",Villa,5.5,1,185 m2,3.0,1986.0,,6816 Bissone
+1548,"CHF1,720,000.–",Villa,7.0,,158 m2,2.0,1962.0,,1807 Blonay
+1549,"CHF1,750,000.–",Single house,6.5,,155 m2,,,,1807 Blonay
+1550,"CHF1,790,000.–",Single house,5.5,,153 m2,,2023.0,,1807 Blonay
+1551,"CHF1,050,000.–",Single house,7.0,,160 m2,2.0,1991.0,,"Via Cimo 18, 6934 Bioggio"
+1552,"CHF1,050,000.–",Villa,5.5,1,185 m2,3.0,1986.0,,6816 Bissone
+1553,"CHF1,720,000.–",Villa,7.0,,158 m2,2.0,1962.0,,1807 Blonay
+1554,"CHF1,750,000.–",Single house,6.5,,155 m2,,,,1807 Blonay
+1555,"CHF1,790,000.–",Single house,5.5,,153 m2,,2023.0,,1807 Blonay
+1556,"CHF1,860,000.–",Bifamiliar house,4.5,,135 m2,3.0,2023.0,,1807 Blonay
+1557,"CHF1,860,000.–",Bifamiliar house,4.5,,135 m2,3.0,2023.0,,1807 Blonay
+1558,"CHF4,695,000.–",Single house,8.5,,350 m2,3.0,2012.0,,1807 Blonay
+1559,"CHF6,990,000.–",Single house,10.0,,500 m2,,1989.0,,1807 Blonay
+1560,"CHF2,560,000.–",Single house,8.5,,270 m2,3.0,1996.0,2019.0,1277 Borex
+1561,"CHF985,000.–",Villa,,,165 m2,,1998.0,,1967 Bramois
+1562,"CHF1,500,000.–",Villa,6.5,,180 m2,,2006.0,2019.0,1967 Bramois
+1563,"CHF3,000,000.–",Villa,9.0,,,,,,6932 Breganzona
+1564,"CHF890,000.–",Single house,4.5,,143 m2,,2022.0,,6634 Brione (Verzasca)
+1565,"CHF1,850,000.–",Single house,7.5,,,3.0,,,6614 Brissago
+1566,"CHF2,200,000.–",Villa,7.0,,260 m2,,1960.0,,6614 Brissago
+1567,"CHF1,400,000.–",Single house,8.5,GF,210 m2,3.0,,,1636 Broc
+1568,"CHF1,100,000.–",Villa,7.0,2,240 m2,,1979.0,,"Giovan Pietro Poma, 6827 Brusino Arsizio"
+1569,"CHF1,400,000.–",Single house,4.5,,,2.0,1970.0,,6827 Brusino Arsizio
+1570,"CHF1,950,000.–",Villa,5.5,,170 m2,2.0,,,6827 Brusino Arsizio
+1571,"CHF975,000.–",Single house,5.5,,131 m2,,2023.0,,"Rauhenbergstrasse, 8263 Buch SH"
+1572,"CHF750,000.–",Row house,5.5,,125 m2,3.0,1996.0,,"Brunngasse 9, 4463 Buus"
+1573,"CHF6,800,000.–",Row house,5.5,,151 m2,,1987.0,,8806 Bäch SZ
+1574,"CHF1,350,000.–",Single house,12.0,,324 m2,,1970.0,1990.0,"Hauptstrasse 170, 4252 Bärschwil"
+1575,"CHF1,370,000.–",Single house,8.0,,232 m2,,2023.0,,"Solothurnstrasse 11, 4922 Bützberg"
+1576,"CHF210,000.–",Single house,6.5,,150 m2,,,,6746 Calonico
+1577,"CHF536,000.–",Chalet,4.5,,160 m2,,1968.0,,6760 Campello
+1578,"CHF975,000.–",Single house,5.5,,131 m2,,2023.0,,"Rauhenbergstrasse, 8263 Buch SH"
+1579,"CHF750,000.–",Row house,5.5,,125 m2,3.0,1996.0,,"Brunngasse 9, 4463 Buus"
+1580,"CHF6,800,000.–",Row house,5.5,,151 m2,,1987.0,,8806 Bäch SZ
+1581,"CHF1,350,000.–",Single house,12.0,,324 m2,,1970.0,1990.0,"Hauptstrasse 170, 4252 Bärschwil"
+1582,"CHF1,370,000.–",Single house,8.0,,232 m2,,2023.0,,"Solothurnstrasse 11, 4922 Bützberg"
+1583,"CHF210,000.–",Single house,6.5,,150 m2,,,,6746 Calonico
+1584,"CHF536,000.–",Chalet,4.5,,160 m2,,1968.0,,6760 Campello
+1585,"CHF4,500,000.–",Villa,8.0,,550 m2,,1970.0,,6919 Carabietta
+1586,"CHF150,000.–",Single house,4.5,,100 m2,,1900.0,,"Via di Funtànn, 6584 Carena"
+1587,"CHF2,250,000.–",Villa,4.5,,138 m2,,2001.0,,6914 Carona
+1588,"CHF1,140,000.–",Single house,5.5,,240 m2,3.0,1993.0,,6987 Caslano
+1589,"CHF1,390,000.–",Single house,5.0,,150 m2,,2002.0,2017.0,6987 Caslano
+1590,"CHF3,200,000.–",Villa,8.5,,450 m2,,1965.0,,"via Monte Generoso, 6873 Castel San Pietro"
+1591,"CHF1,570,000.–",Single house,5.5,,258 m2,,2022.0,,"Ronco, 6980 Castelrotto"
+1592,"CHF60,000.–",Rustico,3.5,,60 m2,,,,6683 Cerentino
+1593,"CHF95,000.–",Rustico,2.5,,45 m2,,,,6683 Cerentino
+1594,"CHF140,000.–",Single house,5.5,,120 m2,,,,6683 Cerentino
+1595,"CHF155,000.–",Rustico,4.5,,1055 m2,,,,6683 Cerentino
+1596,"CHF590,000.–",Single house,4.0,,150 m2,,,2018.0,6675 Cevio
+1597,"CHF890,000.–",Single house,5.5,,160 m2,,,,6675 Cevio
+1598,"CHF1,850,000.–",Single house,9.0,,360 m2,2.0,1920.0,2020.0,6675 Cevio
+1599,"CHF390,000.–",Single house,3.5,,75 m2,,2009.0,,3966 Chalais
+1600,"CHF500,000.–",Single house,8.0,,225 m2,,1984.0,2001.0,1955 Chamoson
+1601,"CHF725,000.–",Bifamiliar house,4.5,,143 m2,,2022.0,,1955 Chamoson
+1602,"CHF725,000.–",Bifamiliar house,4.5,,143 m2,,2022.0,,1955 Chamoson
+1603,"CHF2,190,000.–",Single house,9.0,,270 m2,,2007.0,,1424 Champagne
+1604,"CHF1,050,000.–",Chalet,6.5,,180 m2,,,,1938 Champex-Lac
+1605,"CHF2,950,000.–",Villa,6.5,,250 m2,3.0,1963.0,,1801 Chardonne
+1606,"CHF1,200,000.–",Single house,7.5,,180 m2,,1972.0,2015.0,3971 Chermignon
+1607,"CHF890,000.–",Chalet,5.5,,175 m2,,1984.0,,3971 Chermignon-Bas
+1608,"CHF19,000,000.–",Single house,15.0,,674 m2,4.0,1995.0,,1071 Chexbres
+1609,"CHF20,000,000.–",Multi-family house,,,,,,,6830 Chiasso
+1610,"CHF1,050,000.–",Single house,7.0,,160 m2,2.0,1991.0,,"Via Cimo 18, 6992 Cimo"
+1611,"CHF1,050,000.–",Single house,7.0,,160 m2,2.0,1991.0,,"Via Cimo 18, 6992 Cimo"
+1612,"CHF1,050,000.–",Single house,7.0,,160 m2,2.0,1991.0,,"Via Cimo 18, 6992 Cimo"
+1613,"CHF1,235,000.–",Single house,8.0,,208 m2,,1987.0,,6702 Claro
+1614,"CHF790,000.–",Single house,6.5,,170 m2,2.0,2022.0,,2932 Coeuve
+1615,"CHF1,500,000.–",Villa,6.5,,300 m2,,1988.0,,"Via Mercole, 6877 Coldrerio"
+1616,"CHF4,950,000.–",Villa,5.0,,400 m2,,1990.0,,6926 Collina d'Oro
+1617,"CHF1,480,000.–",Row house,5.0,,170 m2,,1997.0,,6974 Collina d'Oro
+1618,"CHF2,290,000.–",Bifamiliar house,5.0,,,,1999.0,2019.0,1245 Collonge-Bellerive
+1619,"CHF1,350,000.–",Single house,6.5,,275 m2,,2013.0,2021.0,1903 Collonges
+1620,"CHF6,400,000.–",Single house,8.0,,290 m2,,1976.0,,1223 Cologny
+1621,"CHF865,000.–",Multi-family house,,,,,1902.0,,2013 Colombier NE
+1622,"CHF890,000.–",Villa,6.5,,175 m2,,1977.0,2020.0,1964 Conthey
+1623,"CHF4,950,000.–",Villa,5.0,,400 m2,,1990.0,,6926 Collina d'Oro
+1624,"CHF1,480,000.–",Row house,5.0,,170 m2,,1997.0,,6974 Collina d'Oro
+1625,"CHF2,290,000.–",Bifamiliar house,5.0,,,,1999.0,2019.0,1245 Collonge-Bellerive
+1626,"CHF1,350,000.–",Single house,6.5,,275 m2,,2013.0,2021.0,1903 Collonges
+1627,"CHF6,400,000.–",Single house,8.0,,290 m2,,1976.0,,1223 Cologny
+1628,"CHF865,000.–",Multi-family house,,,,,1902.0,,2013 Colombier NE
+1629,"CHF890,000.–",Villa,6.5,,175 m2,,1977.0,2020.0,1964 Conthey
+1630,"CHF220,000.–",Row house,4.5,,100 m2,,1900.0,1970.0,3960 Corin-de-la-Crête
+1631,"CHF12,900,000.–",Villa,9.0,,690 m2,4.0,1927.0,2010.0,1802 Corseaux
+1632,"CHF785,000.–",Single house,7.5,,190 m2,,2022.0,,"hauterive 20B, 2950 Courgenay"
+1633,"CHF1,800,000.–",Chalet,6.5,GF,250 m2,,1965.0,,"Impasse Bonzor, 3963 Crans-Montana"
+1634,"CHF1,850,000.–",Chalet,4.5,GF,155 m2,2.0,2014.0,,"Route de Grinchon, 3963 Crans-Montana"
+1635,"CHF4,500,000.–",Chalet,7.5,GF,270 m2,,1965.0,,"Route des Mélèzes, 3963 Crans-Montana"
+1636,"CHF3,250,000.–",Single house,6.0,,250 m2,3.0,1972.0,2011.0,1299 Crans-près-Céligny
+1637,"CHF750,000.–",Single house,6.0,,139 m2,2.0,1973.0,,2088 Cressier NE
+1638,"CHF1,190,000.–",Row house,5.5,,208 m2,,2023.0,,6516 Cugnasco
+1639,"CHF1,590,000.–",Single house,6.5,,292 m2,,2019.0,,6516 Cugnasco
+1640,"CHF3,950,000.–",Villa,9.5,,285 m2,3.0,1998.0,,6944 Cureglia
+1641,"CHF1,850,000.–",Single house,6.5,GF,250 m2,3.0,,,"Via Belvedere 2E, 6964 Davesco-Soragno"
+1642,"CHF2,750,000.–",Single house,7.5,,400 m2,3.0,,,6964 Davesco-Soragno
+1643,"CHF940,000.–",Single house,8.5,,210 m2,3.0,1964.0,2018.0,2800 Delémont
+1644,"CHF690,000.–",Single house,6.0,,170 m2,,1752.0,2020.0,4457 Diegten
+1645,"CHF1,990,000.–",Row house,6.5,,220 m2,4.0,2002.0,2022.0,8953 Dietikon
+1646,"CHF1,250,000.–",Villa,6.5,GF,235 m2,2.0,2004.0,,6967 Dino
+1647,"CHF475,000.–",Multi-family house,,,300 m2,,,,6715 Dongio
+1648,"CHF3,650,000.–",Single house,9.0,,432 m2,,1600.0,,1195 Dully
+1649,"CHF1,850,000.–",Single house,11.5,,243 m2,,1876.0,2007.0,"Eibenweg 5, 5304 Endingen"
+1650,"CHF1,075,000.–",Single house,6.5,,175 m2,3.0,1971.0,,"Moos 281, 3619 Eriz"
+1651,"CHF585,000.–",Single house,4.5,,100 m2,3.0,1932.0,1991.0,"Passwangstrasse 17, 4228 Erschwil"
+1652,"CHF118,000.–",Farm house,2.0,,,,,,1925 Finhaut
+1653,"CHF1,350,000.–",Single house,6.5,,205 m2,,1985.0,2019.0,2577 Finsterhennen
+1654,"CHF1,200,000.–",Single house,8.0,,150 m2,3.0,1970.0,2017.0,3978 Flanthey
+1655,"CHF1,150,000.–",Multi-family house,,,,3.0,1920.0,2018.0,9230 Flawil
+1656,"CHF4,950,000.–",Villa,7.0,,425 m2,,2000.0,,6574 Fosano
+1657,"CHF949,000.–",Single house,5.5,,183 m2,,2022.0,,1926 Fully
+1658,"CHF949,000.–",Single house,5.5,,183 m2,,2022.0,,1926 Fully
+1659,"CHF949,000.–",Single house,5.5,,183 m2,,2022.0,,1926 Fully
+1660,"CHF949,000.–",Single house,5.5,,183 m2,,2022.0,,1926 Fully
+1661,"CHF949,000.–",Single house,5.5,,183 m2,,2022.0,,1926 Fully
+1662,"CHF949,000.–",Single house,5.5,,183 m2,,2022.0,,1926 Fully
+1663,"CHF1,350,000.–",Single house,5.5,,217 m2,,2021.0,,1926 Fully
+1664,"CHF1,366,000.–",Single house,6.5,,236 m2,,2022.0,,1926 Fully
+1665,"CHF1,545,000.–",Single house,6.5,,216 m2,,2022.0,,1926 Fully
+1666,"CHF3,980,000.–",Single house,10.0,,600 m2,,1750.0,2005.0,1173 Féchy
+1667,"CHF980,000.–",Single house,4.0,,192 m2,,1900.0,,"Piazza S. Giovanni, 6925 Gentilino"
+1668,"CHF980,000.–",Single house,4.0,GF,192 m2,,1900.0,2019.0,6925 Gentilino
+1669,"CHF2,850,000.–",Single house,8.5,,352 m2,3.0,1972.0,2000.0,6925 Gentilino
+1670,"CHF6,650,000.–",Villa,12.0,,485 m2,,2009.0,2021.0,6925 Gentilino
+1671,"CHF1,460,000.–",Row house,6.5,,132 m2,3.0,2023.0,,8954 Geroldswil
+1672,"CHF1,520,000.–",Row house,6.5,,130 m2,3.0,2023.0,,8954 Geroldswil
+1673,"CHF1,590,000.–",Row house,6.5,,129 m2,3.0,2023.0,,8954 Geroldswil
+1674,"CHF1,490,000.–",Single house,5.5,,210 m2,3.0,2009.0,,6596 Gordola
+1675,"CHF1,950,000.–",Single house,10.0,3,400 m2,,1800.0,2000.0,"Vicolo al Burio, 6596 Gordola"
+1676,"CHF390,000.–",Single house,4.5,,129 m2,2.0,,,6929 Gravesano
+1677,"CHF990,000.–",Single house,5.0,,150 m2,,,,6929 Gravesano
+1678,"CHF1,095,000.–",Row house,5.5,,183 m2,2.0,1981.0,,1971 Grimisuat
+1679,"CHF430,000.–",Chalet,5.5,,145 m2,,1978.0,2017.0,3979 Grône
+1680,"CHF675,000.–",Row house,4.5,,140 m2,,1989.0,2020.0,3979 Grône
+1681,"CHF1,108,000.–",Single house,7.5,,180 m2,,2023.0,,"Feldstrasse, 6166 Hasle LU"
+1682,"CHF2,630,000.–",Chalet,6.5,,240 m2,,2009.0,,1997 Haute-Nendaz
+1683,"CHF2,980,000.–",Bifamiliar house,6.0,,230 m2,,1990.0,2015.0,1248 Hermance
+1684,"CHF880,000.–",Single house,5.5,,188 m2,3.0,1937.0,2016.0,5027 Herznach
+1685,"CHF750,000.–",Bifamiliar house,5.5,,100 m2,3.0,1959.0,,"Baldeggstrasse 78, 6280 Hochdorf"
+1686,"CHF155,000.–",Single house,3.5,,34 m2,,2019.0,,"Rütteli 17, 4718 Holderbank SO"
+1687,"CHF936,000.–",Chalet,6.0,,160 m2,,1986.0,,1977 Icogne
+1688,"CHF1,900,000.–",Single house,6.5,,150 m2,,1968.0,2014.0,6655 Intragna
+1689,"CHF1,830,000.–",Single house,5.5,,171 m2,3.0,2009.0,,"Kirchhaldenstrasse 19, 8722 Kaltbrunn"
+1690,"CHF2,400,000.–",Bifamiliar house,5.5,,178 m2,,2017.0,,8934 Knonau
+1691,"CHF1,290,000.–",Multi-family house,,,,,1945.0,,9643 Krummenau
+1692,"CHF9,999,999.–",Single house,9.5,,560 m2,2.0,2010.0,2017.0,"Musterstrasse 999, 2406 La Brévine"
+1693,"CHF520,000.–",Chalet,3.5,,80 m2,,1950.0,2019.0,1918 La Tzoumaz
+1694,"CHF545,000.–",Multi-family house,8.5,,180 m2,4.0,1900.0,1992.0,1454 La Vraconnaz
+1695,"CHF980,000.–",Multi-family house,,,270 m2,,1887.0,2022.0,"Ausserdorf 14, 4438 Langenbruck"
+1696,"CHF790,000.–",Row house,5.5,,147 m2,,2000.0,2006.0,"Lenggenweg 28, 3550 Langnau im Emmental"
+1697,"CHF890,000.–",Single house,8.5,,330 m2,,1970.0,,"Via Moncucco, 6743 Lavorgo"
+1698,"CHF5,500,000.–",Bifamiliar house,11.0,,370 m2,2.0,1950.0,,"A Le Grand-Saconnex, 1218 Le Grand-Saconnex"
+1699,"CHF1,150,000.–",Chalet,6.5,,140 m2,,1991.0,,1988 Les Collons
+1700,"CHF1,150,000.–",Single house,6.0,,145 m2,,2006.0,,1988 Les Collons
+1701,"CHF980,000.–",Single house,4.5,,115 m2,3.0,1971.0,,2610 Les Pontins
+1702,"CHF890,000.–",Single house,8.5,,330 m2,,1970.0,,"Via Moncucco, 6743 Lavorgo"
+1703,"CHF5,500,000.–",Bifamiliar house,11.0,,370 m2,2.0,1950.0,,"A Le Grand-Saconnex, 1218 Le Grand-Saconnex"
+1704,"CHF1,150,000.–",Chalet,6.5,,140 m2,,1991.0,,1988 Les Collons
+1705,"CHF1,150,000.–",Single house,6.0,,145 m2,,2006.0,,1988 Les Collons
+1706,"CHF980,000.–",Single house,4.5,,115 m2,3.0,1971.0,,2610 Les Pontins
+1707,"CHF550,000.–",Single house,7.5,,170 m2,,1970.0,,1945 Liddes
+1708,"CHF1,350,000.–",Single house,9.5,,201 m2,3.0,1903.0,,"Sonnenweg 23, 4410 Liestal"
+1709,"CHF250,000.–",Farm house,,,284 m2,,,,"strada principale, 6682 Linescio"
+1710,"CHF850,000.–",Single house,5.5,,160 m2,4.0,,,6600 Locarno
+1711,"CHF2,100,000.–",Villa,7.0,,309 m2,,1975.0,,6605 Locarno
+1712,"CHF3,200,000.–",Single house,6.5,,170 m2,,2007.0,,6605 Locarno
+1713,"CHF3,280,000.–",Single house,4.5,,,,2022.0,,6605 Locarno
+1714,"CHF340,000.–",Rustico,4.5,,100 m2,,1988.0,,"Sassello Loco, 6661 Loco"
+1715,"CHF1,495,000.–",Multi-family house,14.0,,250 m2,3.0,1900.0,2019.0,"Hauptstrasse 53, 9506 Lommis"
+1716,"CHF995,000.–",Single house,,,405 m2,2.0,1650.0,1984.0,"Via Case Albertini 8, 6616 Losone"
+1717,"CHF890,000.–",Row house,4.5,,156 m2,2.0,2022.0,,6953 Lugaggia
+1718,"CHF1,200,000.–",Single house,5.5,,143 m2,3.0,1992.0,,6900 Lugano
+1719,"CHF1,200,000.–",Single house,5.5,,143 m2,3.0,1992.0,,6900 Lugano
+1720,"CHF1,580,000.–",Villa,10.0,,265 m2,,1976.0,,"Lugaggia, 6900 Lugano"
+1721,"CHF1,580,000.–",Villa,10.0,,265 m2,,1976.0,,"Lugaggia, 6900 Lugano"
+1722,"CHF2,995,000.–",Single house,5.5,,200 m2,2.0,2001.0,,6900 Lugano
+1723,"CHF3,000,000.–",Multi-family house,25.0,,937 m2,,1913.0,,"Via Pazzalino, 6900 Lugano"
+1724,"CHF4,500,000.–",Villa,10.0,,520 m2,,1963.0,1987.0,6900 Lugano
+1725,"CHF5,300,000.–",Multi-family house,12.0,,793 m2,,,,6900 Lugano
+1726,"CHF5,300,000.–",Multi-family house,12.0,,793 m2,,,,6900 Lugano
+1727,"CHF5,700,000.–",Villa,10.0,,632 m2,,1965.0,2016.0,6900 Lugano
+1728,"CHF12,900,000.–",Villa,9.5,,510 m2,,,2019.0,6900 Lugano
+1729,"CHF2,130,000.–",Villa,8.0,,320 m2,,1970.0,,6914 Lugano
+1730,"CHF1,390,000.–",Single house,6.5,,200 m2,2.0,1986.0,,"Seltisbergerstrasse 29, 4419 Lupsingen"
+1731,"CHF8,250,000.–",Single house,14.0,,630 m2,,,2011.0,1167 Lussy-sur-Morges
+1732,"CHF2,590,000.–",Bifamiliar house,6.5,,190 m2,,,,1095 Lutry
+1733,"CHF2,100,000.–",Single house,6.5,,180 m2,2.0,1974.0,2022.0,"Udelbodenstrasse 55, 6014 Luzern"
+1734,"CHF1,620,000.–",Multi-family house,9.0,,286 m2,,2010.0,,6573 Magadino
+1735,"CHF3,500,000.–",Villa,12.5,,460 m2,3.0,1660.0,,6983 Magliaso
+1736,"CHF110,000.–",Rustico,9.5,,180 m2,,,,6713 Malvaglia
+1737,"CHF550,000.–",Single house,20.5,,400 m2,,,,6713 Malvaglia
+1738,"CHF550,000.–",Single house,20.5,,400 m2,,,,6713 Malvaglia
+1739,"CHF550,000.–",Multi-family house,,,400 m2,,,,6713 Malvaglia
+1740,"CHF1,095,000.–",Bifamiliar house,10.5,,288 m2,,1982.0,,6713 Malvaglia
+1741,"CHF1,600,000.–",Villa,7.0,,280 m2,2.0,,2007.0,6817 Maroggia
+1742,"CHF350,000.–",Single house,9.0,,270 m2,3.0,,,6809 Medeglia
+1743,"CHF1,450,000.–",Single house,6.5,,235 m2,2.0,,2009.0,6818 Melano
+1744,"CHF7,000,000.–",Villa,9.5,,420 m2,4.0,2022.0,2022.0,"Lungo Lago Motta, 6815 Melide"
+1745,"CHF1,100,000.–",Single house,5.5,,195 m2,2.0,2011.0,,"Via Dott. G. Polar 48, 6850 Mendrisio"
+1746,"CHF1,240,000.–",Multi-family house,10.5,,,4.0,,2009.0,6850 Mendrisio
+1747,"CHF1,550,000.–",Single house,7.5,,281 m2,,2006.0,,6862 Mendrisio
+1748,"CHF550,000.–",Single house,20.5,,400 m2,,,,6713 Malvaglia
+1749,"CHF550,000.–",Single house,20.5,,400 m2,,,,6713 Malvaglia
+1750,"CHF550,000.–",Multi-family house,,,400 m2,,,,6713 Malvaglia
+1751,"CHF1,095,000.–",Bifamiliar house,10.5,,288 m2,,1982.0,,6713 Malvaglia
+1752,"CHF1,600,000.–",Villa,7.0,,280 m2,2.0,,2007.0,6817 Maroggia
+1753,"CHF350,000.–",Single house,9.0,,270 m2,3.0,,,6809 Medeglia
+1754,"CHF1,450,000.–",Single house,6.5,,235 m2,2.0,,2009.0,6818 Melano
+1755,"CHF7,000,000.–",Villa,9.5,,420 m2,4.0,2022.0,2022.0,"Lungo Lago Motta, 6815 Melide"
+1756,"CHF1,100,000.–",Single house,5.5,,195 m2,2.0,2011.0,,"Via Dott. G. Polar 48, 6850 Mendrisio"
+1757,"CHF1,240,000.–",Multi-family house,10.5,,,4.0,,2009.0,6850 Mendrisio
+1758,"CHF1,550,000.–",Single house,7.5,,281 m2,,2006.0,,6862 Mendrisio
+1759,"CHF390,000.–",Rustico,,,216 m2,,,,6563 Mesocco
+1760,"CHF585,000.–",Single house,5.5,,100 m2,,1780.0,,6805 Mezzovico
+1761,"CHF1,150,000.–",Single house,4.5,,190 m2,2.0,,2004.0,6648 Minusio
+1762,"CHF1,200,000.–",Single house,4.5,,68 m2,,1965.0,,6648 Minusio
+1763,"CHF650,000.–",Single house,10.0,,160 m2,,1890.0,2012.0,3972 Miège
+1764,"CHF845,000.–",Single house,4.5,GF,105 m2,2.0,,,"Route du Lynx 41, 1663 Moléson"
+1765,"CHF4,800,000.–",Villa,8.0,,400 m2,,,2008.0,6926 Montagnola
+1766,"CHF4,800,000.–",Villa,7.0,,370 m2,3.0,1994.0,,6926 Montagnola
+1767,"CHF8,000,000.–",Villa,8.5,,875 m2,,,,6926 Montagnola
+1768,"CHF975,000.–",Row house,5.5,,200 m2,,2022.0,,1870 Monthey
+1769,"CHF4,600,000.–",Villa,5.5,,240 m2,3.0,2001.0,,1820 Montreux
+1770,"CHF6,200,000.–",Single house,11.5,,479 m2,4.0,1900.0,,1820 Montreux
+1771,"CHF860,000.–",Row house,5.0,,150 m2,,2016.0,,"Via Vacallo 1b, 6834 Morbio Inferiore"
+1772,"CHF1,790,000.–",Single house,5.5,,200 m2,,1981.0,2000.0,6835 Morbio Superiore
+1773,"CHF4,700,000.–",Villa,8.0,,242 m2,2.0,,,6922 Morcote
+1774,"CHF5,000,000.–",Villa,7.5,,220 m2,1.0,1970.0,,6922 Morcote
+1775,"CHF9,800,000.–",Villa,,,,,,,6922 Morcote
+1776,"CHF4,500,000.–",Single house,12.0,,890 m2,,1820.0,2009.0,1110 Morges
+1777,"CHF1,100,000.–",Multi-family house,,,,,1974.0,,1875 Morgins
+1778,"CHF395,000.–",Single house,5.0,,170 m2,3.0,,,6838 Muggio
+1779,"CHF3,580,000.–",Single house,5.5,,240 m2,,2012.0,,"Brunnrainstrasse, 4132 Muttenz"
+1780,"CHF3,500,000.–",Villa,5.5,3,325 m2,,,,6933 Muzzano
+1781,"CHF1,320,000.–",Bifamiliar house,6.5,,205 m2,,2000.0,2017.0,5103 Möriken AG
+1782,"CHF1,295,000.–",Single house,8.0,,186 m2,3.0,1988.0,,"Walderstrasse 15, 8733 Neuhaus-Eschenbach"
+1783,"CHF620,000.–",Bifamiliar house,4.5,,99 m2,4.0,1933.0,,8212 Neuhausen am Rheinfall
+1784,"CHF890,000.–",Single house,8.5,,166 m2,3.0,1964.0,,"Bachmühle 5, 3087 Niedermuhlern"
+1785,"CHF1,295,000.–",Bifamiliar house,5.5,,164 m2,2.0,2023.0,,9203 Niederwil SG
+1786,"CHF1,295,000.–",Bifamiliar house,5.5,,164 m2,2.0,2023.0,,9203 Niederwil SG
+1787,"CHF820,000.–",Single house,4.5,,150 m2,2.0,2018.0,,6883 Novazzano
+1788,"CHF830,000.–",Single house,5.0,,170 m2,2.0,2020.0,,6883 Novazzano
+1789,"CHF895,000.–",Single house,5.5,,150 m2,3.0,1989.0,2019.0,6883 Novazzano
+1790,"CHF2,550,000.–",Single house,11.0,,447 m2,3.0,1992.0,2021.0,3976 Noës
+1791,"CHF1,295,000.–",Bifamiliar house,5.5,,164 m2,2.0,2023.0,,9203 Niederwil SG
+1792,"CHF1,295,000.–",Bifamiliar house,5.5,,164 m2,2.0,2023.0,,9203 Niederwil SG
+1793,"CHF820,000.–",Single house,4.5,,150 m2,2.0,2018.0,,6883 Novazzano
+1794,"CHF830,000.–",Single house,5.0,,170 m2,2.0,2020.0,,6883 Novazzano
+1795,"CHF895,000.–",Single house,5.5,,150 m2,3.0,1989.0,2019.0,6883 Novazzano
+1796,"CHF2,550,000.–",Single house,11.0,,447 m2,3.0,1992.0,2021.0,3976 Noës
+1797,"CHF955,000.–",Row house,5.5,,158 m2,4.0,2022.0,,"Ossingerstrasse 15, 8526 Oberneunforn"
+1798,"CHF985,000.–",Single house,4.5,,142 m2,4.0,2021.0,,"Ossingerstrasse 15, 8526 Oberneunforn"
+1799,"CHF1,500,000.–",Single house,5.5,,130 m2,,1977.0,,"Hölibachstrasse 34, 8912 Obfelden"
+1800,"CHF615,000.–",Single house,3.5,,100 m2,,2000.0,,6718 Olivone
+1801,"CHF730,000.–",Single house,6.5,,196 m2,,,,6718 Olivone
+1802,"CHF1,250,000.–",Villa,7.5,,234 m2,,2006.0,,3971 Ollon VS
+1803,"CHF1,295,000.–",Multi-family house,,,183 m2,,1933.0,,4600 Olten
+1804,"CHF1,200,000.–",Single house,5.5,,184 m2,3.0,2019.0,,"Origlio, 6945 Origlio"
+1805,"CHF1,200,000.–",Row house,4.5,,161 m2,3.0,2021.0,,"via Lugano, 6945 Origlio"
+1806,"CHF1,300,000.–",Single house,5.5,,184 m2,3.0,2019.0,,"Origlio, 6945 Origlio"
+1807,"CHF1,730,000.–",Single house,5.5,,180 m2,,1990.0,2019.0,1911 Ovronnaz
+1808,"CHF1,190,000.–",Single house,5.5,,168 m2,,1950.0,2020.0,"Boladee 21, 6657 Palagnedra"
+1809,"CHF1,180,000.–",Villa,6.5,,210 m2,3.0,,,6913 Paradiso
+1810,"CHF1,050,000.–",Single house,9.0,,190 m2,,1932.0,2000.0,1530 Payerne
+1811,"CHF1,290,000.–",Single house,7.0,,140 m2,,1970.0,2016.0,6912 Pazzallo
+1812,"CHF265,000.–",Rustico,4.5,,61 m2,,1900.0,,6744 Personico
+1813,"CHF1,225,000.–",Single house,7.5,,210 m2,,1978.0,,4148 Pfeffingen
+1814,"CHF430,000.–",Single house,14.5,,320 m2,,,,6776 Piotta
+1815,"CHF850,000.–",Single house,3.5,,135 m2,1.0,1970.0,,6946 Ponte Capriasca
+1816,"CHF1,180,000.–",Villa,6.5,,210 m2,3.0,,,6913 Paradiso
+1817,"CHF1,050,000.–",Single house,9.0,,190 m2,,1932.0,2000.0,1530 Payerne
+1818,"CHF1,290,000.–",Single house,7.0,,140 m2,,1970.0,2016.0,6912 Pazzallo
+1819,"CHF265,000.–",Rustico,4.5,,61 m2,,1900.0,,6744 Personico
+1820,"CHF1,225,000.–",Single house,7.5,,210 m2,,1978.0,,4148 Pfeffingen
+1821,"CHF430,000.–",Single house,14.5,,320 m2,,,,6776 Piotta
+1822,"CHF850,000.–",Single house,3.5,,135 m2,1.0,1970.0,,6946 Ponte Capriasca
+1823,"CHF945,000.–",Single house,5.5,,150 m2,,,,6988 Ponte Tresa
+1824,"CHF1,650,000.–",Multi-family house,,,,,,,6988 Ponte Tresa
+1825,"CHF1,780,000.–",Single house,8.0,,250 m2,,1989.0,2015.0,1991 Pravidondaz (Salins)
+1826,"CHF150,000.–",Rustico,5.5,,120 m2,,,,6526 Prosito
+1827,"CHF80,000.–",Rustico,4.5,,100 m2,,,,6723 Prugiasco
+1828,"CHF675,000.–",Single house,8.5,,270 m2,,1798.0,,6984 Pura
+1829,"CHF795,000.–",Single house,5.5,,250 m2,3.0,,,6984 Pura
+1830,"CHF910,000.–",Row house,4.5,,110 m2,2.0,2010.0,,"Via Selva 22, 6984 Pura"
+1831,"CHF3,290,000.–",Villa,7.5,,420 m2,,1985.0,,6984 Pura
+1832,"CHF3,800,000.–",Villa,8.0,,300 m2,2.0,1968.0,,6984 Pura
+1833,"CHF590,000.–",Bifamiliar house,6.0,,170 m2,3.0,1913.0,1997.0,"Purasca Superiore, 6989 Purasca"
+1834,"CHF1,490,000.–",Single house,6.5,,383 m2,3.0,,2013.0,"Purasca Inferiore, 6989 Purasca"
+1835,"CHF1,550,000.–",Villa,5.5,,255 m2,3.0,2005.0,,6862 Rancate
+1836,"CHF1,258,400.–",Bifamiliar house,5.5,,191 m2,4.0,2021.0,,9445 Rebstein
+1837,"CHF1,150,000.–",Row house,5.5,,138 m2,3.0,2022.0,,"Kohlplatzweg 7, 4310 Rheinfelden"
+1838,"CHF1,370,000.–",Row house,5.5,,138 m2,3.0,2022.0,,"Kohlplatzweg 7, 4310 Rheinfelden"
+1839,"CHF3,500,000.–",Chalet,7.5,,350 m2,,2022.0,,1908 Riddes
+1840,"CHF1,760,000.–",Row house,4.5,4,134 m2,,2023.0,,"Meierweg 44, 4125 Riehen"
+1841,"CHF690,000.–",Row house,4.5,,105 m2,,1970.0,,6826 Riva San Vitale
+1842,"CHF210,000.–",Single house,4.5,,120 m2,,,,6760 Rossura
+1843,"CHF2,420,000.–",Single house,7.5,,201 m2,,1984.0,,"Berghofweg 14B, 8630 Rüti ZH"
+1844,"CHF4,100,000.–",Single house,5.5,,180 m2,,1964.0,2008.0,6575 S. Nazzaro
+1845,"CHF1,048,000.–",Villa,,,,,,,6854 S. Pietro
+1846,"CHF2,000,000.–",Multi-family house,14.0,,409 m2,3.0,,1993.0,7247 Saas im Prättigau
+1847,"CHF599,000.–",Chalet,3.5,,160 m2,,2023.0,,1996 Saclentz (Nendaz)
+1848,"CHF445,000.–",Single house,3.0,,60 m2,1.0,,,6839 Sagno
+1849,"CHF2,230,000.–",Villa,,,,3.0,1960.0,2014.0,6839 Sagno
+1850,"CHF4,800,000.–",Villa,11.0,,517 m2,4.0,1920.0,,1806 Saint-Légier-La Chiésaz
+1851,"CHF750,000.–",Row house,4.5,,156 m2,,2022.0,,1966 Saint-Romain (Ayent)
+1852,"CHF3,950,000.–",Bifamiliar house,11.0,,500 m2,,1998.0,,6954 Sala Capriasca
+1853,"CHF695,000.–",Rustico,7.0,,185 m2,3.0,,,"Cagiallo Nucleo, 6955 Sala Capriasca"
+1854,"CHF750,000.–",Row house,4.5,,162 m2,,2021.0,,1991 Salins
+1855,"CHF770,000.–",Single house,6.0,,160 m2,,1950.0,2002.0,1991 Salins
+1856,"CHF810,000.–",Row house,5.5,,177 m2,,2021.0,,1991 Salins
+1857,"CHF1,780,000.–",Villa,7.0,,262 m2,,1989.0,2013.0,1991 Salins
+1858,"CHF1,450,000.–",Row house,5.0,,130 m2,3.0,1992.0,,8833 Samstagern
+1859,"CHF1,730,000.–",Single house,11.0,,280 m2,,1900.0,,6577 Sant'Abbondio
+1860,"CHF750,000.–",Row house,4.5,,162 m2,,2021.0,,1991 Salins
+1861,"CHF770,000.–",Single house,6.0,,160 m2,,1950.0,2002.0,1991 Salins
+1862,"CHF810,000.–",Row house,5.5,,177 m2,,2021.0,,1991 Salins
+1863,"CHF1,780,000.–",Villa,7.0,,262 m2,,1989.0,2013.0,1991 Salins
+1864,"CHF1,450,000.–",Row house,5.0,,130 m2,3.0,1992.0,,8833 Samstagern
+1865,"CHF1,730,000.–",Single house,11.0,,280 m2,,1900.0,,6577 Sant'Abbondio
+1866,"CHF1,590,000.–",Villa,5.0,,223 m2,,1995.0,,6592 Sant'Antonino
+1867,"CHF1,600,000.–",Multi-family house,8.5,,300 m2,,1993.0,,7536 Santa Maria Val Müstair
+1868,"CHF1,650,000.–",Chalet,7.0,,205 m2,,2004.0,2021.0,1965 Savièse
+1869,"CHF6,200,000.–",Single house,8.5,,400 m2,,1967.0,2018.0,1965 Savièse
+1870,"CHF5,700,000.–",Villa,6.0,,320 m2,,,2001.0,6942 Savosa
+1871,"CHF335,000.–",Chalet,4.5,,82 m2,,1972.0,2021.0,1907 Saxon
+1872,"CHF860,000.–",Single house,11.0,,372 m2,,1988.0,2012.0,1907 Saxon
+1873,"CHF815,000.–",Chalet,,,184 m2,,2001.0,,1966 Saxonne (Ayent)
+1874,"CHF990,000.–",Row house,6.5,,160 m2,,1970.0,2010.0,4124 Schönenbuch
+1875,"CHF1,490,000.–",Multi-family house,10.5,,300 m2,,2004.0,,6514 Sementina
+1876,"CHF1,490,000.–",Multi-family house,,,300 m2,,2004.0,,6514 Sementina
+1877,"CHF1,300,000.–",Multi-family house,,,,,1961.0,,3960 Sierre
+1878,"CHF285,000.–",Single house,3.5,,100 m2,,1985.0,,6806 Sigirino
+1879,"CHF1,225,000.–",Single house,5.5,,200 m2,,,,6806 Sigirino
+1880,"CHF1,090,000.–",Row house,5.5,,151 m2,,,,"Route de Lentine, 1950 Sion"
+1881,"CHF1,090,000.–",Row house,4.5,,151 m2,,,,"Route de Lentine, 1950 Sion"
+1882,"CHF2,800,000.–",Single house,6.0,,331 m2,3.0,2021.0,,1950 Sion
+1883,"CHF2,650,000.–",Single house,6.5,,202 m2,3.0,2007.0,,"Rosenwis 13, 9245 Sonnental"
+1884,"CHF2,900,000.–",Villa,8.5,GF,408 m2,3.0,1998.0,,6924 Sorengo
+1885,"CHF5,900,000.–",Villa,10.0,,505 m2,2.0,,,6924 Sorengo
+1886,"CHF170,000.–",Single house,6.5,,180 m2,,,,6663 Spruga
+1887,"CHF1,750,000.–",Single house,6.5,,155 m2,,,,1806 St-Légier-La Chiésaz
+1888,"CHF1,790,000.–",Single house,5.5,,153 m2,,2023.0,,1806 St-Légier-La Chiésaz
+1889,"CHF870,000.–",Single house,7.5,,143 m2,,1971.0,,1890 St-Maurice
+1890,"CHF1,200,000.–",Villa,5.5,,140 m2,2.0,2011.0,,"A St-Maurice, 1890 St-Maurice"
+1891,"CHF650,000.–",Single house,,,172 m2,,1943.0,,1955 St-Pierre-de-Clages
+1892,"CHF6,300,000.–",Multi-family house,,,1464 m2,,1968.0,,"Ruhsitzstrasse 27/29, 9000 St. Gallen"
+1893,"CHF2,300,000.–",Villa,10.5,,614 m2,,1987.0,2009.0,6855 Stabio
+1894,"CHF625,000.–",Multi-family house,9.0,,200 m2,,1873.0,,1450 Ste-Croix
+1895,"CHF650,000.–",Villa,5.0,,106 m2,,1948.0,1985.0,1450 Ste-Croix
+1896,"CHF695,000.–",Single house,10.0,,,,1910.0,,"Waldstrasse 4, 8583 Sulgen"
+1897,"CHF850,000.–",Single house,5.5,,185 m2,3.0,1999.0,,8583 Sulgen
+1898,"CHF620,000.–",Single house,5.5,2,134 m2,,2021.0,,3952 Susten
+1899,"CHF1,190,000.–",Single house,4.5,,,,2009.0,2020.0,6807 Taverne
+1900,"CHF1,900,000.–",Villa,7.5,,320 m2,,1988.0,2005.0,6652 Tegna
+1901,"CHF1,825,000.–",Single house,7.0,,181 m2,,,,6598 Tenero
+1902,"CHF250,000.–",Single house,4.5,,80 m2,,1961.0,,6998 Termine
+1903,"CHF620,000.–",Single house,5.5,2,134 m2,,2021.0,,3952 Susten
+1904,"CHF1,190,000.–",Single house,4.5,,,,2009.0,2020.0,6807 Taverne
+1905,"CHF1,900,000.–",Villa,7.5,,320 m2,,1988.0,2005.0,6652 Tegna
+1906,"CHF1,825,000.–",Single house,7.0,,181 m2,,,,6598 Tenero
+1907,"CHF250,000.–",Single house,4.5,,80 m2,,1961.0,,6998 Termine
+1908,"CHF3,950,000.–",Multi-family house,,,287 m2,,1907.0,2017.0,"Eisenbahnstrasse 27, 8800 Thalwil"
+1909,"CHF85,000.–",Rustico,3.5,,85 m2,,,,6717 Torre
+1910,"CHF995,000.–",Row house,5.5,,149 m2,,2022.0,,6908 Torricella
+1911,"CHF620,000.–",Single house,5.0,,150 m2,,2004.0,,1256 Troinex
+1912,"CHF990,000.–",Single house,8.5,,228 m2,,1995.0,,1991 Turin (Salins)
+1913,"CHF280,000.–",Single house,4.0,,85 m2,,1920.0,1992.0,"Schattenholz 1182, 9107 Urnäsch"
+1914,"CHF890,000.–",Villa,5.5,,223 m2,,,,6833 Vacallo
+1915,"CHF912,900.–",Multi-family house,12.5,,300 m2,3.0,,,6833 Vacallo
+1916,"CHF1,350,000.–",Villa,5.5,,240 m2,3.0,2008.0,,6833 Vacallo
+1917,"CHF1,450,000.–",Villa,6.0,,204 m2,,,,"Via al Colle 28, 6833 Vacallo"
+1918,"CHF5,500,000.–",Multi-family house,,,990 m2,,2019.0,,6833 Vacallo
+1919,"CHF3,800,000.–",Villa,7.5,,253 m2,,1979.0,,6947 Vaglio
+1920,"CHF1,280,000.–",Single house,5.5,,150 m2,2.0,1998.0,,6575 Vairano
+1921,"CHF2,450,000.–",Single house,14.0,,400 m2,,1912.0,2015.0,1337 Vallorbe
+1922,"CHF879,000.–",Row house,4.5,,140 m2,,2021.0,,3953 Varen
+1923,"CHF898,000.–",Row house,4.5,,140 m2,,2021.0,,3953 Varen
+1924,"CHF1,290,000.–",Villa,5.5,,210 m2,,2012.0,,6653 Verscio
+1925,"CHF12,900,000.–",Villa,9.0,,690 m2,4.0,1927.0,2010.0,1800 Vevey
+1926,"CHF640,000.–",Chalet,3.5,,160 m2,,2023.0,,"Route de Magrappé, 1993 Veysonnaz"
+1927,"CHF6,700,000.–",Villa,9.0,,450 m2,3.0,2000.0,,6921 Vico Morcote
+1928,"CHF1,590,000.–",Villa,6.0,,130 m2,,1981.0,,1029 Villars-Ste-Croix
+1929,"CHF1,800,000.–",Chalet,5.5,,145 m2,,2006.0,,1884 Villars-sur-Ollon
+1930,"CHF1,950,000.–",Single house,5.5,,153 m2,,,2022.0,6574 Vira
+1931,"CHF540,000.–",Row house,3.5,,70 m2,2.0,1802.0,,"Werkstrasse 17, 8636 Wald ZH"
+1932,"CHF399,000.–",Single house,4.5,,110 m2,3.0,,,"Hauptstrasse 17, 4317 Wegenstetten"
+1933,"CHF975,000.–",Single house,5.0,,126 m2,3.0,1981.0,,"Büntstrasse 16, 5430 Wettingen"
+1934,"CHF1,580,000.–",Single house,6.5,,142 m2,2.0,1962.0,,"Ursulaweg 36, 8404 Winterthur"
+1935,"CHF1,290,000.–",Bifamiliar house,5.5,,180 m2,,2020.0,,"Bodenmattstrasse, 4108 Witterswil"
+1936,"CHF690,000.–",Single house,3.5,,100 m2,,1900.0,,1853 Yvorne
+1937,"CHF1,520,000.–",Single house,6.5,,250 m2,,1982.0,1994.0,8355 Aadorf
+1938,"CHF4,000,000.–",Multi-family house,,,,4.0,1963.0,2021.0,"Morgentalstrasse 46, 8355 Aadorf"
+1939,"CHF1,500,000.–",Single house,7.5,GF,228 m2,,1990.0,,"Im Binz 3, 8357 Aadorf"
+1940,"CHF970,000.–",Bifamiliar house,5.5,,137 m2,3.0,1985.0,,"Schützenweg 8, 5000 Aarau"
+1941,"CHF1,950,000.–",Single house,8.5,,231 m2,3.0,1962.0,,5000 Aarau
+1942,"CHF2,250,000.–",Bifamiliar house,8.5,,270 m2,3.0,1924.0,,5000 Aarau
+1943,"CHF5,200,000.–",Villa,9.0,,350 m2,,,,5000 Aarau
+1944,"CHF1,350,000.–",Single house,5.5,,145 m2,3.0,2000.0,2020.0,5032 Aarau Rohr
+1945,"CHF1,580,000.–",Row house,,,258 m2,,1985.0,2016.0,5032 Aarau Rohr
+1946,"CHF570,000.–",Bifamiliar house,3.5,,74 m2,3.0,1923.0,,4663 Aarburg
+1947,"CHF1,500,000.–",Single house,7.5,GF,228 m2,,1990.0,,"Im Binz 3, 8357 Aadorf"
+1948,"CHF970,000.–",Bifamiliar house,5.5,,137 m2,3.0,1985.0,,"Schützenweg 8, 5000 Aarau"
+1949,"CHF1,950,000.–",Single house,8.5,,231 m2,3.0,1962.0,,5000 Aarau
+1950,"CHF2,250,000.–",Bifamiliar house,8.5,,270 m2,3.0,1924.0,,5000 Aarau
+1951,"CHF5,200,000.–",Villa,9.0,,350 m2,,,,5000 Aarau
+1952,"CHF1,350,000.–",Single house,5.5,,145 m2,3.0,2000.0,2020.0,5032 Aarau Rohr
+1953,"CHF1,580,000.–",Row house,,,258 m2,,1985.0,2016.0,5032 Aarau Rohr
+1954,"CHF570,000.–",Bifamiliar house,3.5,,74 m2,3.0,1923.0,,4663 Aarburg
+1955,"CHF790,000.–",Multi-family house,7.0,,152 m2,3.0,1924.0,,4663 Aarburg
+1956,"CHF850,000.–",Bifamiliar house,6.5,,128 m2,4.0,1927.0,2021.0,4663 Aarburg
+1957,"CHF895,000.–",Single house,4.5,,150 m2,,2022.0,,"Rindelstrasse 24, 4663 Aarburg"
+1958,"CHF1,235,000.–",Single house,5.5,,124 m2,,2022.0,,"Rindelstrasse 38, 4663 Aarburg"
+1959,"CHF1,250,000.–",Villa,8.0,,200 m2,2.0,1996.0,,"7120702, 4663 Aarburg"
+1960,"CHF1,349,000.–",Bifamiliar house,10.0,,260 m2,1.0,1989.0,2022.0,"Alte Zofingerstrasse 58, 4663 Aarburg"
+1961,"CHF1,799,000.–",Single house,7.5,,306 m2,3.0,1949.0,,4663 Aarburg
+1962,"CHF810,000.–",Bifamiliar house,5.5,,67 m2,,,2014.0,4912 Aarwangen
+1963,"CHF975,000.–",Single house,9.5,,198 m2,,1911.0,2021.0,"Mumenthalstrasse 23, 4912 Aarwangen"
+1964,"CHF975,000.–",Multi-family house,9.5,,198 m2,,1911.0,2021.0,"Mumenthalstrasse 23, 4912 Aarwangen"
+1965,"CHF990,000.–",Bifamiliar house,5.5,,155 m2,,1995.0,2021.0,4912 Aarwangen
+1966,"CHF1,430,000.–",Multi-family house,,,379 m2,3.0,,2022.0,4912 Aarwangen
+1967,"CHF75,000.–",Single house,6.0,,120 m2,,,,6716 Acquarossa
+1968,"CHF120,000.–",Rustico,5.0,,,3.0,,,6716 Acquarossa
+1969,"CHF150,000.–",Single house,12.0,,200 m2,,,,6716 Acquarossa
+1970,"CHF195,000.–",Single house,4.5,,120 m2,,,,6716 Acquarossa
+1971,"CHF275,000.–",Rustico,4.0,,68 m2,,1976.0,,6716 Acquarossa
+1972,"CHF395,000.–",Single house,5.5,,85 m2,3.0,1910.0,,6716 Acquarossa
+1973,"CHF950,000.–",Single house,7.0,,320 m2,2.0,1994.0,,6716 Acquarossa
+1974,"CHF1,900,000.–",Single house,7.5,,170 m2,,,,6716 Acquarossa
+1975,"CHF1,200,000.–",Single house,5.5,,164 m2,3.0,2001.0,,"Am Gässli 1, 8452 Adlikon"
+1976,"CHF1,985,000.–",Row house,6.5,,154 m2,3.0,1981.0,2021.0,"Rebrainstrasse 16, 8106 Adlikon ZH"
+1977,"CHF1,990,000.–",Single house,7.0,,185 m2,,2013.0,,"Büngertlistrasse 5, 8106 Adlikon b. Regensdorf"
+1978,"CHF2,870,000.–",Row house,5.5,,214 m2,2.0,,,"Rütistrasse 21, 8134 Adliswil"
+1979,"CHF5,800,000.–",Single house,,,,,1646.0,,8134 Adliswil
+1980,"CHF890,000.–",Single house,5.5,,137 m2,2.0,2003.0,2017.0,3426 Aefligen
+1981,"CHF1,450,000.–",Single house,4.5,,100 m2,2.0,1977.0,,4147 Aesch
+1982,"CHF2,560,000.–",Multi-family house,7.5,4,,,2022.0,,"Sankt Jakobstrasse, 4147 Aesch BL"
+1983,"CHF840,000.–",Single house,5.5,,125 m2,,1992.0,,"Vorderdorf 7, 6287 Aesch LU"
+1984,"CHF1,330,000.–",Single house,5.5,,170 m2,,2022.0,,"Staldenmatte 8, 3703 Aeschi b. Spiez"
+1985,"CHF1,330,000.–",Single house,5.5,,170 m2,,2022.0,,"Staldenmatte 8, 3703 Aeschi b. Spiez"
+1986,"CHF730,000.–",Bifamiliar house,5.5,,98 m2,3.0,1780.0,,"Käsereiweg 8, 3656 Aeschlen ob Gunten"
+1987,"CHF1,410,000.–",Single house,5.5,,196 m2,3.0,1998.0,2021.0,"Lättenstrasse 3, 8914 Aeugst am Albis"
+1988,"CHF990,000.–",Single house,7.5,,140 m2,3.0,1979.0,,"Bahnhofstrasse 25, 9556 Affeltrangen"
+1989,"CHF4,580,000.–",Multi-family house,29.0,,767 m2,5.0,2017.0,,"Hauptstrasse 8, 9556 Affeltrangen"
+1990,"CHF1,520,000.–",Row house,5.5,,133 m2,4.0,1987.0,,8909 Affoltern am Albis
+1991,"CHF3,000,000.–",Single house,6.5,,121 m2,3.0,1957.0,,"Sennweidstrasse 3, 8910 Affoltern am Albis"
+1992,"CHF380,000.–",Single house,4.0,,102 m2,,1900.0,,3951 Agarn
+1993,"CHF385,000.–",Row house,5.0,,168 m2,,1970.0,,"Agarn, 3951 Agarn"
+1994,"CHF110,000.–",Farm house,,,70 m2,,,,6597 Agarone
+1995,"CHF1,650,000.–",Single house,4.5,,,2.0,,1985.0,"Via Agarone 90, 6597 Agarone"
+1996,"CHF500,000.–",Single house,1.5,,,,,,1352 Agiez
+1997,"CHF770,000.–",Single house,2.0,,145 m2,,1850.0,2016.0,1352 Agiez
+1998,"CHF200,000.–",Single house,4.5,,,3.0,,,6982 Agno
+1999,"CHF220,000.–",Single house,6.0,,120 m2,3.0,1900.0,,6982 Agno
+2000,"CHF790,000.–",Single house,5.5,,128 m2,,,2013.0,6982 Agno
+2001,"CHF790,000.–",Single house,5.5,,219 m2,3.0,,2013.0,6982 Agno
+2002,"CHF980,000.–",Villa,3.5,,,,2020.0,,6982 Agno
+2003,"CHF990,000.–",Single house,6.5,,188 m2,,1989.0,,6982 Agno
+2004,"CHF990,000.–",Single house,4.5,,142 m2,2.0,2021.0,,6982 Agno
+2005,"CHF990,000.–",Single house,,,,,2021.0,,6982 Agno
+2006,"CHF1,290,000.–",Villa,4.5,,150 m2,,1973.0,,6982 Agno
+2007,"CHF1,460,000.–",Bifamiliar house,8.5,,256 m2,3.0,2007.0,,"Agno, 6982 Agno"
+2008,"CHF1,780,000.–",Villa,5.5,,151 m2,2.0,2010.0,,6982 Agno
+2009,"CHF2,300,000.–",Villa,7.5,,326 m2,3.0,1968.0,,6982 Agno
+2010,"CHF630,000.–",Single house,5.0,,105 m2,4.0,1964.0,,6927 Agra
+2011,"CHF920,000.–",Bifamiliar house,4.5,,110 m2,,1990.0,2019.0,6927 Agra
+2012,"CHF1,890,000.–",Villa,6.0,,235 m2,,,,"via collina d'oro, 6927 Agra"
+2013,"CHF1,890,000.–",Single house,5.5,,240 m2,3.0,2017.0,,"Via Municipio, 6927 Agra"
+2014,"CHF1,890,000.–",Single house,5.5,,242 m2,,2017.0,,6927 Agra
+2015,"CHF1,890,000.–",Villa,5.5,,,,2017.0,,6927 Agra
+2016,"CHF1,890,000.–",Single house,5.0,,242 m2,,2020.0,,"Agra, 6927 Agra"
+2017,"CHF1,890,000.–",Villa,4.5,,,,2017.0,,6927 Agra
+2018,"CHF2,600,000.–",Single house,12.0,,590 m2,,2022.0,,6927 Agra
+2019,"CHF5,400,000.–",Villa,6.5,,400 m2,3.0,,,6927 Agra
+2020,"CHF680,000.–",Single house,4.5,,104 m2,,1944.0,,"Chemin de Bellevue 18, 1860 Aigle"
+2021,"CHF1,199,000.–",Single house,5.5,,205 m2,,2003.0,,"Aigle, 1860 Aigle"
+2022,"CHF1,200,000.–",Villa,6.5,,211 m2,,1987.0,,"Aigle, 1860 Aigle"
+2023,"CHF2,150,000.–",Villa,8.5,,400 m2,3.0,1972.0,2005.0,1860 Aigle
+2024,"CHF4,200,000.–",Single house,9.0,,600 m2,,1985.0,2016.0,1860 Aigle
+2025,"CHF2,600,000.–",Single house,12.0,,590 m2,,2022.0,,6927 Agra
+2026,"CHF5,400,000.–",Villa,6.5,,400 m2,3.0,,,6927 Agra
+2027,"CHF680,000.–",Single house,4.5,,104 m2,,1944.0,,"Chemin de Bellevue 18, 1860 Aigle"
+2028,"CHF1,199,000.–",Single house,5.5,,205 m2,,2003.0,,"Aigle, 1860 Aigle"
+2029,"CHF1,200,000.–",Villa,6.5,,211 m2,,1987.0,,"Aigle, 1860 Aigle"
+2030,"CHF2,150,000.–",Villa,8.5,,400 m2,3.0,1972.0,2005.0,1860 Aigle
+2031,"CHF4,200,000.–",Single house,9.0,,600 m2,,1985.0,2016.0,1860 Aigle
+2032,"CHF4,200,000.–",Villa,9.0,,600 m2,,1985.0,2016.0,1860 Aigle
+2033,"CHF4,800,000.–",Single house,12.0,,,,,,1288 Aire-la-Ville
+2034,"CHF60,000.–",Single house,,,,,,,6780 Airolo
+2035,"CHF255,000.–",Single house,4.5,,100 m2,,1960.0,1990.0,6780 Airolo
+2036,"CHF325,000.–",Single house,5.5,,180 m2,,,,6780 Airolo
+2037,"CHF495,000.–",Single house,4.5,,160 m2,,2016.0,,6780 Airolo
+2038,"CHF550,000.–",Multi-family house,10.0,,260 m2,,,,6780 Airolo
+2039,"CHF680,000.–",Single house,7.5,,164 m2,,1960.0,,6780 Airolo
+2040,"CHF690,000.–",Multi-family house,10.5,,250 m2,,,,6780 Airolo
+2041,"CHF690,000.–",Multi-family house,,,250 m2,,,,6780 Airolo
+2042,"CHF740,000.–",Multi-family house,,,160 m2,5.0,1938.0,2014.0,"Via poncione e Vespero 34, 6780 Airolo"
+2043,"CHF795,000.–",Single house,5.0,,218 m2,3.0,1877.0,,1669 Albeuve
+2044,"CHF795,000.–",Single house,4.5,,173 m2,,1877.0,2019.0,1669 Albeuve
+2045,"CHF795,000.–",Multi-family house,4.5,,173 m2,,1877.0,2019.0,1669 Albeuve
+2046,"CHF1,100,000.–",Single house,6.5,,193 m2,,1876.0,,"Rue Jean-Marie Musy 66, 1669 Albeuve"
+2047,"CHF1,180,000.–",Single house,9.0,,298 m2,,1876.0,2014.0,1669 Albeuve
+2048,"CHF365,000.–",Chalet,2.5,,50 m2,2.0,,2017.0,3955 Albinen
+2049,"CHF790,000.–",Multi-family house,,,,,1877.0,,3955 Albinen
+2050,"CHF1,790,000.–",Villa,7.5,,300 m2,3.0,,,6974 Aldesago
+2051,"CHF2,500,000.–",Villa,,,242 m2,,1962.0,2003.0,6974 Aldesago
+2052,"CHF3,800,000.–",Villa,,,260 m2,,,,6974 Aldesago
+2053,"CHF4,350,000.–",Villa,6.5,,320 m2,2.0,2000.0,2004.0,6974 Aldesago
+2054,"CHF6,050,000.–",Villa,7.5,,442 m2,3.0,2016.0,,"Via Rava 2, 6974 Aldesago"
+2055,"CHF4,100,000.–",Single house,7.5,,258 m2,,1960.0,2016.0,1165 Allaman
+2056,"CHF4,100,000.–",Single house,7.5,,288 m2,,1960.0,2017.0,1165 Allaman
+2057,"CHF199,000.–",Single house,5.5,2,130 m2,,,2004.0,2942 Alle
+2058,"CHF199,000.–",Single house,4.0,,,,,,2942 Alle
+2059,"CHF297,000.–",Single house,4.5,,,,,,2942 Alle
+2060,"CHF340,000.–",Single house,8.0,,180 m2,,1900.0,2012.0,2942 Alle
+2061,"CHF495,000.–",Villa,5.0,,180 m2,,1850.0,2020.0,2942 Alle
+2062,"CHF693,000.–",Single house,5.5,,160 m2,,2021.0,,"sur les vies de Bâle, 2942 Alle"
+2063,"CHF795,000.–",Terrace house,,,175 m2,,2021.0,,"MONTAGNE D'ALLE, 2942 Alle"
+2064,"CHF798,000.–",Single house,5.5,,169 m2,,2020.0,,2942 Alle
+2065,"CHF860,000.–",Villa,5.0,,,,,,2942 Alle
+2066,"CHF1,350,000.–",Single house,5.5,,136 m2,,1985.0,,"Allmendingen b. Bern, 3112 Allmendingen b. Bern"
+2067,"CHF1,975,000.–",Multi-family house,8.5,,215 m2,3.0,1951.0,2009.0,3112 Allmendingen b. Bern
+2068,"CHF450,000.–",Single house,6.5,,170 m2,2.0,1970.0,,4123 Allschwil
+2069,"CHF1,529,000.–",Single house,5.5,,158 m2,,2007.0,,"Bettenstrasse 42b, 4123 Allschwil"
+2070,"CHF1,540,000.–",Bifamiliar house,5.5,,155 m2,,1977.0,2007.0,"Allschwil, 4123 Allschwil"
+2071,"CHF1,600,000.–",Single house,9.0,,200 m2,5.0,1928.0,,"Saturnstrasse 47, 4123 Allschwil"
+2072,"CHF1,600,000.–",Multi-family house,,,,5.0,1928.0,,"Saturnstrasse 47, 4123 Allschwil"
+2073,"CHF2,140,000.–",Single house,9.5,,300 m2,3.0,1923.0,2008.0,4123 Allschwil
+2074,"CHF495,000.–",Villa,5.0,,180 m2,,1850.0,2020.0,2942 Alle
+2075,"CHF693,000.–",Single house,5.5,,160 m2,,2021.0,,"sur les vies de Bâle, 2942 Alle"
+2076,"CHF795,000.–",Terrace house,,,175 m2,,2021.0,,"MONTAGNE D'ALLE, 2942 Alle"
+2077,"CHF798,000.–",Single house,5.5,,169 m2,,2020.0,,2942 Alle
+2078,"CHF860,000.–",Villa,5.0,,,,,,2942 Alle
+2079,"CHF1,350,000.–",Single house,5.5,,136 m2,,1985.0,,"Allmendingen b. Bern, 3112 Allmendingen b. Bern"
+2080,"CHF1,975,000.–",Multi-family house,8.5,,215 m2,3.0,1951.0,2009.0,3112 Allmendingen b. Bern
+2081,"CHF450,000.–",Single house,6.5,,170 m2,2.0,1970.0,,4123 Allschwil
+2082,"CHF1,529,000.–",Single house,5.5,,158 m2,,2007.0,,"Bettenstrasse 42b, 4123 Allschwil"
+2083,"CHF1,540,000.–",Bifamiliar house,5.5,,155 m2,,1977.0,2007.0,"Allschwil, 4123 Allschwil"
+2084,"CHF1,600,000.–",Single house,9.0,,200 m2,5.0,1928.0,,"Saturnstrasse 47, 4123 Allschwil"
+2085,"CHF1,600,000.–",Multi-family house,,,,5.0,1928.0,,"Saturnstrasse 47, 4123 Allschwil"
+2086,"CHF2,140,000.–",Single house,9.5,,300 m2,3.0,1923.0,2008.0,4123 Allschwil
+2087,"CHF1,400,000.–",Bifamiliar house,8.0,,453 m2,,1906.0,,"Alt St. Johann, 9656 Alt St. Johann"
+2088,"CHF1,620,000.–",Single house,5.5,GF,187 m2,1.0,2020.0,,6460 Altdorf UR
+2089,"CHF1,950,000.–",Single house,13.5,,289 m2,3.0,1957.0,,6460 Altdorf UR
+2090,"CHF1,950,000.–",Multi-family house,13.5,,289 m2,3.0,1957.0,,6460 Altdorf UR
+2091,"CHF1,170,000.–",Single house,5.5,,130 m2,3.0,2003.0,,"Oberdorfstrasse 9, 8479 Altikon"
+2092,"CHF1,200,000.–",Single house,5.5,,170 m2,,1985.0,,8573 Altishausen
+2093,"CHF480,000.–",Bifamiliar house,6.5,,150 m2,3.0,1900.0,,"Arosio di Sopra, 6939 Alto Malcantone"
+2094,"CHF650,500.–",Single house,,,,,,,"Mugena, 6939 Alto Malcantone"
+2095,"CHF1,040,000.–",Multi-family house,,,,5.0,1919.0,,"Obergasse 15, 9450 Altstätten"
+2096,"CHF2,200,000.–",Multi-family house,,,379 m2,3.0,1920.0,,"Kugelgasse 22, 9450 Altstätten"
+2097,"CHF380,000.–",Single house,,,121 m2,,1920.0,,"G.J. Baumgartnerstrasse 16, 9450 Altstätten SG"
+2098,"CHF450,000.–",Row house,4.5,,100 m2,,1920.0,,"Bahnhofstrasse 36, 9450 Altstätten SG"
+2099,"CHF820,000.–",Single house,3.5,,120 m2,,1940.0,2019.0,"Mühlackerweg 19, 9450 Altstätten SG"
+2100,"CHF1,275,000.–",Single house,7.5,,162 m2,,,2019.0,9450 Altstätten SG
+2101,"CHF1,275,000.–",Single house,7.5,,162 m2,,1972.0,2017.0,"Harztannenstrasse, 9450 Altstätten SG"
+2102,"CHF1,350,000.–",Farm house,8.5,,195 m2,,1600.0,,"Ebenacker 2, 9450 Altstätten SG"
+2103,"CHF1,590,000.–",Single house,6.5,,141 m2,,1966.0,,"Forsthaldenweg 8, 9450 Altstätten SG"
+2104,"CHF2,400,200.–",Multi-family house,,,364 m2,,,,9450 Altstätten SG
+2105,"CHF235,000.–",Row house,4.5,,100 m2,,,,6775 Ambrì
+2106,"CHF980,000.–",Single house,4.5,,100 m2,,,,6775 Ambrì
+2107,"CHF990,000.–",Chalet,4.5,,267 m2,3.0,1980.0,,"Ahornstrasse 7, 8873 Amden"
+2108,"CHF955,000.–",Single house,9.5,,166 m2,,1933.0,,"Lehn 17, 3257 Ammerzwil BE"
+2109,"CHF480,000.–",Row house,4.0,,90 m2,,1900.0,2017.0,"Niederaacherstrasse 6, 8580 Amriswil"
+2110,"CHF1,150,000.–",Single house,4.5,,,,1968.0,,8580 Amriswil
+2111,"CHF2,800,000.–",Single house,,,490 m2,,2016.0,,"Amriswil, 8580 Amriswil"
+2112,"CHF990,000.–",Chalet,4.5,,267 m2,3.0,1980.0,,"Ahornstrasse 7, 8873 Amden"
+2113,"CHF955,000.–",Single house,9.5,,166 m2,,1933.0,,"Lehn 17, 3257 Ammerzwil BE"
+2114,"CHF480,000.–",Row house,4.0,,90 m2,,1900.0,2017.0,"Niederaacherstrasse 6, 8580 Amriswil"
+2115,"CHF1,150,000.–",Single house,4.5,,,,1968.0,,8580 Amriswil
+2116,"CHF2,800,000.–",Single house,,,490 m2,,2016.0,,"Amriswil, 8580 Amriswil"
+2117,"CHF6,930,000.–",Multi-family house,,,,,1983.0,,"Poststrasse 27A, 8580 Amriswil"
+2118,"CHF1,199,000.–",Single house,7.5,,220 m2,,1991.0,2022.0,"Grund 5, 6474 Amsteg"
+2119,"CHF975,000.–",Single house,9.5,,206 m2,3.0,1982.0,2004.0,7440 Andeer
+2120,CHF600.–,Multi-family house,,,,,,,"Oberalpstrasse, 6490 Andermatt"
+2121,"CHF1,450,000.–",Farm house,5.0,,140 m2,,,,"Lenzenhaus 20, 8586 Andwil"
+2122,"CHF1,295,000.–",Single house,6.5,,177 m2,,2001.0,,"Brügistrasse 14, 5611 Anglikon"
+2123,"CHF1,990,000.–",Villa,5.0,,140 m2,,2003.0,,1247 Anières
+2124,"CHF1,990,000.–",Single house,5.0,,140 m2,,2003.0,,1247 Anières
+2125,"CHF2,000,000.–",Single house,10.0,,350 m2,3.0,1850.0,1990.0,1247 Anières
+2126,"CHF3,400,000.–",Single house,8.0,1,232 m2,,1965.0,2013.0,1247 Anières
+2127,"CHF3,400,000.–",Single house,8.0,2,232 m2,,1965.0,2013.0,1247 Anières
+2128,"CHF3,400,000.–",Single house,8.0,,232 m2,,1966.0,2013.0,1247 Anières
+2129,"CHF3,400,000.–",Single house,8.0,,232 m2,,1965.0,2013.0,1247 Anières
+2130,"CHF3,400,000.–",Single house,8.0,,232 m2,,,,1247 Anières
+2131,"CHF3,950,000.–",Single house,,,184 m2,,,,1247 Anières
+2132,"CHF4,950,000.–",Single house,8.0,,260 m2,,1945.0,2002.0,1247 Anières
+2133,"CHF4,990,000.–",Single house,7.0,,250 m2,3.0,1930.0,1996.0,1247 Anières
+2134,"CHF4,990,000.–",Single house,7.0,,250 m2,,1930.0,2000.0,1247 Anières
+2135,"CHF5,000,000.–",Single house,9.0,,250 m2,,,,1247 Anières
+2136,"CHF5,000,000.–",Single house,,,,,,,1247 Anières
+2137,"CHF5,200,000.–",Single house,10.0,,550 m2,4.0,1831.0,,1247 Anières
+2138,"CHF5,200,000.–",Single house,10.0,,550 m2,,1831.0,2019.0,1247 Anières
+2139,"CHF5,450,000.–",Single house,8.0,,265 m2,,,,1247 Anières
+2140,"CHF5,550,000.–",Single house,12.0,,380 m2,,1960.0,2018.0,1247 Anières
+2141,"CHF6,390,000.–",Single house,8.0,,290 m2,,1979.0,2018.0,1247 Anières
+2142,"CHF6,390,000.–",Single house,6.0,,270 m2,,1979.0,2018.0,1247 Anières
+2143,"CHF8,100,000.–",Villa,9.0,,310 m2,3.0,2012.0,,1247 Anières
+2144,"CHF15,500,000.–",Single house,12.0,,714 m2,,2005.0,,1247 Anières
+2145,"CHF18,500,000.–",Villa,,,450 m2,,,,1247 Anières
+2146,"CHF1,940,000.–",Chalet,5.0,,220 m2,3.0,2013.0,2013.0,3961 Anniviers
+2147,"CHF55,000.–",Single house,3.5,,60 m2,,,,6748 Anzonico
+2148,"CHF85,000.–",Single house,3.5,,80 m2,,,,6748 Anzonico
+2149,"CHF95,000.–",Single house,3.5,,90 m2,,,,6748 Anzonico
+2150,"CHF95,000.–",Single house,3.5,,60 m2,,,,6748 Anzonico
+2151,"CHF1,940,000.–",Chalet,5.0,,220 m2,3.0,2013.0,2013.0,3961 Anniviers
+2152,"CHF55,000.–",Single house,3.5,,60 m2,,,,6748 Anzonico
+2153,"CHF85,000.–",Single house,3.5,,80 m2,,,,6748 Anzonico
+2154,"CHF95,000.–",Single house,3.5,,90 m2,,,,6748 Anzonico
+2155,"CHF95,000.–",Single house,3.5,,60 m2,,,,6748 Anzonico
+2156,"CHF110,000.–",Single house,4.5,,100 m2,,,,6748 Anzonico
+2157,"CHF125,000.–",Chalet,3.5,3,36 m2,,,,6748 Anzonico
+2158,"CHF125,000.–",Single house,3.0,,40 m2,,,,6748 Anzonico
+2159,"CHF140,000.–",Single house,4.5,,75 m2,,,,6748 Anzonico
+2160,"CHF145,000.–",Single house,6.5,,120 m2,,,,6748 Anzonico
+2161,"CHF300,000.–",Single house,6.5,,120 m2,,,,6748 Anzonico
+2162,"CHF720,000.–",Chalet,5.5,,120 m2,,,,1972 Anzère
+2163,"CHF720,000.–",Single house,5.0,,130 m2,2.0,,,1972 Anzère
+2164,"CHF995,000.–",Chalet,6.5,,137 m2,,1992.0,,1972 Anzère
+2165,"CHF1,000,000.–",Single house,6.0,,200 m2,2.0,1992.0,,1972 Anzère
+2166,"CHF1,300,000.–",Chalet,6.0,,270 m2,,,2010.0,1972 Anzère
+2167,"CHF1,500,000.–",Chalet,5.5,,200 m2,,2002.0,,1972 Anzère
+2168,"CHF1,595,000.–",Chalet,6.5,2,188 m2,,,2009.0,"Rue du Chamossaire 13, 1972 Anzère"
+2169,"CHF3,250,000.–",Chalet,6.0,,277 m2,,,2020.0,1972 Anzère
+2170,"CHF3,450,000.–",Chalet,9.0,,242 m2,,2017.0,,1972 Anzère
+2171,"CHF3,800,000.–",Single house,5.5,,213 m2,4.0,,,"Brenden 34, 9050 Appenzell"
+2172,"CHF1,340,000.–",Bifamiliar house,7.0,,153 m2,,2002.0,,1143 Apples
+2173,"CHF2,280,000.–",Row house,10.0,,,,1968.0,,1143 Apples
+2174,"CHF4,550,000.–",Multi-family house,18.0,,683 m2,,1830.0,2019.0,1143 Apples
+2175,"CHF695,000.–",Bifamiliar house,4.5,,144 m2,2.0,,,"A Aproz, 1994 Aproz"
+2176,"CHF699,000.–",Single house,5.5,,156 m2,,2022.0,,"Rue des Îles 26 (Villa Eucalyptus), 1994 Aproz"
+2177,"CHF699,000.–",Single house,5.5,,156 m2,,2022.0,,"Rue des Îles 26 (Villa Sycomore), 1994 Aproz"
+2178,"CHF655,000.–",Villa,5.5,,145 m2,,2022.0,,"impasse Bord'Eau, 1994 Aproz (Nendaz)"
+2179,"CHF695,000.–",Villa,5.5,,155 m2,,,,1994 Aproz (Nendaz)
+2180,"CHF695,000.–",Bifamiliar house,4.5,,144 m2,,2022.0,,1994 Aproz (Nendaz)
+2181,"CHF695,000.–",Bifamiliar house,4.5,,144 m2,,2022.0,,1994 Aproz (Nendaz)
+2182,"CHF695,000.–",Bifamiliar house,4.5,,144 m2,,2022.0,,1994 Aproz (Nendaz)
+2183,"CHF695,000.–",Row house,4.5,,144 m2,,2022.0,,1994 Aproz (Nendaz)
+2184,"CHF695,000.–",Bifamiliar house,4.5,,144 m2,,2022.0,,1994 Aproz (Nendaz)
+2185,"CHF695,000.–",Bifamiliar house,4.5,,144 m2,,2022.0,,1994 Aproz (Nendaz)
